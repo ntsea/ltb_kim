@@ -41761,6 +41761,111 @@
       "kim_rating": "1.3.1",
       "url": "https://kids-in-mind.com/s/spongebob-movie-search-for-squarepants-parents-guide-movie-review-rating.htm",
       "title": "The SpongeBob Movie: Search for SquarePants"
+    },
+    "tt33244668": {
+      "imdb_id": "tt33244668",
+      "imdb_rating": "6.1",
+      "kim_rating": "1.7.5",
+      "url": "https://kids-in-mind.com/a/anaconda-parents-guide-movie-review-rating.htm",
+      "title": "Anaconda"
+    },
+    "tt15181326": {
+      "imdb_id": "tt15181326",
+      "imdb_rating": "7.0",
+      "kim_rating": "1.4.10",
+      "url": "https://kids-in-mind.com/d/dead-mans-wire-parents-guide-movie-review-rating.htm",
+      "title": "Dead Man’s Wire"
+    },
+    "tt14850054": {
+      "imdb_id": "tt14850054",
+      "imdb_rating": "5.8",
+      "kim_rating": "1.6.4",
+      "url": "https://kids-in-mind.com/g/greenland-2-migration-parents-guide-movie-review-rating.htm",
+      "title": "Greenland 2: Migration"
+    },
+    "tt28083456": {
+      "imdb_id": "tt28083456",
+      "imdb_rating": "7.0",
+      "kim_rating": "5.3.10",
+      "url": "https://kids-in-mind.com/i/is-this-thing-on-parents-guide-movie-review-rating.htm",
+      "title": "Is This Thing On?"
+    },
+    "tt21272942": {
+      "imdb_id": "tt21272942",
+      "imdb_rating": "9.3",
+      "kim_rating": "1.7.4",
+      "url": "https://kids-in-mind.com/i/i-was-a-stranger-parents-guide-movie-review-rating.htm",
+      "title": "I Was a Stranger"
+    },
+    "tt33028778": {
+      "imdb_id": "tt33028778",
+      "imdb_rating": "N/A",
+      "kim_rating": "3.9.6",
+      "url": "https://kids-in-mind.com/p/primate-parents-guide-movie-review-rating.htm",
+      "title": "Primate"
+    },
+    "tt32141377": {
+      "imdb_id": "tt32141377",
+      "imdb_rating": "N/A",
+      "kim_rating": "7.10.9",
+      "url": "https://kids-in-mind.com/t/28-years-later-the-bone-temple-parents-guide-movie-review-rating.htm",
+      "title": "28 Years Later: The Bone Temple"
+    },
+    "tt31851518": {
+      "imdb_id": "tt31851518",
+      "imdb_rating": "6.5",
+      "kim_rating": "6.4.5",
+      "url": "https://kids-in-mind.com/c/choral-parents-guide-movie-review-rating.htm",
+      "title": "The Choral"
+    },
+    "tt31050594": {
+      "imdb_id": "tt31050594",
+      "imdb_rating": "N/A",
+      "kim_rating": "2.5.4",
+      "url": "https://kids-in-mind.com/m/mercy-parents-guide-movie-review-rating.htm",
+      "title": "Mercy"
+    },
+    "tt1527793": {
+      "imdb_id": "tt1527793",
+      "imdb_rating": "7.5",
+      "kim_rating": "5.7.6",
+      "url": "https://kids-in-mind.com/n/no-other-choice-parents-guide-movie-review-rating.htm",
+      "title": "No Other Choice"
+    },
+    "tt26530493": {
+      "imdb_id": "tt26530493",
+      "imdb_rating": "6.6",
+      "kim_rating": "1.3.1",
+      "url": "https://kids-in-mind.com/b/buffalo-kids-parents-guide-movie-review-rating.htm",
+      "title": "Buffalo Kids"
+    },
+    "tt35291758": {
+      "imdb_id": "tt35291758",
+      "imdb_rating": "N/A",
+      "kim_rating": "1.3.1",
+      "url": "https://kids-in-mind.com/m/melania-parents-guide-movie-review-rating.htm",
+      "title": "Melania"
+    },
+    "tt8036976": {
+      "imdb_id": "tt8036976",
+      "imdb_rating": "7.2",
+      "kim_rating": "3.7.7",
+      "url": "https://kids-in-mind.com/s/send-help-parents-guide-movie-review-rating.htm",
+      "title": "Send Help"
+    },
+    "tt32357218": {
+      "imdb_id": "tt32357218",
+      "imdb_rating": "N/A",
+      "kim_rating": "1.7.5",
+      "url": "https://kids-in-mind.com/s/shelter-parents-guide-movie-review-rating.htm",
+      "title": "Shelter"
+    },
+    "tt32306991": {
+      "imdb_id": "tt32306991",
+      "imdb_rating": "N/A",
+      "kim_rating": "3.3.2",
+      "url": "https://kids-in-mind.com/s/solo-mio-parents-guide-movie-review-rating.htm",
+      "title": "Solo Mio"
     }
   },
   "by_title": {
@@ -43011,10 +43116,10 @@
       "title": "Amy"
     },
     "anaconda": {
-      "imdb_id": "tt0118615",
-      "imdb_rating": "4.9",
-      "kim_rating": "4.8.5",
-      "url": "https://kids-in-mind.com/a/anaconda_1997__485.htm",
+      "imdb_id": "tt33244668",
+      "imdb_rating": "6.1",
+      "kim_rating": "1.7.5",
+      "url": "https://kids-in-mind.com/a/anaconda-parents-guide-movie-review-rating.htm",
       "title": "Anaconda"
     },
     "anacondas: the hunt for the blood orchid": {
@@ -84526,6 +84631,104 @@
       "kim_rating": "1.3.1",
       "url": "https://kids-in-mind.com/s/spongebob-movie-search-for-squarepants-parents-guide-movie-review-rating.htm",
       "title": "The SpongeBob Movie: Search for SquarePants"
+    },
+    "dead man’s wire": {
+      "imdb_id": "tt15181326",
+      "imdb_rating": "7.0",
+      "kim_rating": "1.4.10",
+      "url": "https://kids-in-mind.com/d/dead-mans-wire-parents-guide-movie-review-rating.htm",
+      "title": "Dead Man’s Wire"
+    },
+    "greenland 2: migration": {
+      "imdb_id": "tt14850054",
+      "imdb_rating": "5.8",
+      "kim_rating": "1.6.4",
+      "url": "https://kids-in-mind.com/g/greenland-2-migration-parents-guide-movie-review-rating.htm",
+      "title": "Greenland 2: Migration"
+    },
+    "is this thing on?": {
+      "imdb_id": "tt28083456",
+      "imdb_rating": "7.0",
+      "kim_rating": "5.3.10",
+      "url": "https://kids-in-mind.com/i/is-this-thing-on-parents-guide-movie-review-rating.htm",
+      "title": "Is This Thing On?"
+    },
+    "i was a stranger": {
+      "imdb_id": "tt21272942",
+      "imdb_rating": "9.3",
+      "kim_rating": "1.7.4",
+      "url": "https://kids-in-mind.com/i/i-was-a-stranger-parents-guide-movie-review-rating.htm",
+      "title": "I Was a Stranger"
+    },
+    "primate": {
+      "imdb_id": "tt33028778",
+      "imdb_rating": "N/A",
+      "kim_rating": "3.9.6",
+      "url": "https://kids-in-mind.com/p/primate-parents-guide-movie-review-rating.htm",
+      "title": "Primate"
+    },
+    "28 years later: the bone temple": {
+      "imdb_id": "tt32141377",
+      "imdb_rating": "N/A",
+      "kim_rating": "7.10.9",
+      "url": "https://kids-in-mind.com/t/28-years-later-the-bone-temple-parents-guide-movie-review-rating.htm",
+      "title": "28 Years Later: The Bone Temple"
+    },
+    "the choral": {
+      "imdb_id": "tt31851518",
+      "imdb_rating": "6.5",
+      "kim_rating": "6.4.5",
+      "url": "https://kids-in-mind.com/c/choral-parents-guide-movie-review-rating.htm",
+      "title": "The Choral"
+    },
+    "mercy": {
+      "imdb_id": "tt31050594",
+      "imdb_rating": "N/A",
+      "kim_rating": "2.5.4",
+      "url": "https://kids-in-mind.com/m/mercy-parents-guide-movie-review-rating.htm",
+      "title": "Mercy"
+    },
+    "no other choice": {
+      "imdb_id": "tt1527793",
+      "imdb_rating": "7.5",
+      "kim_rating": "5.7.6",
+      "url": "https://kids-in-mind.com/n/no-other-choice-parents-guide-movie-review-rating.htm",
+      "title": "No Other Choice"
+    },
+    "buffalo kids": {
+      "imdb_id": "tt26530493",
+      "imdb_rating": "6.6",
+      "kim_rating": "1.3.1",
+      "url": "https://kids-in-mind.com/b/buffalo-kids-parents-guide-movie-review-rating.htm",
+      "title": "Buffalo Kids"
+    },
+    "melania": {
+      "imdb_id": "tt35291758",
+      "imdb_rating": "N/A",
+      "kim_rating": "1.3.1",
+      "url": "https://kids-in-mind.com/m/melania-parents-guide-movie-review-rating.htm",
+      "title": "Melania"
+    },
+    "send help": {
+      "imdb_id": "tt8036976",
+      "imdb_rating": "7.2",
+      "kim_rating": "3.7.7",
+      "url": "https://kids-in-mind.com/s/send-help-parents-guide-movie-review-rating.htm",
+      "title": "Send Help"
+    },
+    "shelter": {
+      "imdb_id": "tt32357218",
+      "imdb_rating": "N/A",
+      "kim_rating": "1.7.5",
+      "url": "https://kids-in-mind.com/s/shelter-parents-guide-movie-review-rating.htm",
+      "title": "Shelter"
+    },
+    "solo mio": {
+      "imdb_id": "tt32306991",
+      "imdb_rating": "N/A",
+      "kim_rating": "3.3.2",
+      "url": "https://kids-in-mind.com/s/solo-mio-parents-guide-movie-review-rating.htm",
+      "title": "Solo Mio"
     }
   }
 }
