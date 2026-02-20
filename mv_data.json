@@ -287,12 +287,12 @@
       "url": "https://kids-in-mind.com/a/adventuresofplutonash.htm",
       "title": "The Adventures of Pluto Nash"
     },
-    "N/A": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
-      "kim_rating": "4.6.6",
-      "url": "https://kids-in-mind.com/w/with_a_friend_like_harry_2001.htm",
-      "title": "With A Friend Like Harry"
+    "tt0131704": {
+      "imdb_id": "tt0131704",
+      "imdb_rating": "4.3",
+      "kim_rating": "2.4.2",
+      "url": "https://kids-in-mind.com/a/adventures_of_rockybullwinkle.htm",
+      "title": "The Adventures of Rocky and Bullwinkle"
     },
     "tt0424774": {
       "imdb_id": "tt0424774",
@@ -321,6 +321,13 @@
       "kim_rating": "1.4.1",
       "url": "https://kids-in-mind.com/a/aeronauts-parents-guide-movie-review-rating.htm",
       "title": "The Aeronauts"
+    },
+    "tt0118564": {
+      "imdb_id": "tt0118564",
+      "imdb_rating": "6.9",
+      "kim_rating": "2.8.8",
+      "url": "https://kids-in-mind.com/a/affliction_1998__288.htm",
+      "title": "Affliction"
     },
     "tt24577462": {
       "imdb_id": "tt24577462",
@@ -504,6 +511,13 @@
       "url": "https://kids-in-mind.com/a/alamo.htm",
       "title": "The Alamo"
     },
+    "tt0118577": {
+      "imdb_id": "tt0118577",
+      "imdb_rating": "3.5",
+      "kim_rating": "5.3.10",
+      "url": "https://kids-in-mind.com/a/alan_smithee_film_1998__5310.htm",
+      "title": "An Alan Smithee Film: Burn Hollywood Burn"
+    },
     "tt0115493": {
       "imdb_id": "tt0115493",
       "imdb_rating": "5.7",
@@ -524,6 +538,13 @@
       "kim_rating": "6.3.5",
       "url": "https://kids-in-mind.com/a/albertnobbs.htm",
       "title": "Albert Nobbs"
+    },
+    "tt0318283": {
+      "imdb_id": "tt0318283",
+      "imdb_rating": "5.5",
+      "kim_rating": "6.3.3",
+      "url": "https://kids-in-mind.com/a/alexandemma.htm",
+      "title": "Alex and Emma"
     },
     "tt0346491": {
       "imdb_id": "tt0346491",
@@ -609,6 +630,13 @@
       "url": "https://kids-in-mind.com/a/aliensofthedeep.htm",
       "title": "Aliens of the Deep"
     },
+    "tt0078748": {
+      "imdb_id": "tt0078748",
+      "imdb_rating": "8.5",
+      "kim_rating": "3.8.5",
+      "url": "https://kids-in-mind.com/a/alienthedirectorscut.htm",
+      "title": "Alien: The Director's Cut"
+    },
     "tt0349773": {
       "imdb_id": "tt0349773",
       "imdb_rating": "6.6",
@@ -671,6 +699,13 @@
       "kim_rating": "6.7.10",
       "url": "https://kids-in-mind.com/a/all-day-and-a-night-parents-guide-movie-review-rating.htm",
       "title": "All Day and a Night"
+    },
+    "tt0115509": {
+      "imdb_id": "tt0115509",
+      "imdb_rating": "5.5",
+      "kim_rating": "0.2.0",
+      "url": "https://kids-in-mind.com/a/all_dogs_go_to_heaven_ii_1996__020.htm",
+      "title": "All Dogs Go to Heaven II"
     },
     "tt1666185": {
       "imdb_id": "tt1666185",
@@ -1148,6 +1183,13 @@
       "url": "https://kids-in-mind.com/a/americas_sweethearts_2001.htm",
       "title": "America's Sweethearts"
     },
+    "tt0118607": {
+      "imdb_id": "tt0118607",
+      "imdb_rating": "7.3",
+      "kim_rating": "5.5.1",
+      "url": "https://kids-in-mind.com/a/amistad_1998__551.htm",
+      "title": "Amistad"
+    },
     "tt0384806": {
       "imdb_id": "tt0384806",
       "imdb_rating": "5.9",
@@ -1161,6 +1203,20 @@
       "kim_rating": "8.3.5",
       "url": "https://kids-in-mind.com/a/ammonite-parents-guide-movie-review-rating.htm",
       "title": "Ammonite"
+    },
+    "tt0106264": {
+      "imdb_id": "tt0106264",
+      "imdb_rating": "5.5",
+      "kim_rating": "3.4.7",
+      "url": "https://kids-in-mind.com/a/amongst_friends_1994__347.htm",
+      "title": "Amongst Friends"
+    },
+    "tt0106266": {
+      "imdb_id": "tt0106266",
+      "imdb_rating": "5.7",
+      "kim_rating": "1.3.4",
+      "url": "https://kids-in-mind.com/a/amos_and_andrew_1993__134.htm",
+      "title": "Amos and Andrew"
     },
     "tt1602620": {
       "imdb_id": "tt1602620",
@@ -1588,6 +1644,13 @@
       "kim_rating": "4.2.3",
       "url": "https://kids-in-mind.com/a/anywherebuthere99.htm",
       "title": "Anywhere But Here"
+    },
+    "tt0078788": {
+      "imdb_id": "tt0078788",
+      "imdb_rating": "8.4",
+      "kim_rating": "7.9.10",
+      "url": "https://kids-in-mind.com/a/apocalypse_now_redux_2001.htm",
+      "title": "Apocalypse Now Redux"
     },
     "tt0472043": {
       "imdb_id": "tt0472043",
@@ -2184,6 +2247,13 @@
       "url": "https://kids-in-mind.com/a/autumn_in_new_york_2000.htm",
       "title": "Autumn in New York"
     },
+    "tt0137439": {
+      "imdb_id": "tt0137439",
+      "imdb_rating": "7.4",
+      "kim_rating": "2.1.1",
+      "url": "https://kids-in-mind.com/a/autumntale99.htm",
+      "title": "Autumn Tale"
+    },
     "tt8784956": {
       "imdb_id": "tt8784956",
       "imdb_rating": "5.5",
@@ -2695,6 +2765,13 @@
       "url": "https://kids-in-mind.com/b/banshees-of-inisherin-parents-guide-movie-review-rating.htm",
       "title": "The Banshees of Inisherin"
     },
+    "tt0118663": {
+      "imdb_id": "tt0118663",
+      "imdb_rating": "4.9",
+      "kim_rating": "2.2.5",
+      "url": "https://kids-in-mind.com/b/baps_1997__225.htm",
+      "title": "B.A.P.S."
+    },
     "tt3797512": {
       "imdb_id": "tt3797512",
       "imdb_rating": "6.3",
@@ -2750,6 +2827,13 @@
       "kim_rating": "5.8.7",
       "url": "https://kids-in-mind.com/b/barb_wire_1996__587.htm",
       "title": "Barb Wire"
+    },
+    "tt0120598": {
+      "imdb_id": "tt0120598",
+      "imdb_rating": "3.3",
+      "kim_rating": "0.1.0",
+      "url": "https://kids-in-mind.com/b/barneys_great_adventure.htm",
+      "title": "Barney's Great Adventure: The Movie"
     },
     "tt0414853": {
       "imdb_id": "tt0414853",
@@ -2807,6 +2891,13 @@
       "url": "https://kids-in-mind.com/b/batman-parents-guide-movie-review-rating.htm",
       "title": "The Batman"
     },
+    "tt0118688": {
+      "imdb_id": "tt0118688",
+      "imdb_rating": "3.8",
+      "kim_rating": "2.5.3",
+      "url": "https://kids-in-mind.com/b/batman_and_robin_1997__253.htm",
+      "title": "Batman and Robin"
+    },
     "tt0372784": {
       "imdb_id": "tt0372784",
       "imdb_rating": "8.2",
@@ -2820,6 +2911,13 @@
       "kim_rating": "2.5.2",
       "url": "https://kids-in-mind.com/b/batman_forever_1995__252.htm",
       "title": "Batman Forever"
+    },
+    "tt0106364": {
+      "imdb_id": "tt0106364",
+      "imdb_rating": "7.8",
+      "kim_rating": "1.4.0",
+      "url": "https://kids-in-mind.com/b/batman_mask_of_the_phantasm_.htm",
+      "title": "Batman: Mask of the Phantasm"
     },
     "tt0103776": {
       "imdb_id": "tt0103776",
@@ -3143,6 +3241,13 @@
       "url": "https://kids-in-mind.com/b/beethoven_1992__020.htm",
       "title": "Beethoven"
     },
+    "tt0106375": {
+      "imdb_id": "tt0106375",
+      "imdb_rating": "5.0",
+      "kim_rating": "1.1.0",
+      "url": "https://kids-in-mind.com/b/beethovens_2nd_1994__110.htm",
+      "title": "Beethoven's 2nd"
+    },
     "tt2049403": {
       "imdb_id": "tt2049403",
       "imdb_rating": "6.6",
@@ -3381,6 +3486,13 @@
       "url": "https://kids-in-mind.com/b/bernie.htm",
       "title": "Bernie"
     },
+    "tt0149723": {
+      "imdb_id": "tt0149723",
+      "imdb_rating": "6.8",
+      "kim_rating": "5.2.0",
+      "url": "https://kids-in-mind.com/b/besieged99.htm",
+      "title": "Besieged"
+    },
     "tt7038762": {
       "imdb_id": "tt7038762",
       "imdb_rating": "4.4",
@@ -3436,6 +3548,13 @@
       "kim_rating": "5.6.5",
       "url": "https://kids-in-mind.com/b/bestofme.htm",
       "title": "The Best of Me"
+    },
+    "tt0106393": {
+      "imdb_id": "tt0106393",
+      "imdb_rating": "5.6",
+      "kim_rating": "1.7.5",
+      "url": "https://kids-in-mind.com/b/best_of_the_best_2_1993__175.htm",
+      "title": "Best of the Best 2"
     },
     "tt0346336": {
       "imdb_id": "tt0346336",
@@ -3660,6 +3779,13 @@
       "kim_rating": "4.6.9",
       "url": "https://kids-in-mind.com/b/big_hit_1998__469.htm",
       "title": "The Big Hit"
+    },
+    "tt0189584": {
+      "imdb_id": "tt0189584",
+      "imdb_rating": "6.5",
+      "kim_rating": "2.1.6",
+      "url": "https://kids-in-mind.com/b/big_kahuna.htm",
+      "title": "The Big Kahuna"
     },
     "tt0118715": {
       "imdb_id": "tt0118715",
@@ -4235,6 +4361,13 @@
       "url": "https://kids-in-mind.com/b/blingring.htm",
       "title": "The Bling Ring"
     },
+    "tt0109297": {
+      "imdb_id": "tt0109297",
+      "imdb_rating": "6.2",
+      "kim_rating": "5.7.7",
+      "url": "https://kids-in-mind.com/b/blink_1994__577.htm",
+      "title": "Blink"
+    },
     "tt14858658": {
       "imdb_id": "tt14858658",
       "imdb_rating": "6.5",
@@ -4283,6 +4416,13 @@
       "kim_rating": "5.6.5",
       "url": "https://kids-in-mind.com/b/bloodshot-parents-guide-movie-review-rating.htm",
       "title": "Bloodshot"
+    },
+    "tt0086979": {
+      "imdb_id": "tt0086979",
+      "imdb_rating": "7.5",
+      "kim_rating": "4.7.6",
+      "url": "https://kids-in-mind.com/b/blood_simple_directors_cut_.htm",
+      "title": "Blood Simple - Director's Cut"
     },
     "tt0309377": {
       "imdb_id": "tt0309377",
@@ -4395,6 +4535,13 @@
       "kim_rating": "8.4.8",
       "url": "https://kids-in-mind.com/b/bluevalentine.htm",
       "title": "Blue Valentine"
+    },
+    "tt0285462": {
+      "imdb_id": "tt0285462",
+      "imdb_rating": "4.9",
+      "kim_rating": "8.3.6",
+      "url": "https://kids-in-mind.com/b/boattrip.htm",
+      "title": "Boat Trip"
     },
     "tt0308055": {
       "imdb_id": "tt0308055",
@@ -4675,6 +4822,13 @@
       "kim_rating": "6.4.2",
       "url": "https://kids-in-mind.com/b/borrowedidentity.htm",
       "title": "A Borrowed Identity"
+    },
+    "tt0118755": {
+      "imdb_id": "tt0118755",
+      "imdb_rating": "5.9",
+      "kim_rating": "0.3.1",
+      "url": "https://kids-in-mind.com/b/borrowers_1998__031.htm",
+      "title": "The Borrowers"
     },
     "tt2702724": {
       "imdb_id": "tt2702724",
@@ -4979,7 +5133,7 @@
     },
     "tt10381102": {
       "imdb_id": "tt10381102",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.5",
       "kim_rating": "3.5.5",
       "url": "https://kids-in-mind.com/b/brave-the-dark-parents-guide-movie-review-rating.htm",
       "title": "Brave the Dark"
@@ -4990,6 +5144,13 @@
       "kim_rating": "6.4.5",
       "url": "https://kids-in-mind.com/b/breach.htm",
       "title": "Breach"
+    },
+    "tt0281680": {
+      "imdb_id": "tt0281680",
+      "imdb_rating": "6.5",
+      "kim_rating": "4.3.5",
+      "url": "https://kids-in-mind.com/w/../../b/breadmysweet.htm",
+      "title": "The Bread, My Sweet (aka A Wedding for Bella)"
     },
     "tt0118771": {
       "imdb_id": "tt0118771",
@@ -5313,6 +5474,13 @@
       "url": "https://kids-in-mind.com/b/brotherbear.htm",
       "title": "Brother Bear"
     },
+    "tt0237534": {
+      "imdb_id": "tt0237534",
+      "imdb_rating": "7.0",
+      "kim_rating": "7.9.3",
+      "url": "https://kids-in-mind.com/b/brotherhoodofthewolf_2002.htm",
+      "title": "Brotherhood of the Wolf"
+    },
     "tt0765010": {
       "imdb_id": "tt0765010",
       "imdb_rating": "7.1",
@@ -5424,6 +5592,13 @@
       "kim_rating": "1.2.0",
       "url": "https://kids-in-mind.com/b/buddy_1997__120.htm",
       "title": "Buddy"
+    },
+    "tt0252299": {
+      "imdb_id": "tt0252299",
+      "imdb_rating": "6.7",
+      "kim_rating": "6.7.10",
+      "url": "https://kids-in-mind.com/b/buffalosoldiers.htm",
+      "title": "Buffalo Soldiers"
     },
     "tt0103893": {
       "imdb_id": "tt0103893",
@@ -5557,6 +5732,13 @@
       "kim_rating": "6.4.6",
       "url": "https://kids-in-mind.com/b/butter.htm",
       "title": "Butter"
+    },
+    "tt0329485": {
+      "imdb_id": "tt0329485",
+      "imdb_rating": "7.1",
+      "kim_rating": "1.3.1",
+      "url": "https://kids-in-mind.com/b/butterfly.htm",
+      "title": "The Butterfly  (Le Papillon)"
     },
     "tt0289879": {
       "imdb_id": "tt0289879",
@@ -6062,6 +6244,13 @@
       "url": "https://kids-in-mind.com/c/cats-parents-guide-movie-review-rating.htm",
       "title": "Cats"
     },
+    "tt0239395": {
+      "imdb_id": "tt0239395",
+      "imdb_rating": "5.2",
+      "kim_rating": "0.4.3",
+      "url": "https://kids-in-mind.com/c/cats_and_dogs_2001.htm",
+      "title": "Cats and Dogs"
+    },
     "tt1287468": {
       "imdb_id": "tt1287468",
       "imdb_rating": "4.4",
@@ -6075,6 +6264,13 @@
       "kim_rating": "0.1.0",
       "url": "https://kids-in-mind.com/c/cats_dont_dance_1997__010.htm",
       "title": "Cats Don't Dance"
+    },
+    "tt0266391": {
+      "imdb_id": "tt0266391",
+      "imdb_rating": "6.4",
+      "kim_rating": "5.3.5",
+      "url": "https://kids-in-mind.com/c/catsmeow.htm",
+      "title": "The Cat's Meow"
     },
     "tt0327554": {
       "imdb_id": "tt0327554",
@@ -6251,6 +6447,13 @@
       "url": "https://kids-in-mind.com/c/chaos-walking-parents-guide-movie-review-rating.htm",
       "title": "Chaos Walking"
     },
+    "tt0103939": {
+      "imdb_id": "tt0103939",
+      "imdb_rating": "7.5",
+      "kim_rating": "3.0.2",
+      "url": "https://kids-in-mind.com/c/chaplin_1993__302.htm",
+      "title": "Chaplin"
+    },
     "tt5270948": {
       "imdb_id": "tt5270948",
       "imdb_rating": "6.4",
@@ -6313,6 +6516,13 @@
       "kim_rating": "6.5.8",
       "url": "https://kids-in-mind.com/c/charliewilsonswar.htm",
       "title": "Charlie Wilson's War"
+    },
+    "tt0245046": {
+      "imdb_id": "tt0245046",
+      "imdb_rating": "6.4",
+      "kim_rating": "4.5.5",
+      "url": "https://kids-in-mind.com/c/charlotte_gray_2002.htm",
+      "title": "Charlotte Gray"
     },
     "tt0413895": {
       "imdb_id": "tt0413895",
@@ -6762,6 +6972,13 @@
       "url": "https://kids-in-mind.com/c/cityofember.htm",
       "title": "City of Ember"
     },
+    "tt0164003": {
+      "imdb_id": "tt0164003",
+      "imdb_rating": "5.9",
+      "kim_rating": "4.7.7",
+      "url": "https://kids-in-mind.com/c/cityofghosts.htm",
+      "title": "City of Ghosts"
+    },
     "tt0118859": {
       "imdb_id": "tt0118859",
       "imdb_rating": "6.1",
@@ -6957,6 +7174,13 @@
       "kim_rating": "8.4.8",
       "url": "https://kids-in-mind.com/c/closer.htm",
       "title": "Closer"
+    },
+    "tt0218112": {
+      "imdb_id": "tt0218112",
+      "imdb_rating": "6.2",
+      "kim_rating": "4.1.5",
+      "url": "https://kids-in-mind.com/c/closer_you_get_2000.htm",
+      "title": "The Closer You Get"
     },
     "tt0243493": {
       "imdb_id": "tt0243493",
@@ -7531,6 +7755,13 @@
       "kim_rating": "0.2.2",
       "url": "https://kids-in-mind.com/c/cool_runnings_1993__022.htm",
       "title": "Cool Runnings"
+    },
+    "tt0106613": {
+      "imdb_id": "tt0106613",
+      "imdb_rating": "4.2",
+      "kim_rating": "1.3.2",
+      "url": "https://kids-in-mind.com/c/cop_and_a_half_1993__132.htm",
+      "title": "Cop and a Half"
     },
     "tt3813310": {
       "imdb_id": "tt3813310",
@@ -8267,6 +8498,13 @@
       "url": "https://kids-in-mind.com/d/dangerous-animals-parents-guide-movie-review-rating.htm",
       "title": "Dangerous Animals"
     },
+    "tt0106660": {
+      "imdb_id": "tt0106660",
+      "imdb_rating": "5.6",
+      "kim_rating": "8.6.10",
+      "url": "https://kids-in-mind.com/d/dangerous_game_1994__8610.htm",
+      "title": "Dangerous Game"
+    },
     "tt10183816": {
       "imdb_id": "tt10183816",
       "imdb_rating": "5.4",
@@ -8336,6 +8574,13 @@
       "kim_rating": "6.5.6",
       "url": "https://kids-in-mind.com/d/darjeelinglimited.htm",
       "title": "The Darjeeling Limited"
+    },
+    "tt0279331": {
+      "imdb_id": "tt0279331",
+      "imdb_rating": "6.6",
+      "kim_rating": "5.7.10",
+      "url": "https://kids-in-mind.com/d/darkblue.htm",
+      "title": "Dark Blue"
     },
     "tt0118929": {
       "imdb_id": "tt0118929",
@@ -8491,6 +8736,13 @@
       "url": "https://kids-in-mind.com/d/datenight.htm",
       "title": "Date Night"
     },
+    "tt0104057": {
+      "imdb_id": "tt0104057",
+      "imdb_rating": "6.6",
+      "kim_rating": "2.0.0",
+      "url": "https://kids-in-mind.com/d/daughters_of_the_dust_1992__200.htm",
+      "title": "Daughters of the Dust"
+    },
     "tt0106673": {
       "imdb_id": "tt0106673",
       "imdb_rating": "6.9",
@@ -8624,6 +8876,13 @@
       "url": "https://kids-in-mind.com/d/dead_man_on_campus_1998__446.htm",
       "title": "Dead Man On Campus"
     },
+    "tt0112818": {
+      "imdb_id": "tt0112818",
+      "imdb_rating": "7.5",
+      "kim_rating": "3.6.6",
+      "url": "https://kids-in-mind.com/d/dead_man_walking_1996__366.htm",
+      "title": "Dead Man Walking"
+    },
     "tt7574556": {
       "imdb_id": "tt7574556",
       "imdb_rating": "6.6",
@@ -8700,6 +8959,13 @@
       "kim_rating": "6.4.4",
       "url": "https://kids-in-mind.com/d/dearjohn.htm",
       "title": "Dear John"
+    },
+    "tt0109579": {
+      "imdb_id": "tt0109579",
+      "imdb_rating": "7.2",
+      "kim_rating": "5.8.8",
+      "url": "https://kids-in-mind.com/d/death_and_the_maiden_1995__588.htm",
+      "title": "Death and the Maiden"
     },
     "tt0795368": {
       "imdb_id": "tt0795368",
@@ -8792,6 +9058,13 @@
       "url": "https://kids-in-mind.com/d/debt.htm",
       "title": "The Debt"
     },
+    "tt0119527": {
+      "imdb_id": "tt0119527",
+      "imdb_rating": "6.4",
+      "kim_rating": "4.7.7",
+      "url": "https://kids-in-mind.com/d/deceiver_1998__477.htm",
+      "title": "Deceiver"
+    },
     "tt0800240": {
       "imdb_id": "tt0800240",
       "imdb_rating": "6.0",
@@ -8882,6 +9155,13 @@
       "kim_rating": "5.3.4",
       "url": "https://kids-in-mind.com/d/definitelymaybe.htm",
       "title": "Definitely, Maybe"
+    },
+    "tt0119326": {
+      "imdb_id": "tt0119326",
+      "imdb_rating": "5.3",
+      "kim_rating": "8.1.8",
+      "url": "https://kids-in-mind.com/d/def_jams_how_to_be_a_player_.htm",
+      "title": "Def Jam's How to Be a Player"
     },
     "tt0453467": {
       "imdb_id": "tt0453467",
@@ -9296,6 +9576,13 @@
       "url": "https://kids-in-mind.com/d/diggers.htm",
       "title": "Diggers"
     },
+    "tt0118980": {
+      "imdb_id": "tt0118980",
+      "imdb_rating": "6.7",
+      "kim_rating": "2.2.0",
+      "url": "https://kids-in-mind.com/d/digging_to_china_1998.htm",
+      "title": "Digging to China"
+    },
     "tt0259974": {
       "imdb_id": "tt0259974",
       "imdb_rating": "6.1",
@@ -9358,6 +9645,13 @@
       "kim_rating": "8.4.7",
       "url": "https://kids-in-mind.com/d/dirtylove.htm",
       "title": "Dirty Love"
+    },
+    "tt0301199": {
+      "imdb_id": "tt0301199",
+      "imdb_rating": "7.2",
+      "kim_rating": "6.5.6",
+      "url": "https://kids-in-mind.com/d/dirtyprettythings.htm",
+      "title": "Dirty Pretty Things"
     },
     "tt3521126": {
       "imdb_id": "tt3521126",
@@ -9646,6 +9940,13 @@
       "url": "https://kids-in-mind.com/d/donjon.htm",
       "title": "Don Jon"
     },
+    "tt0112883": {
+      "imdb_id": "tt0112883",
+      "imdb_rating": "6.7",
+      "kim_rating": "4.2.2",
+      "url": "https://kids-in-mind.com/d/don_juan_demarco_1995__422.htm",
+      "title": "Don Juan Demarco"
+    },
     "tt0119008": {
       "imdb_id": "tt0119008",
       "imdb_rating": "7.7",
@@ -9659,6 +9960,13 @@
       "kim_rating": "1.8.3",
       "url": "https://kids-in-mind.com/d/dontbeafraidofthedark.htm",
       "title": "Don't Be Afraid of the Dark"
+    },
+    "tt0116126": {
+      "imdb_id": "tt0116126",
+      "imdb_rating": "6.5",
+      "kim_rating": "5.5.10",
+      "url": "https://kids-in-mind.com/d/dontbeamenace.htm",
+      "title": "Don't Be a Menace in South Central While Drinking Your Juice in the Hood"
     },
     "tt4160708": {
       "imdb_id": "tt4160708",
@@ -9855,6 +10163,13 @@
       "kim_rating": "5.3.5",
       "url": "https://kids-in-mind.com/d/downtoyou2000.htm",
       "title": "Down to You"
+    },
+    "tt0309530": {
+      "imdb_id": "tt0309530",
+      "imdb_rating": "6.3",
+      "kim_rating": "6.3.4",
+      "url": "https://kids-in-mind.com/d/downwithlove.htm",
+      "title": "Down with Love"
     },
     "tt4056738": {
       "imdb_id": "tt4056738",
@@ -10087,6 +10402,13 @@
       "url": "https://kids-in-mind.com/d/dr-birds-advice-to-sad-poets-parents-guide-movie-review-rating.htm",
       "title": "Dr. Bird’s Advice to Sad Poets"
     },
+    "tt0118998": {
+      "imdb_id": "tt0118998",
+      "imdb_rating": "5.4",
+      "kim_rating": "2.3.2",
+      "url": "https://kids-in-mind.com/d/dr_dolittle_1998__232.htm",
+      "title": "Dr. Dolittle"
+    },
     "tt0240462": {
       "imdb_id": "tt0240462",
       "imdb_rating": "4.7",
@@ -10114,6 +10436,13 @@
       "kim_rating": "0.3.1",
       "url": "https://kids-in-mind.com/d/drseusshortonhearsawho.htm",
       "title": "Dr. Seuss' Horton Hears a Who"
+    },
+    "tt0312528": {
+      "imdb_id": "tt0312528",
+      "imdb_rating": "4.2",
+      "kim_rating": "3.3.2",
+      "url": "https://kids-in-mind.com/d/drseussthecatinthehat.htm",
+      "title": "Dr. Seuss' The Cat in the Hat"
     },
     "tt1482459": {
       "imdb_id": "tt1482459",
@@ -10254,6 +10583,13 @@
       "kim_rating": "2.6.5",
       "url": "https://kids-in-mind.com/d/dune-part-two-parents-guide-movie-review-rating.htm",
       "title": "Dune: Part Two"
+    },
+    "tt0190374": {
+      "imdb_id": "tt0190374",
+      "imdb_rating": "3.7",
+      "kim_rating": "1.6.2",
+      "url": "https://kids-in-mind.com/d/dungeons_and_dragons_2000.htm",
+      "title": "Dungeons and Dragons"
     },
     "tt2906216": {
       "imdb_id": "tt2906216",
@@ -10479,6 +10815,13 @@
       "url": "https://kids-in-mind.com/e/education.htm",
       "title": "An Education"
     },
+    "tt0101798": {
+      "imdb_id": "tt0101798",
+      "imdb_rating": "6.8",
+      "kim_rating": "9.7.2",
+      "url": "https://kids-in-mind.com/e/edward_ii_1992__972.htm",
+      "title": "Edward II"
+    },
     "tt0109707": {
       "imdb_id": "tt0109707",
       "imdb_rating": "7.8",
@@ -10499,6 +10842,13 @@
       "kim_rating": "2.4.1",
       "url": "https://kids-in-mind.com/e/eightbelow.htm",
       "title": "Eight Below"
+    },
+    "tt0271263": {
+      "imdb_id": "tt0271263",
+      "imdb_rating": "5.3",
+      "kim_rating": "4.4.4",
+      "url": "https://kids-in-mind.com/e/8crazynights.htm",
+      "title": "8 Crazy Nights"
     },
     "tt0118541": {
       "imdb_id": "tt0118541",
@@ -10738,6 +11088,13 @@
       "url": "https://kids-in-mind.com/e/emperorsclub.htm",
       "title": "Emperor's Club"
     },
+    "tt0282768": {
+      "imdb_id": "tt0282768",
+      "imdb_rating": "6.8",
+      "kim_rating": "2.2.1",
+      "url": "https://kids-in-mind.com/e/emperorsnewclothes.htm",
+      "title": "The Emperor's New Clothes"
+    },
     "tt0120917": {
       "imdb_id": "tt0120917",
       "imdb_rating": "7.4",
@@ -10779,6 +11136,13 @@
       "kim_rating": "3.2.1",
       "url": "https://kids-in-mind.com/e/enchanted.htm",
       "title": "Enchanted"
+    },
+    "tt0101811": {
+      "imdb_id": "tt0101811",
+      "imdb_rating": "7.3",
+      "kim_rating": "1.0.0",
+      "url": "https://kids-in-mind.com/e/enchanted_april_1992__100.htm",
+      "title": "Enchanted April"
     },
     "tt0104187": {
       "imdb_id": "tt0104187",
@@ -10856,6 +11220,13 @@
       "kim_rating": "5.8.10",
       "url": "https://kids-in-mind.com/e/endofwatch.htm",
       "title": "End of Watch"
+    },
+    "tt0120659": {
+      "imdb_id": "tt0120659",
+      "imdb_rating": "6.3",
+      "kim_rating": "0.2.0",
+      "url": "https://kids-in-mind.com/e/endurance99.htm",
+      "title": "Endurance"
     },
     "tt0215750": {
       "imdb_id": "tt0215750",
@@ -11081,6 +11452,13 @@
       "url": "https://kids-in-mind.com/e/eternity-parents-guide-movie-review-rating.htm",
       "title": "Eternity"
     },
+    "tt0106833": {
+      "imdb_id": "tt0106833",
+      "imdb_rating": "6.3",
+      "kim_rating": "3.2.0",
+      "url": "https://kids-in-mind.com/e/ethan_frome_1993__320.htm",
+      "title": "Ethan Frome"
+    },
     "tt0083866": {
       "imdb_id": "tt0083866",
       "imdb_rating": "7.9",
@@ -11108,6 +11486,13 @@
       "kim_rating": "2.2.3",
       "url": "https://kids-in-mind.com/e/evanalmighty.htm",
       "title": "Evan Almighty"
+    },
+    "tt0106834": {
+      "imdb_id": "tt0106834",
+      "imdb_rating": "4.3",
+      "kim_rating": "6.3.6",
+      "url": "https://kids-in-mind.com/e/even_cowgirls_get_the_blues_.htm",
+      "title": "Even Cowgirls Get the Blues"
     },
     "tt0765447": {
       "imdb_id": "tt0765447",
@@ -11564,6 +11949,13 @@
       "url": "https://kids-in-mind.com/f/fair-play-parents-guide-movie-review-rating.htm",
       "title": "Fair Play"
     },
+    "tt0119095": {
+      "imdb_id": "tt0119095",
+      "imdb_rating": "6.5",
+      "kim_rating": "0.2.2",
+      "url": "https://kids-in-mind.com/f/fairy_tale_a_true_story_1997__0.htm",
+      "title": "Fairy Tale: A True Story"
+    },
     "tt0116269": {
       "imdb_id": "tt0116269",
       "imdb_rating": "5.8",
@@ -11703,6 +12095,13 @@
       "kim_rating": "1.5.9",
       "url": "https://kids-in-mind.com/f/fan_1996__159.htm",
       "title": "The Fan"
+    },
+    "tt0120910": {
+      "imdb_id": "tt0120910",
+      "imdb_rating": "7.1",
+      "kim_rating": "1.3.0",
+      "url": "https://kids-in-mind.com/f/fantasia_2000_99.htm",
+      "title": "Fantasia 2000"
     },
     "tt3183660": {
       "imdb_id": "tt3183660",
@@ -12012,6 +12411,13 @@
       "url": "https://kids-in-mind.com/f/fear_1996__688.htm",
       "title": "Fear"
     },
+    "tt0295254": {
+      "imdb_id": "tt0295254",
+      "imdb_rating": "3.4",
+      "kim_rating": "5.8.6",
+      "url": "https://kids-in-mind.com/f/feardotcom.htm",
+      "title": "fear dot com"
+    },
     "tt0106881": {
       "imdb_id": "tt0106881",
       "imdb_rating": "7.1",
@@ -12025,6 +12431,13 @@
       "kim_rating": "1.3.2",
       "url": "https://kids-in-mind.com/f/fearless-parents-guide-movie-review-rating.htm",
       "title": "Fearless"
+    },
+    "tt0106880": {
+      "imdb_id": "tt0106880",
+      "imdb_rating": "7.2",
+      "kim_rating": "3.3.10",
+      "url": "https://kids-in-mind.com/f/fear_of_a_black_hat_1994__3310.htm",
+      "title": "Fear of a Black Hat"
     },
     "tt10037014": {
       "imdb_id": "tt10037014",
@@ -12130,6 +12543,13 @@
       "kim_rating": "4.4.5",
       "url": "https://kids-in-mind.com/f/fierce_creatures_1997__445.htm",
       "title": "Fierce Creatures"
+    },
+    "tt0179626": {
+      "imdb_id": "tt0179626",
+      "imdb_rating": "6.1",
+      "kim_rating": "6.9.10",
+      "url": "https://kids-in-mind.com/f/fifteen_minutes_2001.htm",
+      "title": "Fifteen Minutes"
     },
     "tt11185940": {
       "imdb_id": "tt11185940",
@@ -12915,6 +13335,13 @@
       "url": "https://kids-in-mind.com/f/forge-parents-guide-movie-review-rating.htm",
       "title": "The Forge"
     },
+    "tt0113097": {
+      "imdb_id": "tt0113097",
+      "imdb_rating": "6.5",
+      "kim_rating": "3.2.3",
+      "url": "https://kids-in-mind.com/f/forget_paris_1995__323.htm",
+      "title": "Forget Paris"
+    },
     "tt0800039": {
       "imdb_id": "tt0800039",
       "imdb_rating": "7.1",
@@ -12950,6 +13377,13 @@
       "url": "https://kids-in-mind.com/f/for_love_or_money_1993__303.htm",
       "title": "For Love or Money"
     },
+    "tt0227984": {
+      "imdb_id": "tt0227984",
+      "imdb_rating": "6.3",
+      "kim_rating": "6.8.10",
+      "url": "https://kids-in-mind.com/f/formula51.htm",
+      "title": "Formula 51"
+    },
     "tt0109830": {
       "imdb_id": "tt0109830",
       "imdb_rating": "8.8",
@@ -12970,6 +13404,13 @@
       "kim_rating": "9.10.10",
       "url": "https://kids-in-mind.com/f/forsaken_the_2001.htm",
       "title": "The Forsaken"
+    },
+    "tt0106950": {
+      "imdb_id": "tt0106950",
+      "imdb_rating": "5.9",
+      "kim_rating": "7.7.6",
+      "url": "https://kids-in-mind.com/f/fortress_1993__776.htm",
+      "title": "Fortress"
     },
     "tt0243736": {
       "imdb_id": "tt0243736",
@@ -13692,6 +14133,13 @@
       "url": "https://kids-in-mind.com/g/gang_related_1997__4710.htm",
       "title": "Gang Related"
     },
+    "tt0217505": {
+      "imdb_id": "tt0217505",
+      "imdb_rating": "7.5",
+      "kim_rating": "7.9.5",
+      "url": "https://kids-in-mind.com/g/gangsofnewyork.htm",
+      "title": "The Gangs of New York"
+    },
     "tt1321870": {
       "imdb_id": "tt1321870",
       "imdb_rating": "6.7",
@@ -13726,6 +14174,13 @@
       "kim_rating": "1.3.1",
       "url": "https://kids-in-mind.com/g/garfield-movie-parents-guide-movie-review-rating.htm",
       "title": "The Garfield Movie"
+    },
+    "tt0305438": {
+      "imdb_id": "tt0305438",
+      "imdb_rating": "6.3",
+      "kim_rating": "5.4.9",
+      "url": "https://kids-in-mind.com/g/garmento.htm",
+      "title": "Garmento"
     },
     "tt0119177": {
       "imdb_id": "tt0119177",
@@ -13958,6 +14413,13 @@
       "url": "https://kids-in-mind.com/g/ghost_dog_99.htm",
       "title": "Ghost Dog: The Way of the Samurai"
     },
+    "tt0107009": {
+      "imdb_id": "tt0107009",
+      "imdb_rating": "4.7",
+      "kim_rating": "2.6.3",
+      "url": "https://kids-in-mind.com/g/ghost_in_the_machine_1994__263.htm",
+      "title": "Ghost in the Machine"
+    },
     "tt1219827": {
       "imdb_id": "tt1219827",
       "imdb_rating": "6.3",
@@ -14006,6 +14468,13 @@
       "kim_rating": "4.9.8",
       "url": "https://kids-in-mind.com/g/ghosts_of_mars_2001.htm",
       "title": "Ghosts of Mars"
+    },
+    "tt0116410": {
+      "imdb_id": "tt0116410",
+      "imdb_rating": "6.7",
+      "kim_rating": "1.3.4",
+      "url": "https://kids-in-mind.com/g/ghosts_of_mississippi_1997__134.htm",
+      "title": "Ghosts of Mississippi"
     },
     "tt6508228": {
       "imdb_id": "tt6508228",
@@ -14427,6 +14896,13 @@
       "url": "https://kids-in-mind.com/g/godzilla-minus-one-parents-guide-movie-review-rating.htm",
       "title": "Godzilla Minus One"
     },
+    "tt0188640": {
+      "imdb_id": "tt0188640",
+      "imdb_rating": "6.0",
+      "kim_rating": "0.5.4",
+      "url": "https://kids-in-mind.com/g/godzilla_2000.htm",
+      "title": "Godzilla 2000"
+    },
     "tt5034838": {
       "imdb_id": "tt5034838",
       "imdb_rating": "6.3",
@@ -14475,6 +14951,13 @@
       "kim_rating": "1.6.7",
       "url": "https://kids-in-mind.com/g/gold-parents-guide-movie-review-rating.htm",
       "title": "Gold"
+    },
+    "tt0113188": {
+      "imdb_id": "tt0113188",
+      "imdb_rating": "6.0",
+      "kim_rating": "0.2.3",
+      "url": "https://kids-in-mind.com/g/golddiggers.htm",
+      "title": "Golddiggers: The Secret of Bear Mountain"
     },
     "tt0385752": {
       "imdb_id": "tt0385752",
@@ -14580,6 +15063,13 @@
       "kim_rating": "2.3.1",
       "url": "https://kids-in-mind.com/g/goodbyechristopherrobin.htm",
       "title": "Goodbye Christopher Robin"
+    },
+    "tt0119219": {
+      "imdb_id": "tt0119219",
+      "imdb_rating": "5.6",
+      "kim_rating": "7.6.10",
+      "url": "https://kids-in-mind.com/g/goodbye_lover_1999__7610.htm",
+      "title": "Goodbye Lover"
     },
     "tt1606378": {
       "imdb_id": "tt1606378",
@@ -14762,6 +15252,13 @@
       "kim_rating": "1.4.1",
       "url": "https://kids-in-mind.com/g/goosebumps-2-haunted-halloween-parents-guide-movie-review-rating.htm",
       "title": "Goosebumps 2: Haunted Halloween"
+    },
+    "tt0113199": {
+      "imdb_id": "tt0113199",
+      "imdb_rating": "3.9",
+      "kim_rating": "1.2.0",
+      "url": "https://kids-in-mind.com/g/gordy_1995__120.htm",
+      "title": "Gordy"
     },
     "tt0280707": {
       "imdb_id": "tt0280707",
@@ -15064,6 +15561,13 @@
       "url": "https://kids-in-mind.com/g/greyhound-parents-guide-movie-review-rating.htm",
       "title": "Greyhound"
     },
+    "tt0252480": {
+      "imdb_id": "tt0252480",
+      "imdb_rating": "7.0",
+      "kim_rating": "6.7.9",
+      "url": "https://kids-in-mind.com/g/greyzone.htm",
+      "title": "The Grey Zone"
+    },
     "tt0421206": {
       "imdb_id": "tt0421206",
       "imdb_rating": "6.9",
@@ -15190,6 +15694,13 @@
       "url": "https://kids-in-mind.com/g/grumpier_old_men_1995.htm",
       "title": "Grumpier Old Men"
     },
+    "tt0107050": {
+      "imdb_id": "tt0107050",
+      "imdb_rating": "7.0",
+      "kim_rating": "2.1.3",
+      "url": "https://kids-in-mind.com/g/grumpy_old_men_1994__213.htm",
+      "title": "Grumpy Old Men"
+    },
     "tt0406816": {
       "imdb_id": "tt0406816",
       "imdb_rating": "6.9",
@@ -15294,6 +15805,13 @@
       "kim_rating": "6.7.8",
       "url": "https://kids-in-mind.com/g/gunman.htm",
       "title": "The Gunman"
+    },
+    "tt0109959": {
+      "imdb_id": "tt0109959",
+      "imdb_rating": "5.3",
+      "kim_rating": "4.6.6",
+      "url": "https://kids-in-mind.com/g/gunmen_1994__466.htm",
+      "title": "Gunmen"
     },
     "tt8368408": {
       "imdb_id": "tt8368408",
@@ -15526,6 +16044,13 @@
       "url": "https://kids-in-mind.com/h/hannibalrising.htm",
       "title": "Hannibal Rising"
     },
+    "tt0111419": {
+      "imdb_id": "tt0111419",
+      "imdb_rating": "6.3",
+      "kim_rating": "0.2.0",
+      "url": "https://kids-in-mind.com/h/hans_christian_andersen.htm",
+      "title": "Hans Christian Andersen's Thumbelina"
+    },
     "tt1428538": {
       "imdb_id": "tt1428538",
       "imdb_rating": "6.1",
@@ -15701,6 +16226,13 @@
       "url": "https://kids-in-mind.com/h/hard_target_1993__296.htm",
       "title": "Hard Target"
     },
+    "tt0280490": {
+      "imdb_id": "tt0280490",
+      "imdb_rating": "6.0",
+      "kim_rating": "7.7.10",
+      "url": "https://kids-in-mind.com/h/hardword.htm",
+      "title": "The Hard Word"
+    },
     "tt0481536": {
       "imdb_id": "tt0481536",
       "imdb_rating": "6.5",
@@ -15735,6 +16267,13 @@
       "kim_rating": "0.1.2",
       "url": "https://kids-in-mind.com/h/harriet_the_spy_1996__012.htm",
       "title": "Harriet the Spy"
+    },
+    "tt0315600": {
+      "imdb_id": "tt0315600",
+      "imdb_rating": "6.2",
+      "kim_rating": "5.8.10",
+      "url": "https://kids-in-mind.com/h/harrisonsflowers.htm",
+      "title": "Harrison's Flowers"
     },
     "tt0390080": {
       "imdb_id": "tt0390080",
@@ -15988,6 +16527,13 @@
       "url": "https://kids-in-mind.com/h/heat2013.htm",
       "title": "The Heat"
     },
+    "tt0111423": {
+      "imdb_id": "tt0111423",
+      "imdb_rating": "6.1",
+      "kim_rating": "5.7.5",
+      "url": "https://kids-in-mind.com/h/heaven__earth_1994__575.htm",
+      "title": "Heaven & Earth"
+    },
     "tt1929263": {
       "imdb_id": "tt1929263",
       "imdb_rating": "5.9",
@@ -16051,6 +16597,13 @@
       "url": "https://kids-in-mind.com/h/heist_2001.htm",
       "title": "Heist"
     },
+    "tt0165831": {
+      "imdb_id": "tt0165831",
+      "imdb_rating": "5.2",
+      "kim_rating": "2.4.5",
+      "url": "https://kids-in-mind.com/h/held_up_2000.htm",
+      "title": "Held Up"
+    },
     "tt2274648": {
       "imdb_id": "tt2274648",
       "imdb_rating": "5.3",
@@ -16099,6 +16652,20 @@
       "kim_rating": "4.6.8",
       "url": "https://kids-in-mind.com/h/hellorhighwater.htm",
       "title": "Hell or High Water"
+    },
+    "tt0116514": {
+      "imdb_id": "tt0116514",
+      "imdb_rating": "5.1",
+      "kim_rating": "5.9.5",
+      "url": "https://kids-in-mind.com/h/hellraiser_bloodline_1996__595.htm",
+      "title": "Hellraiser: Bloodline"
+    },
+    "tt0104409": {
+      "imdb_id": "tt0104409",
+      "imdb_rating": "5.5",
+      "kim_rating": "5.8.6",
+      "url": "https://kids-in-mind.com/h/hellraiser_iii_1992__586.htm",
+      "title": "Hellraiser III"
     },
     "tt1454029": {
       "imdb_id": "tt1454029",
@@ -16289,6 +16856,13 @@
       "url": "https://kids-in-mind.com/h/hideaway_1995__376.htm",
       "title": "Hideaway"
     },
+    "tt0136244": {
+      "imdb_id": "tt0136244",
+      "imdb_rating": "6.0",
+      "kim_rating": "6.3.5",
+      "url": "https://kids-in-mind.com/h/hideouskinky99.htm",
+      "title": "Hideous Kinky"
+    },
     "tt0139362": {
       "imdb_id": "tt0139362",
       "imdb_rating": "6.6",
@@ -16330,6 +16904,13 @@
       "kim_rating": "6.7.3",
       "url": "https://kids-in-mind.com/h/highlander_endgame_2000.htm",
       "title": "Highlander: Endgame"
+    },
+    "tt0110027": {
+      "imdb_id": "tt0110027",
+      "imdb_rating": "4.5",
+      "kim_rating": "4.6.3",
+      "url": "https://kids-in-mind.com/h/highlander_the_final_dimension_.htm",
+      "title": "Highlander: The Final Dimension"
     },
     "tt9308382": {
       "imdb_id": "tt9308382",
@@ -16564,7 +17145,7 @@
     },
     "tt35683445": {
       "imdb_id": "tt35683445",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.9",
       "kim_rating": "1.3.1",
       "url": "https://kids-in-mind.com/h/hola-frida-parents-guide-movie-review-rating.htm",
       "title": "Hola Frida"
@@ -16673,6 +17254,13 @@
       "kim_rating": "2.3.3",
       "url": "https://kids-in-mind.com/h/holyman98.htm",
       "title": "Holy Man"
+    },
+    "tt0144715": {
+      "imdb_id": "tt0144715",
+      "imdb_rating": "5.9",
+      "kim_rating": "9.3.8",
+      "url": "https://kids-in-mind.com/h/holy_smoke_2000.htm",
+      "title": "Holy Smoke!"
     },
     "tt2224026": {
       "imdb_id": "tt2224026",
@@ -17171,6 +17759,13 @@
       "url": "https://kids-in-mind.com/h/houseofsandandfog.htm",
       "title": "House of Sand and Fog"
     },
+    "tt0107151": {
+      "imdb_id": "tt0107151",
+      "imdb_rating": "6.9",
+      "kim_rating": "7.7.0",
+      "url": "https://kids-in-mind.com/h/house_of_the_spirits_1994__770.htm",
+      "title": "The House of the Spirits"
+    },
     "tt0397065": {
       "imdb_id": "tt0397065",
       "imdb_rating": "5.5",
@@ -17205,6 +17800,13 @@
       "kim_rating": "1.5.2",
       "url": "https://kids-in-mind.com/h/house-with-a-clock-in-its-walls-parents-guide-movie-review-rating.htm",
       "title": "The House with a Clock in Its Walls"
+    },
+    "tt0119951": {
+      "imdb_id": "tt0119951",
+      "imdb_rating": "6.9",
+      "kim_rating": "8.2.8",
+      "url": "https://kids-in-mind.com/h/howard_sterns_private_parts_.htm",
+      "title": "Howard Stern's Private Parts"
     },
     "tt1341188": {
       "imdb_id": "tt1341188",
@@ -17359,6 +17961,13 @@
       "kim_rating": "6.9.5",
       "url": "https://kids-in-mind.com/h/humancentipedethefirstsequence.htm",
       "title": "The Human Centipede (The First Sequence)"
+    },
+    "tt0219822": {
+      "imdb_id": "tt0219822",
+      "imdb_rating": "6.4",
+      "kim_rating": "7.4.7",
+      "url": "https://kids-in-mind.com/h/humannature.htm",
+      "title": "Human Nature"
     },
     "tt0308383": {
       "imdb_id": "tt0308383",
@@ -17941,6 +18550,13 @@
       "url": "https://kids-in-mind.com/i/immaculate-parents-guide-movie-review-rating.htm",
       "title": "Immaculate"
     },
+    "tt0110116": {
+      "imdb_id": "tt0110116",
+      "imdb_rating": "7.4",
+      "kim_rating": "5.5.3",
+      "url": "https://kids-in-mind.com/i/immortal_beloved_1995__553.htm",
+      "title": "Immortal Beloved"
+    },
     "tt1253864": {
       "imdb_id": "tt1253864",
       "imdb_rating": "6.0",
@@ -18017,6 +18633,13 @@
       "kim_rating": "5.4.5",
       "url": "https://kids-in-mind.com/i/inamerica.htm",
       "title": "In America"
+    },
+    "tt0119360": {
+      "imdb_id": "tt0119360",
+      "imdb_rating": "6.4",
+      "kim_rating": "2.1.5",
+      "url": "https://kids-in-mind.com/i/in_and_out_1997__215.htm",
+      "title": "In and Out"
     },
     "tt2294677": {
       "imdb_id": "tt2294677",
@@ -18417,6 +19040,13 @@
       "url": "https://kids-in-mind.com/i/insurgent.htm",
       "title": "Insurgent"
     },
+    "tt0220580": {
+      "imdb_id": "tt0220580",
+      "imdb_rating": "6.7",
+      "kim_rating": "5.6.5",
+      "url": "https://kids-in-mind.com/i/intacto.htm",
+      "title": "Intacto"
+    },
     "tt2361509": {
       "imdb_id": "tt2361509",
       "imdb_rating": "7.1",
@@ -18465,6 +19095,13 @@
       "kim_rating": "7.8.10",
       "url": "https://kids-in-mind.com/i/interview.htm",
       "title": "The Interview"
+    },
+    "tt0110148": {
+      "imdb_id": "tt0110148",
+      "imdb_rating": "7.5",
+      "kim_rating": "9.9.1",
+      "url": "https://kids-in-mind.com/i/interview_with_the_vampire.htm",
+      "title": "Interview With the Vampire: The Vampire Chronicles"
     },
     "tt0110123": {
       "imdb_id": "tt0110123",
@@ -18531,10 +19168,24 @@
     },
     "tt20833922": {
       "imdb_id": "tt20833922",
-      "imdb_rating": "N/A",
+      "imdb_rating": "7.4",
       "kim_rating": "2.0.1",
       "url": "https://kids-in-mind.com/i/in_the_mood_for_love_2001.htm",
       "title": "In The Mood For Love"
+    },
+    "tt0113409": {
+      "imdb_id": "tt0113409",
+      "imdb_rating": "7.1",
+      "kim_rating": "2.6.5",
+      "url": "https://kids-in-mind.com/i/in_the_mouth_of_madness_1995__2.htm",
+      "title": "In the Mouth of Madness"
+    },
+    "tt0107207": {
+      "imdb_id": "tt0107207",
+      "imdb_rating": "8.1",
+      "kim_rating": "3.6.8",
+      "url": "https://kids-in-mind.com/i/in_the_name_of_the_father_1994_.htm",
+      "title": "In the Name of the Father"
     },
     "tt0460780": {
       "imdb_id": "tt0460780",
@@ -18591,6 +19242,13 @@
       "kim_rating": "2.6.4",
       "url": "https://kids-in-mind.com/i/intothestorm.htm",
       "title": "Into the Storm"
+    },
+    "tt0104522": {
+      "imdb_id": "tt0104522",
+      "imdb_rating": "7.0",
+      "kim_rating": "0.2.3",
+      "url": "https://kids-in-mind.com/i/into_the_west_1993__023.htm",
+      "title": "Into the West"
     },
     "tt0758758": {
       "imdb_id": "tt0758758",
@@ -19068,6 +19726,13 @@
       "url": "https://kids-in-mind.com/j/jackie.htm",
       "title": "Jackie"
     },
+    "tt0116704": {
+      "imdb_id": "tt0116704",
+      "imdb_rating": "6.6",
+      "kim_rating": "2.6.2",
+      "url": "https://kids-in-mind.com/j/jackie_chans_first_strike_1997_.htm",
+      "title": "Jackie Chan's First Strike"
+    },
     "tt26940324": {
       "imdb_id": "tt26940324",
       "imdb_rating": "5.8",
@@ -19165,6 +19830,13 @@
       "kim_rating": "1.7.4",
       "url": "https://kids-in-mind.com/j/jasonbourne.htm",
       "title": "Jason Bourne"
+    },
+    "tt0107254": {
+      "imdb_id": "tt0107254",
+      "imdb_rating": "4.1",
+      "kim_rating": "6.9.7",
+      "url": "https://kids-in-mind.com/j/jason_goes_to_hell.htm",
+      "title": "Jason Goes to Hell: The Final Friday"
     },
     "tt0110186": {
       "imdb_id": "tt0110186",
@@ -19306,6 +19978,13 @@
       "url": "https://kids-in-mind.com/j/jesus-revolution-parents-guide-movie-review-rating.htm",
       "title": "Jesus Revolution"
     },
+    "tt0293116": {
+      "imdb_id": "tt0293116",
+      "imdb_rating": "6.1",
+      "kim_rating": "6.2.5",
+      "url": "https://kids-in-mind.com/j/jetlag.htm",
+      "title": "Jet Lag"
+    },
     "tt0446059": {
       "imdb_id": "tt0446059",
       "imdb_rating": "7.6",
@@ -19397,12 +20076,26 @@
       "url": "https://kids-in-mind.com/j/joe_dirt_2001.htm",
       "title": "Joe Dirt"
     },
+    "tt0172632": {
+      "imdb_id": "tt0172632",
+      "imdb_rating": "6.5",
+      "kim_rating": "8.1.6",
+      "url": "https://kids-in-mind.com/j/joe_goulds_secret_99.htm",
+      "title": "Joe Gould's Secret"
+    },
     "tt0279889": {
       "imdb_id": "tt0279889",
       "imdb_rating": "5.5",
       "kim_rating": "2.3.4",
       "url": "https://kids-in-mind.com/j/joe_somebody_2001.htm",
       "title": "Joe Somebody"
+    },
+    "tt0120877": {
+      "imdb_id": "tt0120877",
+      "imdb_rating": "6.1",
+      "kim_rating": "7.10.10",
+      "url": "https://kids-in-mind.com/j/john_carpenters_vampires_1998_.htm",
+      "title": "John Carpenter's Vampires"
     },
     "tt0401729": {
       "imdb_id": "tt0401729",
@@ -19516,6 +20209,13 @@
       "url": "https://kids-in-mind.com/j/jolt-parents-guide-movie-review-rating.htm",
       "title": "Jolt"
     },
+    "tt0298388": {
+      "imdb_id": "tt0298388",
+      "imdb_rating": "6.4",
+      "kim_rating": "0.2.1",
+      "url": "https://kids-in-mind.com/j/jonahaveggietalesmovie.htm",
+      "title": "Jonah: A Veggie Tales Movie"
+    },
     "tt1075747": {
       "imdb_id": "tt1075747",
       "imdb_rating": "4.7",
@@ -19550,6 +20250,13 @@
       "kim_rating": "6.5.6",
       "url": "https://kids-in-mind.com/j/joshua07.htm",
       "title": "Joshua"
+    },
+    "tt0236348": {
+      "imdb_id": "tt0236348",
+      "imdb_rating": "5.7",
+      "kim_rating": "3.3.3",
+      "url": "https://kids-in-mind.com/j/josie_the_pussycats_2001.htm",
+      "title": "Josie & The Pussycats"
     },
     "tt0995854": {
       "imdb_id": "tt0995854",
@@ -19950,6 +20657,13 @@
       "url": "https://kids-in-mind.com/k/kandahar-parents-guide-movie-review-rating.htm",
       "title": "Kandahar"
     },
+    "tt0257568": {
+      "imdb_id": "tt0257568",
+      "imdb_rating": "4.5",
+      "kim_rating": "3.4.3",
+      "url": "https://kids-in-mind.com/k/kangaroojack.htm",
+      "title": "Kangaroo Jack"
+    },
     "tt1155076": {
       "imdb_id": "tt1155076",
       "imdb_rating": "6.3",
@@ -20096,6 +20810,13 @@
       "kim_rating": "10.3.8",
       "url": "https://kids-in-mind.com/k/kidsareallright.htm",
       "title": "The Kids Are All Right"
+    },
+    "tt0116768": {
+      "imdb_id": "tt0116768",
+      "imdb_rating": "6.9",
+      "kim_rating": "5.0.7",
+      "url": "https://kids-in-mind.com/k/kids_in_the_hall_brain_candy_.htm",
+      "title": "The Kids in the Hall: Brain Candy"
     },
     "tt6811018": {
       "imdb_id": "tt6811018",
@@ -20398,6 +21119,13 @@
       "url": "https://kids-in-mind.com/k/kissing-booth-2-parents-guide-movie-review-rating.htm",
       "title": "The Kissing Booth 2"
     },
+    "tt0264761": {
+      "imdb_id": "tt0264761",
+      "imdb_rating": "6.5",
+      "kim_rating": "6.1.6",
+      "url": "https://kids-in-mind.com/k/kissingjessicastein.htm",
+      "title": "Kissing Jessica Stein"
+    },
     "tt0373469": {
       "imdb_id": "tt0373469",
       "imdb_rating": "7.5",
@@ -20421,7 +21149,7 @@
     },
     "tt30400277": {
       "imdb_id": "tt30400277",
-      "imdb_rating": "N/A",
+      "imdb_rating": "5.7",
       "kim_rating": "6.6.6",
       "url": "https://kids-in-mind.com/k/kiss-of-the-spider-woman-parents-guide-movie-review-rating.htm",
       "title": "Kiss of the Spider Woman"
@@ -20488,6 +21216,13 @@
       "kim_rating": "3.4.2",
       "url": "https://kids-in-mind.com/k/k19thewidowmaker.htm",
       "title": "K-19: The Widowmaker"
+    },
+    "tt0211465": {
+      "imdb_id": "tt0211465",
+      "imdb_rating": "6.1",
+      "kim_rating": "1.7.10",
+      "url": "https://kids-in-mind.com/k/knockaroundguys.htm",
+      "title": "Knockaround Guys"
     },
     "tt15679400": {
       "imdb_id": "tt15679400",
@@ -21084,6 +21819,13 @@
       "url": "https://kids-in-mind.com/l/latequartet.htm",
       "title": "A Late Quartet"
     },
+    "tt0283900": {
+      "imdb_id": "tt0283900",
+      "imdb_rating": "7.3",
+      "kim_rating": "7.3.7",
+      "url": "https://kids-in-mind.com/l/laubergeespagnole.htm",
+      "title": "L'Auberge Espagnole"
+    },
     "tt5865326": {
       "imdb_id": "tt5865326",
       "imdb_rating": "6.3",
@@ -21321,6 +22063,13 @@
       "kim_rating": "1.3.1",
       "url": "https://kids-in-mind.com/l/legendsofozdorothysreturn.htm",
       "title": "Legends of Oz: Dorothy's Return"
+    },
+    "tt0110322": {
+      "imdb_id": "tt0110322",
+      "imdb_rating": "7.5",
+      "kim_rating": "5.8.5",
+      "url": "https://kids-in-mind.com/l/legends_of_the_fall_1995__585.htm",
+      "title": "Legends of the Fall"
     },
     "tt1038686": {
       "imdb_id": "tt1038686",
@@ -21847,6 +22596,13 @@
       "url": "https://kids-in-mind.com/l/littlechildren.htm",
       "title": "Little Children"
     },
+    "tt0119548": {
+      "imdb_id": "tt0119548",
+      "imdb_rating": "5.8",
+      "kim_rating": "4.1.7",
+      "url": "https://kids-in-mind.com/l/little_city_1998__417.htm",
+      "title": "Little City"
+    },
     "tt0970866": {
       "imdb_id": "tt0970866",
       "imdb_rating": "5.5",
@@ -21867,6 +22623,13 @@
       "kim_rating": "7.4.6",
       "url": "https://kids-in-mind.com/l/littlehelp.htm",
       "title": "A Little Help"
+    },
+    "tt0111543": {
+      "imdb_id": "tt0111543",
+      "imdb_rating": "5.7",
+      "kim_rating": "2.2.3",
+      "url": "https://kids-in-mind.com/l/little_indian_big_city_1996__223.htm",
+      "title": "Little Indian, Big City"
     },
     "tt0430304": {
       "imdb_id": "tt0430304",
@@ -22049,6 +22812,13 @@
       "kim_rating": "2.6.5",
       "url": "https://kids-in-mind.com/l/lockout.htm",
       "title": "Lockout"
+    },
+    "tt0120735": {
+      "imdb_id": "tt0120735",
+      "imdb_rating": "8.1",
+      "kim_rating": "5.9.10",
+      "url": "https://kids-in-mind.com/l/lock_stock_1998_5910.htm",
+      "title": "Lock, Stock & Two Smoking Barrels"
     },
     "tt1850397": {
       "imdb_id": "tt1850397",
@@ -22267,6 +23037,13 @@
       "url": "https://kids-in-mind.com/l/lore.htm",
       "title": "Lore"
     },
+    "tt0104756": {
+      "imdb_id": "tt0104756",
+      "imdb_rating": "7.3",
+      "kim_rating": "0.2.1",
+      "url": "https://kids-in-mind.com/l/lorenzos_oil_1993__021.htm",
+      "title": "Lorenzo's Oil"
+    },
     "tt0217630": {
       "imdb_id": "tt0217630",
       "imdb_rating": "5.3",
@@ -22301,6 +23078,13 @@
       "kim_rating": "6.4.9",
       "url": "https://kids-in-mind.com/l/lost-daughter-parents-guide-movie-review-rating.htm",
       "title": "The Lost Daughter"
+    },
+    "tt8256844": {
+      "imdb_id": "tt8256844",
+      "imdb_rating": "N/A",
+      "kim_rating": "3.4.4",
+      "url": "https://kids-in-mind.com/l/lost__found_1999__344.htm",
+      "title": "Lost & Found"
     },
     "tt10456740": {
       "imdb_id": "tt10456740",
@@ -22386,6 +23170,20 @@
       "url": "https://kids-in-mind.com/l/loveandabullet.htm",
       "title": "Love and a Bullet"
     },
+    "tt0199725": {
+      "imdb_id": "tt0199725",
+      "imdb_rating": "7.2",
+      "kim_rating": "5.3.5",
+      "url": "https://kids-in-mind.com/l/love_and_basketball_2000.htm",
+      "title": "Love and Basketball"
+    },
+    "tt0119574": {
+      "imdb_id": "tt0119574",
+      "imdb_rating": "6.9",
+      "kim_rating": "4.2.6",
+      "url": "https://kids-in-mind.com/l/love_and_death_on_long_island_.htm",
+      "title": "Love and Death on Long Island"
+    },
     "tt3068194": {
       "imdb_id": "tt3068194",
       "imdb_rating": "6.4",
@@ -22434,6 +23232,13 @@
       "kim_rating": "5.3.4",
       "url": "https://kids-in-mind.com/l/lovedontcostathing.htm",
       "title": "Love Don't Cost a Thing"
+    },
+    "tt0104765": {
+      "imdb_id": "tt0104765",
+      "imdb_rating": "6.5",
+      "kim_rating": "2.3.4",
+      "url": "https://kids-in-mind.com/l/love_field_1993__234.htm",
+      "title": "Love Field"
     },
     "tt11100856": {
       "imdb_id": "tt11100856",
@@ -22511,6 +23316,13 @@
       "kim_rating": "5.1.5",
       "url": "https://kids-in-mind.com/l/loveletter99.htm",
       "title": "The Love Letter"
+    },
+    "tt0258273": {
+      "imdb_id": "tt0258273",
+      "imdb_rating": "6.7",
+      "kim_rating": "6.3.6",
+      "url": "https://kids-in-mind.com/l/lovelyandamazing.htm",
+      "title": "Lovely and Amazing"
     },
     "tt0380510": {
       "imdb_id": "tt0380510",
@@ -22658,6 +23470,13 @@
       "kim_rating": "6.7.8",
       "url": "https://kids-in-mind.com/m/ma-parents-guide-movie-review-rating.htm",
       "title": "Ma"
+    },
+    "tt0104783": {
+      "imdb_id": "tt0104783",
+      "imdb_rating": "6.2",
+      "kim_rating": "6.4.8",
+      "url": "https://kids-in-mind.com/m/mac_1993__648.htm",
+      "title": "Mac"
     },
     "tt14330236": {
       "imdb_id": "tt14330236",
@@ -22855,6 +23674,13 @@
       "url": "https://kids-in-mind.com/m/mafia-mamma-parents-guide-movie-review-rating.htm",
       "title": "Mafia Mamma"
     },
+    "tt0318411": {
+      "imdb_id": "tt0318411",
+      "imdb_rating": "7.7",
+      "kim_rating": "8.6.6",
+      "url": "https://kids-in-mind.com/m/magdalenesisters.htm",
+      "title": "Magdalene Sisters"
+    },
     "tt2560092": {
       "imdb_id": "tt2560092",
       "imdb_rating": "6.6",
@@ -22945,6 +23771,13 @@
       "kim_rating": "2.2.3",
       "url": "https://kids-in-mind.com/m/major_league_ii_1994__223.htm",
       "title": "Major League II"
+    },
+    "tt0120742": {
+      "imdb_id": "tt0120742",
+      "imdb_rating": "4.7",
+      "kim_rating": "2.2.5",
+      "url": "https://kids-in-mind.com/m/major_league_iii.htm",
+      "title": "Major League III: Back to the Minors"
     },
     "tt0110443": {
       "imdb_id": "tt0110443",
@@ -23233,6 +24066,13 @@
       "url": "https://kids-in-mind.com/m/many-saints-of-newark-parents-guide-movie-review-rating.htm",
       "title": "The Many Saints of Newark"
     },
+    "tt0104812": {
+      "imdb_id": "tt0104812",
+      "imdb_rating": "7.0",
+      "kim_rating": "6.6.5",
+      "url": "https://kids-in-mind.com/m/map_of_the_human_heart_1993__665.htm",
+      "title": "Map of the Human Heart"
+    },
     "tt2172584": {
       "imdb_id": "tt2172584",
       "imdb_rating": "6.2",
@@ -23345,6 +24185,13 @@
       "url": "https://kids-in-mind.com/m/marriedlife.htm",
       "title": "Married Life"
     },
+    "tt0107523": {
+      "imdb_id": "tt0107523",
+      "imdb_rating": "5.9",
+      "kim_rating": "5.0.7",
+      "url": "https://kids-in-mind.com/m/married_to_it_1993__507.htm",
+      "title": "Married to It"
+    },
     "tt10223460": {
       "imdb_id": "tt10223460",
       "imdb_rating": "6.1",
@@ -23428,6 +24275,13 @@
       "kim_rating": "3.7.1",
       "url": "https://kids-in-mind.com/m/mary_reilly_1996__371.htm",
       "title": "Mary Reilly"
+    },
+    "tt0109836": {
+      "imdb_id": "tt0109836",
+      "imdb_rating": "6.3",
+      "kim_rating": "5.7.2",
+      "url": "https://kids-in-mind.com/m/mary_shelleys_frankenstein_1994.htm",
+      "title": "Mary Shelley's Frankenstein"
     },
     "tt0066026": {
       "imdb_id": "tt0066026",
@@ -23526,6 +24380,13 @@
       "kim_rating": "2.7.5",
       "url": "https://kids-in-mind.com/m/matrix_the_1999__275.htm",
       "title": "The Matrix"
+    },
+    "tt0234215": {
+      "imdb_id": "tt0234215",
+      "imdb_rating": "7.2",
+      "kim_rating": "6.7.5",
+      "url": "https://kids-in-mind.com/m/matrixreloaded.htm",
+      "title": "The Matrix Reloaded"
     },
     "tt10838180": {
       "imdb_id": "tt10838180",
@@ -24276,6 +25137,13 @@
       "url": "https://kids-in-mind.com/m/milk.htm",
       "title": "Milk"
     },
+    "tt0110516": {
+      "imdb_id": "tt0110516",
+      "imdb_rating": "5.7",
+      "kim_rating": "4.3.3",
+      "url": "https://kids-in-mind.com/m/milk_money_1994__433.htm",
+      "title": "Milk Money"
+    },
     "tt8310486": {
       "imdb_id": "tt8310486",
       "imdb_rating": "5.2",
@@ -24654,6 +25522,13 @@
       "url": "https://kids-in-mind.com/m/mollysgame.htm",
       "title": "Molly's Game"
     },
+    "tt0104905": {
+      "imdb_id": "tt0104905",
+      "imdb_rating": "5.4",
+      "kim_rating": "1.1.1",
+      "url": "https://kids-in-mind.com/m/mom__dad_save_the_world_1992__1.htm",
+      "title": "Mom & Dad Save The World"
+    },
     "tt3014666": {
       "imdb_id": "tt3014666",
       "imdb_rating": "5.3",
@@ -24668,12 +25543,26 @@
       "url": "https://kids-in-mind.com/m/monalisasmile.htm",
       "title": "Mona Lisa Smile"
     },
+    "tt0319769": {
+      "imdb_id": "tt0319769",
+      "imdb_rating": "7.5",
+      "kim_rating": "4.3.8",
+      "url": "https://kids-in-mind.com/m/mondaysinthesun.htm",
+      "title": "Mondays in the Sun"
+    },
     "tt1210166": {
       "imdb_id": "tt1210166",
       "imdb_rating": "7.6",
       "kim_rating": "1.2.5",
       "url": "https://kids-in-mind.com/m/moneyball.htm",
       "title": "Moneyball"
+    },
+    "tt0131110": {
+      "imdb_id": "tt0131110",
+      "imdb_rating": "5.8",
+      "kim_rating": "3.4.10",
+      "url": "https://kids-in-mind.com/m/money_kings_1998__3410.htm",
+      "title": "Money Kings"
     },
     "tt2241351": {
       "imdb_id": "tt2241351",
@@ -25011,6 +25900,13 @@
       "url": "https://kids-in-mind.com/m/mother-of-the-bride-parents-guide-movie-review-rating.htm",
       "title": "Mother of the Bride"
     },
+    "tt0107606": {
+      "imdb_id": "tt0107606",
+      "imdb_rating": "5.4",
+      "kim_rating": "5.7.5",
+      "url": "https://kids-in-mind.com/m/mothers_boys_1994__575.htm",
+      "title": "Mother's Boys"
+    },
     "tt4824302": {
       "imdb_id": "tt4824302",
       "imdb_rating": "5.7",
@@ -25157,6 +26053,13 @@
       "kim_rating": "2.1.1",
       "url": "https://kids-in-mind.com/m/mr-malcolms-list-parents-guide-movie-review-rating.htm",
       "title": "Mr. Malcolm’s List"
+    },
+    "tt0117786": {
+      "imdb_id": "tt0117786",
+      "imdb_rating": "6.2",
+      "kim_rating": "2.6.2",
+      "url": "https://kids-in-mind.com/m/mr_nice_guy_1998__262.htm",
+      "title": "Mr. Nice Guy"
     },
     "tt0864835": {
       "imdb_id": "tt0864835",
@@ -25424,6 +26327,13 @@
       "url": "https://kids-in-mind.com/m/murderontheorientexpress.htm",
       "title": "Murder on the Orient Express"
     },
+    "tt0110598": {
+      "imdb_id": "tt0110598",
+      "imdb_rating": "7.3",
+      "kim_rating": "3.2.5",
+      "url": "https://kids-in-mind.com/m/muriels_wedding_1995__325.htm",
+      "title": "Muriel's Wedding"
+    },
     "tt0164108": {
       "imdb_id": "tt0164108",
       "imdb_rating": "5.7",
@@ -25503,7 +26413,7 @@
     },
     "tt12755918": {
       "imdb_id": "tt12755918",
-      "imdb_rating": "N/A",
+      "imdb_rating": "7.5",
       "kim_rating": "2.5.2",
       "url": "https://kids-in-mind.com/m/my-best-worst-adventure-parents-guide-movie-review-rating.htm",
       "title": "My Best Worst Adventure"
@@ -25823,6 +26733,13 @@
       "url": "https://kids-in-mind.com/n/nationallampoonsadamandeve.htm",
       "title": "National Lampoon's Adam and Eve"
     },
+    "tt0107659": {
+      "imdb_id": "tt0107659",
+      "imdb_rating": "6.2",
+      "kim_rating": "4.4.4",
+      "url": "https://kids-in-mind.com/n/national_lampoon_loaded.htm",
+      "title": "National Lampoon's Loaded Weapon I"
+    },
     "tt0113936": {
       "imdb_id": "tt0113936",
       "imdb_rating": "5.6",
@@ -25836,6 +26753,13 @@
       "kim_rating": "8.2.5",
       "url": "https://kids-in-mind.com/n/nationallampoonsvanwildertheriseoftaj.htm",
       "title": "National Lampoon's Van Wilder: The Rise of Taj"
+    },
+    "tt0120434": {
+      "imdb_id": "tt0120434",
+      "imdb_rating": "5.9",
+      "kim_rating": "2.2.3",
+      "url": "https://kids-in-mind.com/n/national_lampoons_vegas.htm",
+      "title": "National Lampoon's Vegas Vacation"
     },
     "tt0271668": {
       "imdb_id": "tt0271668",
@@ -25920,6 +26844,13 @@
       "kim_rating": "7.6.10",
       "url": "https://kids-in-mind.com/n/neighbors2sororityrising.htm",
       "title": "Neighbors 2: Sorority Rising"
+    },
+    "tt0120773": {
+      "imdb_id": "tt0120773",
+      "imdb_rating": "6.5",
+      "kim_rating": "1.2.5",
+      "url": "https://kids-in-mind.com/n/neil_simons_the_odd_couple_ii_.htm",
+      "title": "Neil Simon's The Odd Couple II"
     },
     "tt0110638": {
       "imdb_id": "tt0110638",
@@ -26194,6 +27125,13 @@
       "url": "https://kids-in-mind.com/n/nightcrawler.htm",
       "title": "Nightcrawler"
     },
+    "tt0119783": {
+      "imdb_id": "tt0119783",
+      "imdb_rating": "6.7",
+      "kim_rating": "2.5.8",
+      "url": "https://kids-in-mind.com/n/night_falls_on_manhattan_1997_.htm",
+      "title": "Night Falls on Manhattan"
+    },
     "tt0448075": {
       "imdb_id": "tt0448075",
       "imdb_rating": "5.9",
@@ -26215,6 +27153,13 @@
       "url": "https://kids-in-mind.com/n/nightmareonelmstreet.htm",
       "title": "A Nightmare on Elm Street"
     },
+    "tt0102536": {
+      "imdb_id": "tt0102536",
+      "imdb_rating": "7.7",
+      "kim_rating": "3.0.6",
+      "url": "https://kids-in-mind.com/n/night_on_earth_1992__306.htm",
+      "title": "Night on Earth"
+    },
     "tt6781982": {
       "imdb_id": "tt6781982",
       "imdb_rating": "5.6",
@@ -26235,6 +27180,13 @@
       "kim_rating": "3.5.4",
       "url": "https://kids-in-mind.com/n/night-swim-parents-guide-movie-review-rating.htm",
       "title": "Night Swim"
+    },
+    "tt0119791": {
+      "imdb_id": "tt0119791",
+      "imdb_rating": "6.2",
+      "kim_rating": "7.8.7",
+      "url": "https://kids-in-mind.com/n/nightwatch_1998__787.htm",
+      "title": "Nightwatch"
     },
     "tt0403358": {
       "imdb_id": "tt0403358",
@@ -26341,6 +27293,13 @@
       "url": "https://kids-in-mind.com/n/ninjaassassin.htm",
       "title": "Ninja Assassin"
     },
+    "tt0142688": {
+      "imdb_id": "tt0142688",
+      "imdb_rating": "6.7",
+      "kim_rating": "6.6.5",
+      "url": "https://kids-in-mind.com/n/ninth_gate_2000.htm",
+      "title": "The Ninth Gate"
+    },
     "tt1959490": {
       "imdb_id": "tt1959490",
       "imdb_rating": "5.8",
@@ -26368,6 +27327,13 @@
       "kim_rating": "1.8.10",
       "url": "https://kids-in-mind.com/n/nobody-2-parents-guide-movie-review-rating.htm",
       "title": "Nobody 2"
+    },
+    "tt0110684": {
+      "imdb_id": "tt0110684",
+      "imdb_rating": "7.3",
+      "kim_rating": "5.2.5",
+      "url": "https://kids-in-mind.com/n/nobodys_fool_1995__525.htm",
+      "title": "Nobody's Fool"
     },
     "tt8097306": {
       "imdb_id": "tt8097306",
@@ -27034,6 +28000,13 @@
       "url": "https://kids-in-mind.com/o/old-way-parents-guide-movie-review-rating.htm",
       "title": "The Old Way"
     },
+    "tt0095776": {
+      "imdb_id": "tt0095776",
+      "imdb_rating": "6.6",
+      "kim_rating": "0.2.0",
+      "url": "https://kids-in-mind.com/o/oliver_and_company_1988__020.htm",
+      "title": "Oliver and Company"
+    },
     "tt0380599": {
       "imdb_id": "tt0380599",
       "imdb_rating": "6.8",
@@ -27363,6 +28336,13 @@
       "url": "https://kids-in-mind.com/o/operation-christmas-drop-parents-guide-movie-review-rating.htm",
       "title": "Operation Christmas Drop"
     },
+    "tt0099558": {
+      "imdb_id": "tt0099558",
+      "imdb_rating": "7.2",
+      "kim_rating": "2.5.2",
+      "url": "https://kids-in-mind.com/o/operation_condor_1997__252.htm",
+      "title": "Operation Condor"
+    },
     "tt0114048": {
       "imdb_id": "tt0114048",
       "imdb_rating": "5.2",
@@ -27470,7 +28450,7 @@
     },
     "tt27052428": {
       "imdb_id": "tt27052428",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.8",
       "kim_rating": "6.8.5",
       "url": "https://kids-in-mind.com/o/orwell-2-2-5-parents-guide-movie-review-rating.htm",
       "title": "Orwell: 2+2=5"
@@ -28070,6 +29050,13 @@
       "url": "https://kids-in-mind.com/p/passing-parents-guide-movie-review-rating.htm",
       "title": "Passing"
     },
+    "tt0160644": {
+      "imdb_id": "tt0160644",
+      "imdb_rating": "5.5",
+      "kim_rating": "5.0.3",
+      "url": "https://kids-in-mind.com/p/passion_of_mind_1999.htm",
+      "title": "Passion of Mind"
+    },
     "tt0335345": {
       "imdb_id": "tt0335345",
       "imdb_rating": "7.3",
@@ -28266,6 +29253,13 @@
       "url": "https://kids-in-mind.com/p/pelebirthofalegend.htm",
       "title": "Pelé: Birth of a Legend"
     },
+    "tt0107798": {
+      "imdb_id": "tt0107798",
+      "imdb_rating": "6.6",
+      "kim_rating": "2.5.1",
+      "url": "https://kids-in-mind.com/p/pelican_brief_1994__251.htm",
+      "title": "The Pelican Brief"
+    },
     "tt0472160": {
       "imdb_id": "tt0472160",
       "imdb_rating": "6.7",
@@ -28300,6 +29294,13 @@
       "kim_rating": "5.4.5",
       "url": "https://kids-in-mind.com/p/peoplelikeus.htm",
       "title": "People Like Us"
+    },
+    "tt0117318": {
+      "imdb_id": "tt0117318",
+      "imdb_rating": "7.3",
+      "kim_rating": "8.3.8",
+      "url": "https://kids-in-mind.com/p/people_vs_larry_flynt_1997__838.htm",
+      "title": "The People vs. Larry Flynt"
     },
     "tt6850820": {
       "imdb_id": "tt6850820",
@@ -28469,6 +29470,13 @@
       "url": "https://kids-in-mind.com/p/peter-rabbit-2-the-runaway-parents-guide-movie-review-rating.htm",
       "title": "Peter Rabbit 2: The Runaway"
     },
+    "tt0106968": {
+      "imdb_id": "tt0106968",
+      "imdb_rating": "6.3",
+      "kim_rating": "6.1.6",
+      "url": "https://kids-in-mind.com/p/peters_friends_1993__616.htm",
+      "title": "Peter's Friends"
+    },
     "tt2788732": {
       "imdb_id": "tt2788732",
       "imdb_rating": "6.7",
@@ -28559,6 +29567,13 @@
       "kim_rating": "1.4.4",
       "url": "https://kids-in-mind.com/p/phoenixforgotten.htm",
       "title": "Phoenix Forgotten"
+    },
+    "tt0183649": {
+      "imdb_id": "tt0183649",
+      "imdb_rating": "7.1",
+      "kim_rating": "4.4.10",
+      "url": "https://kids-in-mind.com/p/phonebooth.htm",
+      "title": "Phone Booth"
     },
     "tt7798646": {
       "imdb_id": "tt7798646",
@@ -28973,12 +29988,40 @@
       "url": "https://kids-in-mind.com/p/pokemon-detective-pikachu-parents-guide-movie-review-rating.htm",
       "title": "Pokémon Detective Pikachu"
     },
+    "tt0287635": {
+      "imdb_id": "tt0287635",
+      "imdb_rating": "5.8",
+      "kim_rating": "1.3.0",
+      "url": "https://kids-in-mind.com/p/pokemon4ever.htm",
+      "title": "Pokémon 4Ever"
+    },
     "tt0347791": {
       "imdb_id": "tt0347791",
       "imdb_rating": "6.1",
       "kim_rating": "2.2.0",
       "url": "https://kids-in-mind.com/p/pokemonheroes.htm",
       "title": "Pokémon Heroes"
+    },
+    "tt0190641": {
+      "imdb_id": "tt0190641",
+      "imdb_rating": "6.3",
+      "kim_rating": "0.4.0",
+      "url": "https://kids-in-mind.com/p/pokemon99.htm",
+      "title": "Pokémon the First Movie: Mewtwo Strikes Back"
+    },
+    "tt0210234": {
+      "imdb_id": "tt0210234",
+      "imdb_rating": "6.1",
+      "kim_rating": "1.3.1",
+      "url": "https://kids-in-mind.com/p/pokemon_the_movie_2000_2000.htm",
+      "title": "Pokémon: The Movie 2000"
+    },
+    "tt0235679": {
+      "imdb_id": "tt0235679",
+      "imdb_rating": "5.9",
+      "kim_rating": "0.3.0",
+      "url": "https://kids-in-mind.com/p/pokemon_3_the_movie_2001.htm",
+      "title": "Pokémon 3: The Movie"
     },
     "tt0338348": {
       "imdb_id": "tt0338348",
@@ -29351,6 +30394,13 @@
       "url": "https://kids-in-mind.com/p/princessandthefrog.htm",
       "title": "The Princess and the Frog"
     },
+    "tt0107875": {
+      "imdb_id": "tt0107875",
+      "imdb_rating": "6.7",
+      "kim_rating": "0.3.0",
+      "url": "https://kids-in-mind.com/p/princess_and_the_goblin_1994__0.htm",
+      "title": "The Princess and the Goblin"
+    },
     "tt0110892": {
       "imdb_id": "tt0110892",
       "imdb_rating": "6.0",
@@ -29364,6 +30414,13 @@
       "kim_rating": "3.3.1",
       "url": "https://kids-in-mind.com/p/princess_diaries_2001.htm",
       "title": "The Princess Diaries"
+    },
+    "tt0119698": {
+      "imdb_id": "tt0119698",
+      "imdb_rating": "8.3",
+      "kim_rating": "1.6.3",
+      "url": "https://kids-in-mind.com/p/princessmononoke99.htm",
+      "title": "Princess Mononoke"
     },
     "tt6533972": {
       "imdb_id": "tt6533972",
@@ -30198,6 +31255,13 @@
       "url": "https://kids-in-mind.com/r/reagan-parents-guide-movie-review-rating.htm",
       "title": "Reagan"
     },
+    "tt0119987": {
+      "imdb_id": "tt0119987",
+      "imdb_rating": "6.0",
+      "kim_rating": "7.4.8",
+      "url": "https://kids-in-mind.com/r/real_blonde_1998__748.htm",
+      "title": "The Real Blonde"
+    },
     "tt0360916": {
       "imdb_id": "tt0360916",
       "imdb_rating": "2.9",
@@ -30786,6 +31850,20 @@
       "url": "https://kids-in-mind.com/r/richie_rich_1994__132.htm",
       "title": "Richie Rich"
     },
+    "tt0105256": {
+      "imdb_id": "tt0105256",
+      "imdb_rating": "6.1",
+      "kim_rating": "2.0.3",
+      "url": "https://kids-in-mind.com/r/rich_in_love_1993__203.htm",
+      "title": "Rich in Love"
+    },
+    "tt0117473": {
+      "imdb_id": "tt0117473",
+      "imdb_rating": "5.3",
+      "kim_rating": "2.8.8",
+      "url": "https://kids-in-mind.com/r/rich_mans_wife_1996__288.htm",
+      "title": "A Rich Man's Wife"
+    },
     "tt3623726": {
       "imdb_id": "tt3623726",
       "imdb_rating": "6.0",
@@ -30982,6 +32060,13 @@
       "url": "https://kids-in-mind.com/r/road_to_el_dorado_2000.htm",
       "title": "The Road to El Dorado"
     },
+    "tt0257044": {
+      "imdb_id": "tt0257044",
+      "imdb_rating": "7.6",
+      "kim_rating": "3.7.5",
+      "url": "https://kids-in-mind.com/r/roadtoperdition.htm",
+      "title": "The Road to Perdition"
+    },
     "tt0215129": {
       "imdb_id": "tt0215129",
       "imdb_rating": "6.5",
@@ -31002,6 +32087,13 @@
       "kim_rating": "2.6.1",
       "url": "https://kids-in-mind.com/r/roar.htm",
       "title": "Roar"
+    },
+    "tt0111003": {
+      "imdb_id": "tt0111003",
+      "imdb_rating": "5.9",
+      "kim_rating": "3.7.5",
+      "url": "https://kids-in-mind.com/r/robert_a_heinlein.htm",
+      "title": "Robert A. Heinlein's The Puppet Masters"
     },
     "tt0955308": {
       "imdb_id": "tt0955308",
@@ -31066,6 +32158,13 @@
       "url": "https://kids-in-mind.com/r/rock_1996__388.htm",
       "title": "The Rock"
     },
+    "tt0102802": {
+      "imdb_id": "tt0102802",
+      "imdb_rating": "6.0",
+      "kim_rating": "0.2.0",
+      "url": "https://kids-in-mind.com/r/rockadoodle_1992__020.htm",
+      "title": "Rock-A-Doodle"
+    },
     "tt2822672": {
       "imdb_id": "tt2822672",
       "imdb_rating": "6.0",
@@ -31086,6 +32185,13 @@
       "kim_rating": "7.4.7",
       "url": "https://kids-in-mind.com/r/rocketman-parents-guide-movie-review-rating.htm",
       "title": "Rocketman"
+    },
+    "tt0120029": {
+      "imdb_id": "tt0120029",
+      "imdb_rating": "5.9",
+      "kim_rating": "1.1.1",
+      "url": "https://kids-in-mind.com/r/rocket_man_1997__111.htm",
+      "title": "Rocket Man"
     },
     "tt0477078": {
       "imdb_id": "tt0477078",
@@ -31388,6 +32494,13 @@
       "url": "https://kids-in-mind.com/r/rugratsgowild.htm",
       "title": "Rugrats Go Wild"
     },
+    "tt0213203": {
+      "imdb_id": "tt0213203",
+      "imdb_rating": "6.2",
+      "kim_rating": "1.2.1",
+      "url": "https://kids-in-mind.com/r/rugrats_in_paris_the_movie_2000.htm",
+      "title": "Rugrats in Paris: The Movie"
+    },
     "tt0134067": {
       "imdb_id": "tt0134067",
       "imdb_rating": "5.9",
@@ -31436,6 +32549,13 @@
       "kim_rating": "1.3.2",
       "url": "https://kids-in-mind.com/r/rumble-parents-guide-movie-review-rating.htm",
       "title": "Rumble"
+    },
+    "tt0113326": {
+      "imdb_id": "tt0113326",
+      "imdb_rating": "6.8",
+      "kim_rating": "3.7.6",
+      "url": "https://kids-in-mind.com/r/rumble_in_the_bronx_1996__376.htm",
+      "title": "Rumble in the Bronx"
     },
     "tt0376136": {
       "imdb_id": "tt0376136",
@@ -31611,6 +32731,13 @@
       "kim_rating": "2.3.9",
       "url": "https://kids-in-mind.com/s/safe_men_1998__239.htm",
       "title": "Safe Men"
+    },
+    "tt0111054": {
+      "imdb_id": "tt0111054",
+      "imdb_rating": "6.3",
+      "kim_rating": "4.3.5",
+      "url": "https://kids-in-mind.com/s/safe_passage_1995__435.htm",
+      "title": "Safe Passage"
     },
     "tt10649016": {
       "imdb_id": "tt10649016",
@@ -31983,6 +33110,20 @@
       "url": "https://kids-in-mind.com/s/scary-stories-to-tell-in-the-dark-parents-guide-movie-review-rating.htm",
       "title": "Scary Stories to Tell in the Dark"
     },
+    "tt0105323": {
+      "imdb_id": "tt0105323",
+      "imdb_rating": "8.0",
+      "kim_rating": "2.3.8",
+      "url": "https://kids-in-mind.com/s/scent_of_a_woman_1993.htm",
+      "title": "Scent of a Woman"
+    },
+    "tt0108052": {
+      "imdb_id": "tt0108052",
+      "imdb_rating": "9.0",
+      "kim_rating": "6.10.5",
+      "url": "https://kids-in-mind.com/s/schindlers_list_1994__6105.htm",
+      "title": "Schindler's List"
+    },
     "tt2935622": {
       "imdb_id": "tt2935622",
       "imdb_rating": "5.9",
@@ -31996,6 +33137,13 @@
       "kim_rating": "4.4.5",
       "url": "https://kids-in-mind.com/s/schoolforscoundrels.htm",
       "title": "School for Scoundrels"
+    },
+    "tt0332379": {
+      "imdb_id": "tt0332379",
+      "imdb_rating": "7.2",
+      "kim_rating": "3.3.3",
+      "url": "https://kids-in-mind.com/s/schoolofrock.htm",
+      "title": "The School of Rock"
     },
     "tt0354899": {
       "imdb_id": "tt0354899",
@@ -32255,6 +33403,13 @@
       "kim_rating": "2.3.3",
       "url": "https://kids-in-mind.com/s/secretlifeofwaltermitty.htm",
       "title": "The Secret Life of Walter Mitty"
+    },
+    "tt0314630": {
+      "imdb_id": "tt0314630",
+      "imdb_rating": "6.4",
+      "kim_rating": "7.4.5",
+      "url": "https://kids-in-mind.com/s/secretlivesofdentists.htm",
+      "title": "The Secret Lives of Dentists"
     },
     "tt10324122": {
       "imdb_id": "tt10324122",
@@ -32550,6 +33705,13 @@
       "url": "https://kids-in-mind.com/s/sextape.htm",
       "title": "Sex Tape"
     },
+    "tt0203119": {
+      "imdb_id": "tt0203119",
+      "imdb_rating": "7.3",
+      "kim_rating": "6.7.10",
+      "url": "https://kids-in-mind.com/s/sexy_beast_2001.htm",
+      "title": "Sexy Beast"
+    },
     "tt0117608": {
       "imdb_id": "tt0117608",
       "imdb_rating": "5.9",
@@ -32571,6 +33733,13 @@
       "url": "https://kids-in-mind.com/s/shadow_1994__262.htm",
       "title": "The Shadow"
     },
+    "tt0120107": {
+      "imdb_id": "tt0120107",
+      "imdb_rating": "5.0",
+      "kim_rating": "1.7.6",
+      "url": "https://kids-in-mind.com/s/shadow_conspiracy_1997__176.htm",
+      "title": "The Shadow Conspiracy"
+    },
     "tt11092020": {
       "imdb_id": "tt11092020",
       "imdb_rating": "4.7",
@@ -32578,12 +33747,33 @@
       "url": "https://kids-in-mind.com/s/shadow-force-parents-guide-movie-review-rating.htm",
       "title": "Shadow Force"
     },
+    "tt0108101": {
+      "imdb_id": "tt0108101",
+      "imdb_rating": "7.3",
+      "kim_rating": "1.0.0",
+      "url": "https://kids-in-mind.com/s/shadowlands_1994__100.htm",
+      "title": "Shadowlands"
+    },
     "tt4624162": {
       "imdb_id": "tt4624162",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.9",
       "kim_rating": "6.6.5",
       "url": "https://kids-in-mind.com/s/shadow_of_the_vampire_2001.htm",
       "title": "Shadow of the Vampire"
+    },
+    "tt0105377": {
+      "imdb_id": "tt0105377",
+      "imdb_rating": "5.8",
+      "kim_rating": "4.4.0",
+      "url": "https://kids-in-mind.com/s/shadow_of_the_wolf_1993__440.htm",
+      "title": "Shadow of the Wolf"
+    },
+    "tt0105378": {
+      "imdb_id": "tt0105378",
+      "imdb_rating": "6.7",
+      "kim_rating": "2.5.2",
+      "url": "https://kids-in-mind.com/s/shadows_and_fog_1992__252.htm",
+      "title": "Shadows and Fog"
     },
     "tt0144604": {
       "imdb_id": "tt0144604",
@@ -32619,6 +33809,13 @@
       "kim_rating": "6.3.3",
       "url": "https://kids-in-mind.com/s/shakespeare_in_love_1998__633.htm",
       "title": "Shakespeare in Love"
+    },
+    "tt0111149": {
+      "imdb_id": "tt0111149",
+      "imdb_rating": "7.2",
+      "kim_rating": "8.6.7",
+      "url": "https://kids-in-mind.com/s/shallow_grave_1995__867.htm",
+      "title": "Shallow Grave"
     },
     "tt0256380": {
       "imdb_id": "tt0256380",
@@ -33047,6 +34244,13 @@
       "url": "https://kids-in-mind.com/s/sideeffects.htm",
       "title": "Side Effects"
     },
+    "tt0105402": {
+      "imdb_id": "tt0105402",
+      "imdb_rating": "5.3",
+      "kim_rating": "0.5.2",
+      "url": "https://kids-in-mind.com/s/sidekicks_1993__052.htm",
+      "title": "Sidekicks"
+    },
     "tt0239986": {
       "imdb_id": "tt0239986",
       "imdb_rating": "6.4",
@@ -33362,6 +34566,13 @@
       "url": "https://kids-in-mind.com/s/six_days_seven_nights_1998__346.htm",
       "title": "Six Days, Seven Nights"
     },
+    "tt0108149": {
+      "imdb_id": "tt0108149",
+      "imdb_rating": "6.8",
+      "kim_rating": "6.2.5",
+      "url": "https://kids-in-mind.com/s/six_degrees_of_separation_1994_.htm",
+      "title": "Six Degrees of Separation"
+    },
     "tt0450232": {
       "imdb_id": "tt0450232",
       "imdb_rating": "6.6",
@@ -33487,6 +34698,20 @@
       "kim_rating": "7.4.8",
       "url": "https://kids-in-mind.com/s/slackers_2002.htm",
       "title": "Slackers"
+    },
+    "tt0187512": {
+      "imdb_id": "tt0187512",
+      "imdb_rating": "5.1",
+      "kim_rating": "4.3.5",
+      "url": "https://kids-in-mind.com/s/slaphershesfrench.htm",
+      "title": "Slap Her She's French"
+    },
+    "tt0133189": {
+      "imdb_id": "tt0133189",
+      "imdb_rating": "7.3",
+      "kim_rating": "5.5.10",
+      "url": "https://kids-in-mind.com/s/slcpunk99.htm",
+      "title": "SLC Punk!"
     },
     "tt0117665": {
       "imdb_id": "tt0117665",
@@ -33789,6 +35014,13 @@
       "url": "https://kids-in-mind.com/s/snowden.htm",
       "title": "Snowden"
     },
+    "tt0281373": {
+      "imdb_id": "tt0281373",
+      "imdb_rating": "5.2",
+      "kim_rating": "2.4.2",
+      "url": "https://kids-in-mind.com/s/snow_dogs_2002.htm",
+      "title": "Snow Dogs"
+    },
     "tt0120834": {
       "imdb_id": "tt0120834",
       "imdb_rating": "6.7",
@@ -34062,6 +35294,13 @@
       "url": "https://kids-in-mind.com/s/son_of_the_pink_panther_1993__3.htm",
       "title": "Son of the Pink Panther"
     },
+    "tt0208990": {
+      "imdb_id": "tt0208990",
+      "imdb_rating": "7.3",
+      "kim_rating": "5.4.5",
+      "url": "https://kids-in-mind.com/s/sonsroom.htm",
+      "title": "The Son's Room"
+    },
     "tt0963966": {
       "imdb_id": "tt0963966",
       "imdb_rating": "6.1",
@@ -34113,7 +35352,7 @@
     },
     "tt28078628": {
       "imdb_id": "tt28078628",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.6",
       "kim_rating": "3.5.1",
       "url": "https://kids-in-mind.com/s/soul-on-fire-parents-guide-movie-review-rating.htm",
       "title": "Soul on Fire"
@@ -34173,6 +35412,13 @@
       "kim_rating": "1.5.5",
       "url": "https://kids-in-mind.com/s/sourcecode.htm",
       "title": "Source Code"
+    },
+    "tt0158983": {
+      "imdb_id": "tt0158983",
+      "imdb_rating": "7.7",
+      "kim_rating": "7.6.10",
+      "url": "https://kids-in-mind.com/s/southparkbigger99.htm",
+      "title": "South Park: Bigger, Longer and Uncut"
     },
     "tt1798684": {
       "imdb_id": "tt1798684",
@@ -34454,6 +35700,13 @@
       "url": "https://kids-in-mind.com/s/spirited-parents-guide-movie-review-rating.htm",
       "title": "Spirited"
     },
+    "tt0245429": {
+      "imdb_id": "tt0245429",
+      "imdb_rating": "8.6",
+      "kim_rating": "0.4.0",
+      "url": "https://kids-in-mind.com/s/spiritedaway.htm",
+      "title": "Spirited Away"
+    },
     "tt0166813": {
       "imdb_id": "tt0166813",
       "imdb_rating": "7.2",
@@ -34614,6 +35867,13 @@
       "kim_rating": "1.3.1",
       "url": "https://kids-in-mind.com/s/spykids2.htm",
       "title": "Spy Kids 2: The Island of Lost Dreams"
+    },
+    "tt0338459": {
+      "imdb_id": "tt0338459",
+      "imdb_rating": "4.4",
+      "kim_rating": "0.3.0",
+      "url": "https://kids-in-mind.com/s/spykids3d.htm",
+      "title": "Spy Kids 3-D: Game Over"
     },
     "tt1273678": {
       "imdb_id": "tt1273678",
@@ -35105,6 +36365,13 @@
       "url": "https://kids-in-mind.com/s/storyofus99.htm",
       "title": "The Story of Us"
     },
+    "tt0250081": {
+      "imdb_id": "tt0250081",
+      "imdb_rating": "6.8",
+      "kim_rating": "9.4.8",
+      "url": "https://kids-in-mind.com/s/storytelling_2002.htm",
+      "title": "Storytelling"
+    },
     "tt9203694": {
       "imdb_id": "tt9203694",
       "imdb_rating": "5.7",
@@ -35163,7 +36430,7 @@
     },
     "tt28671344": {
       "imdb_id": "tt28671344",
-      "imdb_rating": "N/A",
+      "imdb_rating": "4.7",
       "kim_rating": "3.8.6",
       "url": "https://kids-in-mind.com/s/strangers-chapter-2-parents-guide-movie-review-rating.htm",
       "title": "The Strangers: Chapter 2"
@@ -35237,6 +36504,13 @@
       "kim_rating": "4.8.10",
       "url": "https://kids-in-mind.com/s/streetkings.htm",
       "title": "Street Kings"
+    },
+    "tt0105488": {
+      "imdb_id": "tt0105488",
+      "imdb_rating": "7.2",
+      "kim_rating": "2.1.0",
+      "url": "https://kids-in-mind.com/s/strictly_ballroom_1993__210.htm",
+      "title": "Strictly Ballroom"
     },
     "tt0120692": {
       "imdb_id": "tt0120692",
@@ -35356,6 +36630,13 @@
       "kim_rating": "5.4.5",
       "url": "https://kids-in-mind.com/s/sugar_and_spice_2001.htm",
       "title": "Sugar and Spice"
+    },
+    "tt0107079": {
+      "imdb_id": "tt0107079",
+      "imdb_rating": "5.8",
+      "kim_rating": "5.7.9",
+      "url": "https://kids-in-mind.com/s/sugar_hill_1994__579.htm",
+      "title": "Sugar Hill"
     },
     "tt0173390": {
       "imdb_id": "tt0173390",
@@ -35489,6 +36770,13 @@
       "kim_rating": "8.5.10",
       "url": "https://kids-in-mind.com/s/superbad.htm",
       "title": "Superbad"
+    },
+    "tt0104558": {
+      "imdb_id": "tt0104558",
+      "imdb_rating": "7.0",
+      "kim_rating": "1.8.5",
+      "url": "https://kids-in-mind.com/s/supercop_1996__185.htm",
+      "title": "Supercop"
     },
     "tt0403016": {
       "imdb_id": "tt0403016",
@@ -35938,6 +37226,13 @@
       "url": "https://kids-in-mind.com/t/taleoftwosisters.htm",
       "title": "A Tale of Two Sisters"
     },
+    "tt0117826": {
+      "imdb_id": "tt0117826",
+      "imdb_rating": "5.4",
+      "kim_rating": "7.9.7",
+      "url": "https://kids-in-mind.com/t/tales_from_the_crypt_presents_bo.htm",
+      "title": "Tales from the Crypt Presents Bordello of Blood"
+    },
     "tt0114609": {
       "imdb_id": "tt0114609",
       "imdb_rating": "6.5",
@@ -35979,6 +37274,13 @@
       "kim_rating": "3.7.6",
       "url": "https://kids-in-mind.com/t/tallman.htm",
       "title": "The Tall Man"
+    },
+    "tt0111359": {
+      "imdb_id": "tt0111359",
+      "imdb_rating": "5.9",
+      "kim_rating": "0.3.1",
+      "url": "https://kids-in-mind.com/t/tall_tale.htm",
+      "title": "Tall Tale: The Unbelievable Adventures of Pecos Bill"
     },
     "tt1486190": {
       "imdb_id": "tt1486190",
@@ -36175,6 +37477,13 @@
       "kim_rating": "6.5.10",
       "url": "https://kids-in-mind.com/t/tenaciousdthepickofdestiny.htm",
       "title": "Tenacious D: The Pick of Destiny"
+    },
+    "tt0114008": {
+      "imdb_id": "tt0114008",
+      "imdb_rating": "5.6",
+      "kim_rating": "4.3.10",
+      "url": "https://kids-in-mind.com/t/ten_benny_1996__4310.htm",
+      "title": "Ten Benny"
     },
     "tt1179933": {
       "imdb_id": "tt1179933",
@@ -36472,7 +37781,7 @@
     },
     "tt27773954": {
       "imdb_id": "tt27773954",
-      "imdb_rating": "N/A",
+      "imdb_rating": "5.7",
       "kim_rating": "1.6.6",
       "url": "https://kids-in-mind.com/t/thing-with-feathers-parents-guide-movie-review-rating.htm",
       "title": "The Thing with Feathers"
@@ -36785,6 +38094,13 @@
       "url": "https://kids-in-mind.com/t/360-2012.htm",
       "title": "360"
     },
+    "tt7664504": {
+      "imdb_id": "tt7664504",
+      "imdb_rating": "7.6",
+      "kim_rating": "2.2.3",
+      "url": "https://kids-in-mind.com/t/three-identical-strangers-parents-guide-movie-review-rating.htm",
+      "title": "Three Identical Strangers"
+    },
     "tt0120188": {
       "imdb_id": "tt0120188",
       "imdb_rating": "7.1",
@@ -37009,6 +38325,13 @@
       "url": "https://kids-in-mind.com/t/time-parents-guide-movie-review-rating.htm",
       "title": "Time"
     },
+    "tt0220100": {
+      "imdb_id": "tt0220100",
+      "imdb_rating": "6.0",
+      "kim_rating": "5.4.7",
+      "url": "https://kids-in-mind.com/t/time_code_2000.htm",
+      "title": "Time Code"
+    },
     "tt0111438": {
       "imdb_id": "tt0111438",
       "imdb_rating": "5.9",
@@ -37148,6 +38471,13 @@
       "kim_rating": "1.3.1",
       "url": "https://kids-in-mind.com/t/tom-and-jerry-parents-guide-movie-review-rating.htm",
       "title": "Tom and Jerry"
+    },
+    "tt0105616": {
+      "imdb_id": "tt0105616",
+      "imdb_rating": "5.5",
+      "kim_rating": "0.1.0",
+      "url": "https://kids-in-mind.com/t/tom_and_jerry_the_movie_1993__0.htm",
+      "title": "Tom and Jerry: The Movie"
     },
     "tt1365519": {
       "imdb_id": "tt1365519",
@@ -37569,6 +38899,13 @@
       "url": "https://kids-in-mind.com/t/treeoflife.htm",
       "title": "The Tree of Life"
     },
+    "tt0120370": {
+      "imdb_id": "tt0120370",
+      "imdb_rating": "6.9",
+      "kim_rating": "2.1.0",
+      "url": "https://kids-in-mind.com/t/trekkies98.htm",
+      "title": "Trekkies"
+    },
     "tt0105636": {
       "imdb_id": "tt0105636",
       "imdb_rating": "6.3",
@@ -37680,6 +39017,13 @@
       "kim_rating": "6.5.8",
       "url": "https://kids-in-mind.com/t/tristramshandyacockandbullstory.htm",
       "title": "Tristram Shandy: A Cock and Bull Story"
+    },
+    "tt0253840": {
+      "imdb_id": "tt0253840",
+      "imdb_rating": "5.8",
+      "kim_rating": "5.1.1",
+      "url": "https://kids-in-mind.com/t/triumphoflove.htm",
+      "title": "The Triumph of Love"
     },
     "tt11116912": {
       "imdb_id": "tt11116912",
@@ -37813,6 +39157,13 @@
       "kim_rating": "2.2.7",
       "url": "https://kids-in-mind.com/t/truth.htm",
       "title": "Truth"
+    },
+    "tt0117979": {
+      "imdb_id": "tt0117979",
+      "imdb_rating": "6.3",
+      "kim_rating": "4.0.5",
+      "url": "https://kids-in-mind.com/t/truth_about_cats_and_dogs_1996_.htm",
+      "title": "The Truth About Cats and Dogs"
     },
     "tt0270707": {
       "imdb_id": "tt0270707",
@@ -38087,9 +39438,9 @@
       "url": "https://kids-in-mind.com/t/28_days_2000.htm",
       "title": "28 Days"
     },
-    "tt28105787": {
-      "imdb_id": "tt28105787",
-      "imdb_rating": "N/A",
+    "tt0289043": {
+      "imdb_id": "tt0289043",
+      "imdb_rating": "7.5",
       "kim_rating": "6.9.9",
       "url": "https://kids-in-mind.com/t/28dayslater.htm",
       "title": "28 Days Later"
@@ -38226,6 +39577,13 @@
       "kim_rating": "6.4.10",
       "url": "https://kids-in-mind.com/t/twoforthemoney.htm",
       "title": "Two for the Money"
+    },
+    "tt0124179": {
+      "imdb_id": "tt0124179",
+      "imdb_rating": "5.5",
+      "kim_rating": "5.3.10",
+      "url": "https://kids-in-mind.com/t/two_girls_and_a_guy_1998.htm",
+      "title": "Two Girls and a Guy"
     },
     "tt1272878": {
       "imdb_id": "tt1272878",
@@ -38920,6 +40278,13 @@
       "url": "https://kids-in-mind.com/u/us-parents-guide-movie-review-rating.htm",
       "title": "Us"
     },
+    "tt0105706": {
+      "imdb_id": "tt0105706",
+      "imdb_rating": "6.2",
+      "kim_rating": "3.1.5",
+      "url": "https://kids-in-mind.com/u/used_people_1993__315.htm",
+      "title": "Used People"
+    },
     "tt0120873": {
       "imdb_id": "tt0120873",
       "imdb_rating": "6.6",
@@ -39437,6 +40802,13 @@
       "kim_rating": "8.6.7",
       "url": "https://kids-in-mind.com/w/walkhardthedeweycoxstory.htm",
       "title": "Walk Hard: The Dewey Cox Story"
+    },
+    "tt0175317": {
+      "imdb_id": "tt0175317",
+      "imdb_rating": "7.2",
+      "kim_rating": "1.3.4",
+      "url": "https://kids-in-mind.com/w/walking_across_egypt_2000.htm",
+      "title": "Walking Across Egypt"
     },
     "tt0114888": {
       "imdb_id": "tt0114888",
@@ -39963,6 +41335,13 @@
       "url": "https://kids-in-mind.com/w/weownthenight.htm",
       "title": "We Own the Night"
     },
+    "tt0108526": {
+      "imdb_id": "tt0108526",
+      "imdb_rating": "6.0",
+      "kim_rating": "1.1.0",
+      "url": "https://kids-in-mind.com/w/were_back_a_dinosaurs_story_.htm",
+      "title": "We're Back!: A Dinosaur's Story"
+    },
     "tt1723121": {
       "imdb_id": "tt1723121",
       "imdb_rating": "7.0",
@@ -39976,6 +41355,13 @@
       "kim_rating": "1.8.7",
       "url": "https://kids-in-mind.com/w/werewolves-parents-guide-movie-review-rating.htm",
       "title": "Werewolves"
+    },
+    "tt0111686": {
+      "imdb_id": "tt0111686",
+      "imdb_rating": "6.4",
+      "kim_rating": "0.8.5",
+      "url": "https://kids-in-mind.com/w/wes_cravens_new_nightmare_1994_.htm",
+      "title": "Wes Craven's New Nightmare"
     },
     "tt3581652": {
       "imdb_id": "tt3581652",
@@ -40096,6 +41482,13 @@
       "url": "https://kids-in-mind.com/s/smokinaces.htm",
       "title": "Smokin' Aces"
     },
+    "tt0108550": {
+      "imdb_id": "tt0108550",
+      "imdb_rating": "7.7",
+      "kim_rating": "3.2.4",
+      "url": "https://kids-in-mind.com/w/whats_eating_gilbert_grape_1994.htm",
+      "title": "What's Eating Gilbert Grape?"
+    },
     "tt0108551": {
       "imdb_id": "tt0108551",
       "imdb_rating": "7.3",
@@ -40172,6 +41565,20 @@
       "kim_rating": "1.3.2",
       "url": "https://kids-in-mind.com/w/whenthegamestandstall.htm",
       "title": "When the Game Stands Tall"
+    },
+    "tt0103243": {
+      "imdb_id": "tt0103243",
+      "imdb_rating": "6.3",
+      "kim_rating": "0.3.0",
+      "url": "https://kids-in-mind.com/w/where_angels_fear_to_tread_1992.htm",
+      "title": "Where Angels Fear to Tread"
+    },
+    "tt1772424": {
+      "imdb_id": "tt1772424",
+      "imdb_rating": "7.4",
+      "kim_rating": "3.6.4",
+      "url": "https://kids-in-mind.com/w/wheredowegonow.htm",
+      "title": "Where Do We Go Now?"
     },
     "tt2365580": {
       "imdb_id": "tt2365580",
@@ -40376,6 +41783,13 @@
       "url": "https://kids-in-mind.com/w/whitney-houston-i-wanna-dance-with-somebody-parents-guide-movie-review-rating.htm",
       "title": "Whitney Houston: I Wanna Dance with Somebody"
     },
+    "tt0246500": {
+      "imdb_id": "tt0246500",
+      "imdb_rating": "6.3",
+      "kim_rating": "6.6.6",
+      "url": "https://kids-in-mind.com/w/whoiscletistout.htm",
+      "title": "Who Is Cletis Tout?"
+    },
     "tt0190138": {
       "imdb_id": "tt0190138",
       "imdb_rating": "6.7",
@@ -40467,6 +41881,13 @@
       "url": "https://kids-in-mind.com/w/wide_awake_1998__112.htm",
       "title": "Wide Awake"
     },
+    "tt0191636": {
+      "imdb_id": "tt0191636",
+      "imdb_rating": "7.1",
+      "kim_rating": "5.8.3",
+      "url": "https://kids-in-mind.com/w/widow_of_saintpierre_the_2001.htm",
+      "title": "The Widow of Saint-Pierre"
+    },
     "tt4218572": {
       "imdb_id": "tt4218572",
       "imdb_rating": "6.8",
@@ -40523,6 +41944,13 @@
       "url": "https://kids-in-mind.com/w/wildlife.htm",
       "title": "The Wild Life"
     },
+    "tt0141986": {
+      "imdb_id": "tt0141986",
+      "imdb_rating": "6.9",
+      "kim_rating": "1.1.5",
+      "url": "https://kids-in-mind.com/w/wild_man_blues_1998__115.htm",
+      "title": "Wild Man Blues"
+    },
     "tt6842770": {
       "imdb_id": "tt6842770",
       "imdb_rating": "5.8",
@@ -40544,6 +41972,13 @@
       "url": "https://kids-in-mind.com/w/wild_things_1998__978.htm",
       "title": "Wild Things"
     },
+    "tt0282120": {
+      "imdb_id": "tt0282120",
+      "imdb_rating": "5.7",
+      "kim_rating": "1.3.0",
+      "url": "https://kids-in-mind.com/w/wildthornberrysmovie.htm",
+      "title": "The Wild Thornberrys Movie"
+    },
     "tt0105820": {
       "imdb_id": "tt0105820",
       "imdb_rating": "5.7",
@@ -40564,6 +41999,13 @@
       "kim_rating": "4.7.5",
       "url": "https://kids-in-mind.com/w/willard.htm",
       "title": "Willard"
+    },
+    "tt0117509": {
+      "imdb_id": "tt0117509",
+      "imdb_rating": "6.7",
+      "kim_rating": "3.6.1",
+      "url": "https://kids-in-mind.com/w/william_shakespeares_romeo_.htm",
+      "title": "William Shakespeare's Romeo + Juliet"
     },
     "tt5206260": {
       "imdb_id": "tt5206260",
@@ -40707,7 +42149,7 @@
     },
     "tt6724164": {
       "imdb_id": "tt6724164",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.0",
       "kim_rating": "1.9.6",
       "url": "https://kids-in-mind.com/w/wishmaster_1997__196.htm",
       "title": "The Wishmaster"
@@ -40732,6 +42174,13 @@
       "kim_rating": "1.5.3",
       "url": "https://kids-in-mind.com/w/witches-parents-guide-movie-review-rating.htm",
       "title": "The Witches"
+    },
+    "tt0216800": {
+      "imdb_id": "tt0216800",
+      "imdb_rating": "7.1",
+      "kim_rating": "4.6.6",
+      "url": "https://kids-in-mind.com/w/with_a_friend_like_harry_2001.htm",
+      "title": "With A Friend Like Harry"
     },
     "tt0111732": {
       "imdb_id": "tt0111732",
@@ -41701,7 +43150,7 @@
     },
     "tt32641442": {
       "imdb_id": "tt32641442",
-      "imdb_rating": "N/A",
+      "imdb_rating": "7.4",
       "kim_rating": "3.2.5",
       "url": "https://kids-in-mind.com/m/merrily-we-roll-along-parents-guide-movie-review-rating.htm",
       "title": "Merrily We Roll Along"
@@ -41806,7 +43255,7 @@
     },
     "tt32141377": {
       "imdb_id": "tt32141377",
-      "imdb_rating": "N/A",
+      "imdb_rating": "7.7",
       "kim_rating": "7.10.9",
       "url": "https://kids-in-mind.com/t/28-years-later-the-bone-temple-parents-guide-movie-review-rating.htm",
       "title": "28 Years Later: The Bone Temple"
@@ -41841,7 +43290,7 @@
     },
     "tt35291758": {
       "imdb_id": "tt35291758",
-      "imdb_rating": "N/A",
+      "imdb_rating": "1.4",
       "kim_rating": "1.3.1",
       "url": "https://kids-in-mind.com/m/melania-parents-guide-movie-review-rating.htm",
       "title": "Melania"
@@ -41855,17 +43304,52 @@
     },
     "tt32357218": {
       "imdb_id": "tt32357218",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.5",
       "kim_rating": "1.7.5",
       "url": "https://kids-in-mind.com/s/shelter-parents-guide-movie-review-rating.htm",
       "title": "Shelter"
     },
     "tt32306991": {
       "imdb_id": "tt32306991",
-      "imdb_rating": "N/A",
+      "imdb_rating": "7.6",
       "kim_rating": "3.3.2",
       "url": "https://kids-in-mind.com/s/solo-mio-parents-guide-movie-review-rating.htm",
       "title": "Solo Mio"
+    },
+    "tt32430579": {
+      "imdb_id": "tt32430579",
+      "imdb_rating": "7.2",
+      "kim_rating": "6.6.10",
+      "url": "https://kids-in-mind.com/c/crime-101-parents-guide-movie-review-rating.htm",
+      "title": "Crime 101"
+    },
+    "tt31434030": {
+      "imdb_id": "tt31434030",
+      "imdb_rating": "6.2",
+      "kim_rating": "6.7.2",
+      "url": "https://kids-in-mind.com/d/dracula-parents-guide-movie-review-rating.htm",
+      "title": "Dracula"
+    },
+    "tt27613895": {
+      "imdb_id": "tt27613895",
+      "imdb_rating": "6.9",
+      "kim_rating": "1.2.2",
+      "url": "https://kids-in-mind.com/g/goat-parents-guide-movie-review-rating.htm",
+      "title": "GOAT"
+    },
+    "tt1341338": {
+      "imdb_id": "tt1341338",
+      "imdb_rating": "7.6",
+      "kim_rating": "7.7.10",
+      "url": "https://kids-in-mind.com/g/good-luck-have-fun-dont-die-parents-guide-movie-review-rating.htm",
+      "title": "Good Luck, Have Fun, Don’t Die"
+    },
+    "tt32897959": {
+      "imdb_id": "tt32897959",
+      "imdb_rating": "6.3",
+      "kim_rating": "8.5.5",
+      "url": "https://kids-in-mind.com/w/wuthering-heights-parents-guide-movie-review-rating.htm",
+      "title": "Wuthering Heights"
     }
   },
   "by_title": {
@@ -42157,8 +43641,8 @@
       "title": "The Adventures of Pluto Nash"
     },
     "the adventures of rocky and bullwinkle": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0131704",
+      "imdb_rating": "4.3",
       "kim_rating": "2.4.2",
       "url": "https://kids-in-mind.com/a/adventures_of_rockybullwinkle.htm",
       "title": "The Adventures of Rocky and Bullwinkle"
@@ -42199,8 +43683,8 @@
       "title": "The Aeronauts"
     },
     "affliction": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0118564",
+      "imdb_rating": "6.9",
       "kim_rating": "2.8.8",
       "url": "https://kids-in-mind.com/a/affliction_1998__288.htm",
       "title": "Affliction"
@@ -42381,8 +43865,8 @@
       "title": "The Alamo"
     },
     "an alan smithee film: burn hollywood burn": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0118577",
+      "imdb_rating": "3.5",
       "kim_rating": "5.3.10",
       "url": "https://kids-in-mind.com/a/alan_smithee_film_1998__5310.htm",
       "title": "An Alan Smithee Film: Burn Hollywood Burn"
@@ -42409,8 +43893,8 @@
       "title": "Albert Nobbs"
     },
     "alex and emma": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0318283",
+      "imdb_rating": "5.5",
       "kim_rating": "6.3.3",
       "url": "https://kids-in-mind.com/a/alexandemma.htm",
       "title": "Alex and Emma"
@@ -42500,8 +43984,8 @@
       "title": "Aliens of the Deep"
     },
     "alien: the director's cut": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0078748",
+      "imdb_rating": "8.5",
       "kim_rating": "3.8.5",
       "url": "https://kids-in-mind.com/a/alienthedirectorscut.htm",
       "title": "Alien: The Director's Cut"
@@ -42570,8 +44054,8 @@
       "title": "All Day and a Night"
     },
     "all dogs go to heaven ii": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0115509",
+      "imdb_rating": "5.5",
       "kim_rating": "0.2.0",
       "url": "https://kids-in-mind.com/a/all_dogs_go_to_heaven_ii_1996__020.htm",
       "title": "All Dogs Go to Heaven II"
@@ -43053,8 +44537,8 @@
       "title": "America's Sweethearts"
     },
     "amistad": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0118607",
+      "imdb_rating": "7.3",
       "kim_rating": "5.5.1",
       "url": "https://kids-in-mind.com/a/amistad_1998__551.htm",
       "title": "Amistad"
@@ -43074,15 +44558,15 @@
       "title": "Ammonite"
     },
     "amongst friends": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0106264",
+      "imdb_rating": "5.5",
       "kim_rating": "3.4.7",
       "url": "https://kids-in-mind.com/a/amongst_friends_1994__347.htm",
       "title": "Amongst Friends"
     },
     "amos and andrew": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0106266",
+      "imdb_rating": "5.7",
       "kim_rating": "1.3.4",
       "url": "https://kids-in-mind.com/a/amos_and_andrew_1993__134.htm",
       "title": "Amos and Andrew"
@@ -43515,8 +44999,8 @@
       "title": "Anywhere But Here"
     },
     "apocalypse now redux": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0078788",
+      "imdb_rating": "8.4",
       "kim_rating": "7.9.10",
       "url": "https://kids-in-mind.com/a/apocalypse_now_redux_2001.htm",
       "title": "Apocalypse Now Redux"
@@ -44117,8 +45601,8 @@
       "title": "Autumn in New York"
     },
     "autumn tale": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0137439",
+      "imdb_rating": "7.4",
       "kim_rating": "2.1.1",
       "url": "https://kids-in-mind.com/a/autumntale99.htm",
       "title": "Autumn Tale"
@@ -44628,8 +46112,8 @@
       "title": "The Banshees of Inisherin"
     },
     "b.a.p.s.": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0118663",
+      "imdb_rating": "4.9",
       "kim_rating": "2.2.5",
       "url": "https://kids-in-mind.com/b/baps_1997__225.htm",
       "title": "B.A.P.S."
@@ -44691,8 +46175,8 @@
       "title": "Barb Wire"
     },
     "barney's great adventure: the movie": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0120598",
+      "imdb_rating": "3.3",
       "kim_rating": "0.1.0",
       "url": "https://kids-in-mind.com/b/barneys_great_adventure.htm",
       "title": "Barney's Great Adventure: The Movie"
@@ -44754,8 +46238,8 @@
       "title": "The Batman"
     },
     "batman and robin": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0118688",
+      "imdb_rating": "3.8",
       "kim_rating": "2.5.3",
       "url": "https://kids-in-mind.com/b/batman_and_robin_1997__253.htm",
       "title": "Batman and Robin"
@@ -44775,8 +46259,8 @@
       "title": "Batman Forever"
     },
     "batman: mask of the phantasm": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0106364",
+      "imdb_rating": "7.8",
       "kim_rating": "1.4.0",
       "url": "https://kids-in-mind.com/b/batman_mask_of_the_phantasm_.htm",
       "title": "Batman: Mask of the Phantasm"
@@ -45097,8 +46581,8 @@
       "title": "Beethoven"
     },
     "beethoven's 2nd": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0106375",
+      "imdb_rating": "5.0",
       "kim_rating": "1.1.0",
       "url": "https://kids-in-mind.com/b/beethovens_2nd_1994__110.htm",
       "title": "Beethoven's 2nd"
@@ -45335,8 +46819,8 @@
       "title": "Bernie"
     },
     "besieged": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0149723",
+      "imdb_rating": "6.8",
       "kim_rating": "5.2.0",
       "url": "https://kids-in-mind.com/b/besieged99.htm",
       "title": "Besieged"
@@ -45398,8 +46882,8 @@
       "title": "The Best of Me"
     },
     "best of the best 2": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0106393",
+      "imdb_rating": "5.6",
       "kim_rating": "1.7.5",
       "url": "https://kids-in-mind.com/b/best_of_the_best_2_1993__175.htm",
       "title": "Best of the Best 2"
@@ -45629,8 +47113,8 @@
       "title": "The Big Hit"
     },
     "the big kahuna": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0189584",
+      "imdb_rating": "6.5",
       "kim_rating": "2.1.6",
       "url": "https://kids-in-mind.com/b/big_kahuna.htm",
       "title": "The Big Kahuna"
@@ -46210,8 +47694,8 @@
       "title": "The Bling Ring"
     },
     "blink": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0109297",
+      "imdb_rating": "6.2",
       "kim_rating": "5.7.7",
       "url": "https://kids-in-mind.com/b/blink_1994__577.htm",
       "title": "Blink"
@@ -46266,8 +47750,8 @@
       "title": "Bloodshot"
     },
     "blood simple - director's cut": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0086979",
+      "imdb_rating": "7.5",
       "kim_rating": "4.7.6",
       "url": "https://kids-in-mind.com/b/blood_simple_directors_cut_.htm",
       "title": "Blood Simple - Director's Cut"
@@ -46385,8 +47869,8 @@
       "title": "Blue Valentine"
     },
     "boat trip": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0285462",
+      "imdb_rating": "4.9",
       "kim_rating": "8.3.6",
       "url": "https://kids-in-mind.com/b/boattrip.htm",
       "title": "Boat Trip"
@@ -46672,8 +48156,8 @@
       "title": "A Borrowed Identity"
     },
     "the borrowers": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0118755",
+      "imdb_rating": "5.9",
       "kim_rating": "0.3.1",
       "url": "https://kids-in-mind.com/b/borrowers_1998__031.htm",
       "title": "The Borrowers"
@@ -46981,7 +48465,7 @@
     },
     "brave the dark": {
       "imdb_id": "tt10381102",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.5",
       "kim_rating": "3.5.5",
       "url": "https://kids-in-mind.com/b/brave-the-dark-parents-guide-movie-review-rating.htm",
       "title": "Brave the Dark"
@@ -46994,8 +48478,8 @@
       "title": "Breach"
     },
     "the bread, my sweet (aka a wedding for bella)": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0281680",
+      "imdb_rating": "6.5",
       "kim_rating": "4.3.5",
       "url": "https://kids-in-mind.com/w/../../b/breadmysweet.htm",
       "title": "The Bread, My Sweet (aka A Wedding for Bella)"
@@ -47323,8 +48807,8 @@
       "title": "Brother Bear"
     },
     "brotherhood of the wolf": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0237534",
+      "imdb_rating": "7.0",
       "kim_rating": "7.9.3",
       "url": "https://kids-in-mind.com/b/brotherhoodofthewolf_2002.htm",
       "title": "Brotherhood of the Wolf"
@@ -47442,8 +48926,8 @@
       "title": "Buddy"
     },
     "buffalo soldiers": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0252299",
+      "imdb_rating": "6.7",
       "kim_rating": "6.7.10",
       "url": "https://kids-in-mind.com/b/buffalosoldiers.htm",
       "title": "Buffalo Soldiers"
@@ -47582,8 +49066,8 @@
       "title": "Butter"
     },
     "the butterfly  (le papillon)": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0329485",
+      "imdb_rating": "7.1",
       "kim_rating": "1.3.1",
       "url": "https://kids-in-mind.com/b/butterfly.htm",
       "title": "The Butterfly  (Le Papillon)"
@@ -48086,8 +49570,8 @@
       "title": "Cats"
     },
     "cats and dogs": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0239395",
+      "imdb_rating": "5.2",
       "kim_rating": "0.4.3",
       "url": "https://kids-in-mind.com/c/cats_and_dogs_2001.htm",
       "title": "Cats and Dogs"
@@ -48107,8 +49591,8 @@
       "title": "Cats Don't Dance"
     },
     "the cat's meow": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0266391",
+      "imdb_rating": "6.4",
       "kim_rating": "5.3.5",
       "url": "https://kids-in-mind.com/c/catsmeow.htm",
       "title": "The Cat's Meow"
@@ -48289,8 +49773,8 @@
       "title": "Chaos Walking"
     },
     "chaplin": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0103939",
+      "imdb_rating": "7.5",
       "kim_rating": "3.0.2",
       "url": "https://kids-in-mind.com/c/chaplin_1993__302.htm",
       "title": "Chaplin"
@@ -48359,8 +49843,8 @@
       "title": "Charlie Wilson's War"
     },
     "charlotte gray": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0245046",
+      "imdb_rating": "6.4",
       "kim_rating": "4.5.5",
       "url": "https://kids-in-mind.com/c/charlotte_gray_2002.htm",
       "title": "Charlotte Gray"
@@ -48807,8 +50291,8 @@
       "title": "City of Ember"
     },
     "city of ghosts": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0164003",
+      "imdb_rating": "5.9",
       "kim_rating": "4.7.7",
       "url": "https://kids-in-mind.com/c/cityofghosts.htm",
       "title": "City of Ghosts"
@@ -49010,8 +50494,8 @@
       "title": "Closer"
     },
     "the closer you get": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0218112",
+      "imdb_rating": "6.2",
       "kim_rating": "4.1.5",
       "url": "https://kids-in-mind.com/c/closer_you_get_2000.htm",
       "title": "The Closer You Get"
@@ -49591,8 +51075,8 @@
       "title": "Cool Runnings"
     },
     "cop and a half": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0106613",
+      "imdb_rating": "4.2",
       "kim_rating": "1.3.2",
       "url": "https://kids-in-mind.com/c/cop_and_a_half_1993__132.htm",
       "title": "Cop and a Half"
@@ -50319,8 +51803,8 @@
       "title": "Dangerous Animals"
     },
     "dangerous game": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0106660",
+      "imdb_rating": "5.6",
       "kim_rating": "8.6.10",
       "url": "https://kids-in-mind.com/d/dangerous_game_1994__8610.htm",
       "title": "Dangerous Game"
@@ -50396,8 +51880,8 @@
       "title": "The Darjeeling Limited"
     },
     "dark blue": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0279331",
+      "imdb_rating": "6.6",
       "kim_rating": "5.7.10",
       "url": "https://kids-in-mind.com/d/darkblue.htm",
       "title": "Dark Blue"
@@ -50557,8 +52041,8 @@
       "title": "Date Night"
     },
     "daughters of the dust": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0104057",
+      "imdb_rating": "6.6",
       "kim_rating": "2.0.0",
       "url": "https://kids-in-mind.com/d/daughters_of_the_dust_1992__200.htm",
       "title": "Daughters of the Dust"
@@ -50697,8 +52181,8 @@
       "title": "Dead Man On Campus"
     },
     "dead man walking": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0112818",
+      "imdb_rating": "7.5",
       "kim_rating": "3.6.6",
       "url": "https://kids-in-mind.com/d/dead_man_walking_1996__366.htm",
       "title": "Dead Man Walking"
@@ -50781,8 +52265,8 @@
       "title": "Dear John"
     },
     "death and the maiden": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0109579",
+      "imdb_rating": "7.2",
       "kim_rating": "5.8.8",
       "url": "https://kids-in-mind.com/d/death_and_the_maiden_1995__588.htm",
       "title": "Death and the Maiden"
@@ -50872,8 +52356,8 @@
       "title": "The Debt"
     },
     "deceiver": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0119527",
+      "imdb_rating": "6.4",
       "kim_rating": "4.7.7",
       "url": "https://kids-in-mind.com/d/deceiver_1998__477.htm",
       "title": "Deceiver"
@@ -50970,8 +52454,8 @@
       "title": "Definitely, Maybe"
     },
     "def jam's how to be a player": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0119326",
+      "imdb_rating": "5.3",
       "kim_rating": "8.1.8",
       "url": "https://kids-in-mind.com/d/def_jams_how_to_be_a_player_.htm",
       "title": "Def Jam's How to Be a Player"
@@ -51390,8 +52874,8 @@
       "title": "Diggers"
     },
     "digging to china": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0118980",
+      "imdb_rating": "6.7",
       "kim_rating": "2.2.0",
       "url": "https://kids-in-mind.com/d/digging_to_china_1998.htm",
       "title": "Digging to China"
@@ -51460,8 +52944,8 @@
       "title": "Dirty Love"
     },
     "dirty pretty things": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0301199",
+      "imdb_rating": "7.2",
       "kim_rating": "6.5.6",
       "url": "https://kids-in-mind.com/d/dirtyprettythings.htm",
       "title": "Dirty Pretty Things"
@@ -51754,8 +53238,8 @@
       "title": "Don Jon"
     },
     "don juan demarco": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0112883",
+      "imdb_rating": "6.7",
       "kim_rating": "4.2.2",
       "url": "https://kids-in-mind.com/d/don_juan_demarco_1995__422.htm",
       "title": "Don Juan Demarco"
@@ -51775,8 +53259,8 @@
       "title": "Don't Be Afraid of the Dark"
     },
     "don't be a menace in south central while drinking your juice in the hood": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0116126",
+      "imdb_rating": "6.5",
       "kim_rating": "5.5.10",
       "url": "https://kids-in-mind.com/d/dontbeamenace.htm",
       "title": "Don't Be a Menace in South Central While Drinking Your Juice in the Hood"
@@ -51978,8 +53462,8 @@
       "title": "Down to You"
     },
     "down with love": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0309530",
+      "imdb_rating": "6.3",
       "kim_rating": "6.3.4",
       "url": "https://kids-in-mind.com/d/downwithlove.htm",
       "title": "Down with Love"
@@ -52216,8 +53700,8 @@
       "title": "Dr. Bird’s Advice to Sad Poets"
     },
     "dr. dolittle": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0118998",
+      "imdb_rating": "5.4",
       "kim_rating": "2.3.2",
       "url": "https://kids-in-mind.com/d/dr_dolittle_1998__232.htm",
       "title": "Dr. Dolittle"
@@ -52251,8 +53735,8 @@
       "title": "Dr. Seuss' Horton Hears a Who"
     },
     "dr. seuss' the cat in the hat": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0312528",
+      "imdb_rating": "4.2",
       "kim_rating": "3.3.2",
       "url": "https://kids-in-mind.com/d/drseussthecatinthehat.htm",
       "title": "Dr. Seuss' The Cat in the Hat"
@@ -52398,8 +53882,8 @@
       "title": "Dune: Part Two"
     },
     "dungeons and dragons": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0190374",
+      "imdb_rating": "3.7",
       "kim_rating": "1.6.2",
       "url": "https://kids-in-mind.com/d/dungeons_and_dragons_2000.htm",
       "title": "Dungeons and Dragons"
@@ -52629,8 +54113,8 @@
       "title": "An Education"
     },
     "edward ii": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0101798",
+      "imdb_rating": "6.8",
       "kim_rating": "9.7.2",
       "url": "https://kids-in-mind.com/e/edward_ii_1992__972.htm",
       "title": "Edward II"
@@ -52657,8 +54141,8 @@
       "title": "Eight Below"
     },
     "8 crazy nights": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0271263",
+      "imdb_rating": "5.3",
       "kim_rating": "4.4.4",
       "url": "https://kids-in-mind.com/e/8crazynights.htm",
       "title": "8 Crazy Nights"
@@ -52902,8 +54386,8 @@
       "title": "Emperor's Club"
     },
     "the emperor's new clothes": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0282768",
+      "imdb_rating": "6.8",
       "kim_rating": "2.2.1",
       "url": "https://kids-in-mind.com/e/emperorsnewclothes.htm",
       "title": "The Emperor's New Clothes"
@@ -52951,8 +54435,8 @@
       "title": "Enchanted"
     },
     "enchanted april": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0101811",
+      "imdb_rating": "7.3",
       "kim_rating": "1.0.0",
       "url": "https://kids-in-mind.com/e/enchanted_april_1992__100.htm",
       "title": "Enchanted April"
@@ -53035,8 +54519,8 @@
       "title": "End of Watch"
     },
     "endurance": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0120659",
+      "imdb_rating": "6.3",
       "kim_rating": "0.2.0",
       "url": "https://kids-in-mind.com/e/endurance99.htm",
       "title": "Endurance"
@@ -53266,8 +54750,8 @@
       "title": "Eternity"
     },
     "ethan frome": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0106833",
+      "imdb_rating": "6.3",
       "kim_rating": "3.2.0",
       "url": "https://kids-in-mind.com/e/ethan_frome_1993__320.htm",
       "title": "Ethan Frome"
@@ -53301,8 +54785,8 @@
       "title": "Evan Almighty"
     },
     "even cowgirls get the blues": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0106834",
+      "imdb_rating": "4.3",
       "kim_rating": "6.3.6",
       "url": "https://kids-in-mind.com/e/even_cowgirls_get_the_blues_.htm",
       "title": "Even Cowgirls Get the Blues"
@@ -53749,8 +55233,8 @@
       "title": "Fair Play"
     },
     "fairy tale: a true story": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0119095",
+      "imdb_rating": "6.5",
       "kim_rating": "0.2.2",
       "url": "https://kids-in-mind.com/f/fairy_tale_a_true_story_1997__0.htm",
       "title": "Fairy Tale: A True Story"
@@ -53896,8 +55380,8 @@
       "title": "The Fan"
     },
     "fantasia 2000": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0120910",
+      "imdb_rating": "7.1",
       "kim_rating": "1.3.0",
       "url": "https://kids-in-mind.com/f/fantasia_2000_99.htm",
       "title": "Fantasia 2000"
@@ -54204,8 +55688,8 @@
       "title": "Fear"
     },
     "fear dot com": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0295254",
+      "imdb_rating": "3.4",
       "kim_rating": "5.8.6",
       "url": "https://kids-in-mind.com/f/feardotcom.htm",
       "title": "fear dot com"
@@ -54218,8 +55702,8 @@
       "title": "Fearless"
     },
     "fear of a black hat": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0106880",
+      "imdb_rating": "7.2",
       "kim_rating": "3.3.10",
       "url": "https://kids-in-mind.com/f/fear_of_a_black_hat_1994__3310.htm",
       "title": "Fear of a Black Hat"
@@ -54330,8 +55814,8 @@
       "title": "Fierce Creatures"
     },
     "fifteen minutes": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0179626",
+      "imdb_rating": "6.1",
       "kim_rating": "6.9.10",
       "url": "https://kids-in-mind.com/f/fifteen_minutes_2001.htm",
       "title": "Fifteen Minutes"
@@ -55107,8 +56591,8 @@
       "title": "The Forge"
     },
     "forget paris": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0113097",
+      "imdb_rating": "6.5",
       "kim_rating": "3.2.3",
       "url": "https://kids-in-mind.com/f/forget_paris_1995__323.htm",
       "title": "Forget Paris"
@@ -55149,8 +56633,8 @@
       "title": "For Love or Money"
     },
     "formula 51": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0227984",
+      "imdb_rating": "6.3",
       "kim_rating": "6.8.10",
       "url": "https://kids-in-mind.com/f/formula51.htm",
       "title": "Formula 51"
@@ -55177,8 +56661,8 @@
       "title": "The Forsaken"
     },
     "fortress": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0106950",
+      "imdb_rating": "5.9",
       "kim_rating": "7.7.6",
       "url": "https://kids-in-mind.com/f/fortress_1993__776.htm",
       "title": "Fortress"
@@ -55905,8 +57389,8 @@
       "title": "Gang Related"
     },
     "the gangs of new york": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0217505",
+      "imdb_rating": "7.5",
       "kim_rating": "7.9.5",
       "url": "https://kids-in-mind.com/g/gangsofnewyork.htm",
       "title": "The Gangs of New York"
@@ -55947,8 +57431,8 @@
       "title": "The Garfield Movie"
     },
     "garmento": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0305438",
+      "imdb_rating": "6.3",
       "kim_rating": "5.4.9",
       "url": "https://kids-in-mind.com/g/garmento.htm",
       "title": "Garmento"
@@ -56185,8 +57669,8 @@
       "title": "Ghost Dog: The Way of the Samurai"
     },
     "ghost in the machine": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0107009",
+      "imdb_rating": "4.7",
       "kim_rating": "2.6.3",
       "url": "https://kids-in-mind.com/g/ghost_in_the_machine_1994__263.htm",
       "title": "Ghost in the Machine"
@@ -56241,8 +57725,8 @@
       "title": "Ghosts of Mars"
     },
     "ghosts of mississippi": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0116410",
+      "imdb_rating": "6.7",
       "kim_rating": "1.3.4",
       "url": "https://kids-in-mind.com/g/ghosts_of_mississippi_1997__134.htm",
       "title": "Ghosts of Mississippi"
@@ -56640,8 +58124,8 @@
       "title": "Godzilla Minus One"
     },
     "godzilla 2000": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0188640",
+      "imdb_rating": "6.0",
       "kim_rating": "0.5.4",
       "url": "https://kids-in-mind.com/g/godzilla_2000.htm",
       "title": "Godzilla 2000"
@@ -56689,8 +58173,8 @@
       "title": "Gold"
     },
     "golddiggers: the secret of bear mountain": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0113188",
+      "imdb_rating": "6.0",
       "kim_rating": "0.2.3",
       "url": "https://kids-in-mind.com/g/golddiggers.htm",
       "title": "Golddiggers: The Secret of Bear Mountain"
@@ -56801,8 +58285,8 @@
       "title": "Goodbye Christopher Robin"
     },
     "goodbye lover": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0119219",
+      "imdb_rating": "5.6",
       "kim_rating": "7.6.10",
       "url": "https://kids-in-mind.com/g/goodbye_lover_1999__7610.htm",
       "title": "Goodbye Lover"
@@ -56990,8 +58474,8 @@
       "title": "Goosebumps 2: Haunted Halloween"
     },
     "gordy": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0113199",
+      "imdb_rating": "3.9",
       "kim_rating": "1.2.0",
       "url": "https://kids-in-mind.com/g/gordy_1995__120.htm",
       "title": "Gordy"
@@ -57291,8 +58775,8 @@
       "title": "Greyhound"
     },
     "the grey zone": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0252480",
+      "imdb_rating": "7.0",
       "kim_rating": "6.7.9",
       "url": "https://kids-in-mind.com/g/greyzone.htm",
       "title": "The Grey Zone"
@@ -57417,8 +58901,8 @@
       "title": "Grumpier Old Men"
     },
     "grumpy old men": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0107050",
+      "imdb_rating": "7.0",
       "kim_rating": "2.1.3",
       "url": "https://kids-in-mind.com/g/grumpy_old_men_1994__213.htm",
       "title": "Grumpy Old Men"
@@ -57529,8 +59013,8 @@
       "title": "The Gunman"
     },
     "gunmen": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0109959",
+      "imdb_rating": "5.3",
       "kim_rating": "4.6.6",
       "url": "https://kids-in-mind.com/g/gunmen_1994__466.htm",
       "title": "Gunmen"
@@ -57760,8 +59244,8 @@
       "title": "Hannibal Rising"
     },
     "hans christian andersen's thumbelina": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0111419",
+      "imdb_rating": "6.3",
       "kim_rating": "0.2.0",
       "url": "https://kids-in-mind.com/h/hans_christian_andersen.htm",
       "title": "Hans Christian Andersen's Thumbelina"
@@ -57949,8 +59433,8 @@
       "title": "Hard Target"
     },
     "the hard word": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0280490",
+      "imdb_rating": "6.0",
       "kim_rating": "7.7.10",
       "url": "https://kids-in-mind.com/h/hardword.htm",
       "title": "The Hard Word"
@@ -57991,8 +59475,8 @@
       "title": "Harriet the Spy"
     },
     "harrison's flowers": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0315600",
+      "imdb_rating": "6.2",
       "kim_rating": "5.8.10",
       "url": "https://kids-in-mind.com/h/harrisonsflowers.htm",
       "title": "Harrison's Flowers"
@@ -58250,8 +59734,8 @@
       "title": "The Heat"
     },
     "heaven & earth": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0111423",
+      "imdb_rating": "6.1",
       "kim_rating": "5.7.5",
       "url": "https://kids-in-mind.com/h/heaven__earth_1994__575.htm",
       "title": "Heaven & Earth"
@@ -58320,8 +59804,8 @@
       "title": "Heist"
     },
     "held up": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0165831",
+      "imdb_rating": "5.2",
       "kim_rating": "2.4.5",
       "url": "https://kids-in-mind.com/h/held_up_2000.htm",
       "title": "Held Up"
@@ -58369,15 +59853,15 @@
       "title": "Hell or High Water"
     },
     "hellraiser: bloodline": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0116514",
+      "imdb_rating": "5.1",
       "kim_rating": "5.9.5",
       "url": "https://kids-in-mind.com/h/hellraiser_bloodline_1996__595.htm",
       "title": "Hellraiser: Bloodline"
     },
     "hellraiser iii": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0104409",
+      "imdb_rating": "5.5",
       "kim_rating": "5.8.6",
       "url": "https://kids-in-mind.com/h/hellraiser_iii_1992__586.htm",
       "title": "Hellraiser III"
@@ -58551,8 +60035,8 @@
       "title": "Hideaway"
     },
     "hideous kinky": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0136244",
+      "imdb_rating": "6.0",
       "kim_rating": "6.3.5",
       "url": "https://kids-in-mind.com/h/hideouskinky99.htm",
       "title": "Hideous Kinky"
@@ -58600,8 +60084,8 @@
       "title": "Highlander: Endgame"
     },
     "highlander: the final dimension": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0110027",
+      "imdb_rating": "4.5",
       "kim_rating": "4.6.3",
       "url": "https://kids-in-mind.com/h/highlander_the_final_dimension_.htm",
       "title": "Highlander: The Final Dimension"
@@ -58839,7 +60323,7 @@
     },
     "hola frida": {
       "imdb_id": "tt35683445",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.9",
       "kim_rating": "1.3.1",
       "url": "https://kids-in-mind.com/h/hola-frida-parents-guide-movie-review-rating.htm",
       "title": "Hola Frida"
@@ -58950,8 +60434,8 @@
       "title": "Holy Man"
     },
     "holy smoke!": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0144715",
+      "imdb_rating": "5.9",
       "kim_rating": "9.3.8",
       "url": "https://kids-in-mind.com/h/holy_smoke_2000.htm",
       "title": "Holy Smoke!"
@@ -59447,8 +60931,8 @@
       "title": "House of Sand and Fog"
     },
     "the house of the spirits": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0107151",
+      "imdb_rating": "6.9",
       "kim_rating": "7.7.0",
       "url": "https://kids-in-mind.com/h/house_of_the_spirits_1994__770.htm",
       "title": "The House of the Spirits"
@@ -59489,8 +60973,8 @@
       "title": "The House with a Clock in Its Walls"
     },
     "howard stern's private parts": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0119951",
+      "imdb_rating": "6.9",
       "kim_rating": "8.2.8",
       "url": "https://kids-in-mind.com/h/howard_sterns_private_parts_.htm",
       "title": "Howard Stern's Private Parts"
@@ -59643,8 +61127,8 @@
       "title": "The Human Centipede (The First Sequence)"
     },
     "human nature": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0219822",
+      "imdb_rating": "6.4",
       "kim_rating": "7.4.7",
       "url": "https://kids-in-mind.com/h/humannature.htm",
       "title": "Human Nature"
@@ -60217,8 +61701,8 @@
       "title": "Immaculate"
     },
     "immortal beloved": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0110116",
+      "imdb_rating": "7.4",
       "kim_rating": "5.5.3",
       "url": "https://kids-in-mind.com/i/immortal_beloved_1995__553.htm",
       "title": "Immortal Beloved"
@@ -60301,8 +61785,8 @@
       "title": "In America"
     },
     "in and out": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0119360",
+      "imdb_rating": "6.4",
       "kim_rating": "2.1.5",
       "url": "https://kids-in-mind.com/i/in_and_out_1997__215.htm",
       "title": "In and Out"
@@ -60707,8 +62191,8 @@
       "title": "Insurgent"
     },
     "intacto": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0220580",
+      "imdb_rating": "6.7",
       "kim_rating": "5.6.5",
       "url": "https://kids-in-mind.com/i/intacto.htm",
       "title": "Intacto"
@@ -60763,8 +62247,8 @@
       "title": "The Interview"
     },
     "interview with the vampire: the vampire chronicles": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0110148",
+      "imdb_rating": "7.5",
       "kim_rating": "9.9.1",
       "url": "https://kids-in-mind.com/i/interview_with_the_vampire.htm",
       "title": "Interview With the Vampire: The Vampire Chronicles"
@@ -60834,21 +62318,21 @@
     },
     "in the mood for love": {
       "imdb_id": "tt20833922",
-      "imdb_rating": "N/A",
+      "imdb_rating": "7.4",
       "kim_rating": "2.0.1",
       "url": "https://kids-in-mind.com/i/in_the_mood_for_love_2001.htm",
       "title": "In The Mood For Love"
     },
     "in the mouth of madness": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0113409",
+      "imdb_rating": "7.1",
       "kim_rating": "2.6.5",
       "url": "https://kids-in-mind.com/i/in_the_mouth_of_madness_1995__2.htm",
       "title": "In the Mouth of Madness"
     },
     "in the name of the father": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0107207",
+      "imdb_rating": "8.1",
       "kim_rating": "3.6.8",
       "url": "https://kids-in-mind.com/i/in_the_name_of_the_father_1994_.htm",
       "title": "In the Name of the Father"
@@ -60910,8 +62394,8 @@
       "title": "Into the Storm"
     },
     "into the west": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0104522",
+      "imdb_rating": "7.0",
       "kim_rating": "0.2.3",
       "url": "https://kids-in-mind.com/i/into_the_west_1993__023.htm",
       "title": "Into the West"
@@ -61400,8 +62884,8 @@
       "title": "Jackie"
     },
     "jackie chan's first strike": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0116704",
+      "imdb_rating": "6.6",
       "kim_rating": "2.6.2",
       "url": "https://kids-in-mind.com/j/jackie_chans_first_strike_1997_.htm",
       "title": "Jackie Chan's First Strike"
@@ -61505,8 +62989,8 @@
       "title": "Jason Bourne"
     },
     "jason goes to hell: the final friday": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0107254",
+      "imdb_rating": "4.1",
       "kim_rating": "6.9.7",
       "url": "https://kids-in-mind.com/j/jason_goes_to_hell.htm",
       "title": "Jason Goes to Hell: The Final Friday"
@@ -61652,8 +63136,8 @@
       "title": "Jesus Revolution"
     },
     "jet lag": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0293116",
+      "imdb_rating": "6.1",
       "kim_rating": "6.2.5",
       "url": "https://kids-in-mind.com/j/jetlag.htm",
       "title": "Jet Lag"
@@ -61750,8 +63234,8 @@
       "title": "Joe Dirt"
     },
     "joe gould's secret": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0172632",
+      "imdb_rating": "6.5",
       "kim_rating": "8.1.6",
       "url": "https://kids-in-mind.com/j/joe_goulds_secret_99.htm",
       "title": "Joe Gould's Secret"
@@ -61764,8 +63248,8 @@
       "title": "Joe Somebody"
     },
     "john carpenter's vampires": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0120877",
+      "imdb_rating": "6.1",
       "kim_rating": "7.10.10",
       "url": "https://kids-in-mind.com/j/john_carpenters_vampires_1998_.htm",
       "title": "John Carpenter's Vampires"
@@ -61883,8 +63367,8 @@
       "title": "Jolt"
     },
     "jonah: a veggie tales movie": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0298388",
+      "imdb_rating": "6.4",
       "kim_rating": "0.2.1",
       "url": "https://kids-in-mind.com/j/jonahaveggietalesmovie.htm",
       "title": "Jonah: A Veggie Tales Movie"
@@ -61918,8 +63402,8 @@
       "title": "Joshua"
     },
     "josie & the pussycats": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0236348",
+      "imdb_rating": "5.7",
       "kim_rating": "3.3.3",
       "url": "https://kids-in-mind.com/j/josie_the_pussycats_2001.htm",
       "title": "Josie & The Pussycats"
@@ -62310,8 +63794,8 @@
       "title": "Kandahar"
     },
     "kangaroo jack": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0257568",
+      "imdb_rating": "4.5",
       "kim_rating": "3.4.3",
       "url": "https://kids-in-mind.com/k/kangaroojack.htm",
       "title": "Kangaroo Jack"
@@ -62464,8 +63948,8 @@
       "title": "The Kids Are All Right"
     },
     "the kids in the hall: brain candy": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0116768",
+      "imdb_rating": "6.9",
       "kim_rating": "5.0.7",
       "url": "https://kids-in-mind.com/k/kids_in_the_hall_brain_candy_.htm",
       "title": "The Kids in the Hall: Brain Candy"
@@ -62772,8 +64256,8 @@
       "title": "The Kissing Booth 2"
     },
     "kissing jessica stein": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0264761",
+      "imdb_rating": "6.5",
       "kim_rating": "6.1.6",
       "url": "https://kids-in-mind.com/k/kissingjessicastein.htm",
       "title": "Kissing Jessica Stein"
@@ -62801,7 +64285,7 @@
     },
     "kiss of the spider woman": {
       "imdb_id": "tt30400277",
-      "imdb_rating": "N/A",
+      "imdb_rating": "5.7",
       "kim_rating": "6.6.6",
       "url": "https://kids-in-mind.com/k/kiss-of-the-spider-woman-parents-guide-movie-review-rating.htm",
       "title": "Kiss of the Spider Woman"
@@ -62870,8 +64354,8 @@
       "title": "K-19: The Widowmaker"
     },
     "knockaround guys": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0211465",
+      "imdb_rating": "6.1",
       "kim_rating": "1.7.10",
       "url": "https://kids-in-mind.com/k/knockaroundguys.htm",
       "title": "Knockaround Guys"
@@ -63465,8 +64949,8 @@
       "title": "A Late Quartet"
     },
     "l'auberge espagnole": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0283900",
+      "imdb_rating": "7.3",
       "kim_rating": "7.3.7",
       "url": "https://kids-in-mind.com/l/laubergeespagnole.htm",
       "title": "L'Auberge Espagnole"
@@ -63710,8 +65194,8 @@
       "title": "Legends of Oz: Dorothy's Return"
     },
     "legends of the fall": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0110322",
+      "imdb_rating": "7.5",
       "kim_rating": "5.8.5",
       "url": "https://kids-in-mind.com/l/legends_of_the_fall_1995__585.htm",
       "title": "Legends of the Fall"
@@ -64221,8 +65705,8 @@
       "title": "Little Children"
     },
     "little city": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0119548",
+      "imdb_rating": "5.8",
       "kim_rating": "4.1.7",
       "url": "https://kids-in-mind.com/l/little_city_1998__417.htm",
       "title": "Little City"
@@ -64249,8 +65733,8 @@
       "title": "A Little Help"
     },
     "little indian, big city": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0111543",
+      "imdb_rating": "5.7",
       "kim_rating": "2.2.3",
       "url": "https://kids-in-mind.com/l/little_indian_big_city_1996__223.htm",
       "title": "Little Indian, Big City"
@@ -64417,8 +65901,8 @@
       "title": "Lockout"
     },
     "lock, stock & two smoking barrels": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0120735",
+      "imdb_rating": "8.1",
       "kim_rating": "5.9.10",
       "url": "https://kids-in-mind.com/l/lock_stock_1998_5910.htm",
       "title": "Lock, Stock & Two Smoking Barrels"
@@ -64641,8 +66125,8 @@
       "title": "Lore"
     },
     "lorenzo's oil": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0104756",
+      "imdb_rating": "7.3",
       "kim_rating": "0.2.1",
       "url": "https://kids-in-mind.com/l/lorenzos_oil_1993__021.htm",
       "title": "Lorenzo's Oil"
@@ -64683,7 +66167,7 @@
       "title": "The Lost Daughter"
     },
     "lost & found": {
-      "imdb_id": "N/A",
+      "imdb_id": "tt8256844",
       "imdb_rating": "N/A",
       "kim_rating": "3.4.4",
       "url": "https://kids-in-mind.com/l/lost__found_1999__344.htm",
@@ -64774,15 +66258,15 @@
       "title": "Love and a Bullet"
     },
     "love and basketball": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0199725",
+      "imdb_rating": "7.2",
       "kim_rating": "5.3.5",
       "url": "https://kids-in-mind.com/l/love_and_basketball_2000.htm",
       "title": "Love and Basketball"
     },
     "love and death on long island": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0119574",
+      "imdb_rating": "6.9",
       "kim_rating": "4.2.6",
       "url": "https://kids-in-mind.com/l/love_and_death_on_long_island_.htm",
       "title": "Love and Death on Long Island"
@@ -64837,8 +66321,8 @@
       "title": "Love Don't Cost a Thing"
     },
     "love field": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0104765",
+      "imdb_rating": "6.5",
       "kim_rating": "2.3.4",
       "url": "https://kids-in-mind.com/l/love_field_1993__234.htm",
       "title": "Love Field"
@@ -64921,8 +66405,8 @@
       "title": "The Love Letter"
     },
     "lovely and amazing": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0258273",
+      "imdb_rating": "6.7",
       "kim_rating": "6.3.6",
       "url": "https://kids-in-mind.com/l/lovelyandamazing.htm",
       "title": "Lovely and Amazing"
@@ -65075,8 +66559,8 @@
       "title": "Ma"
     },
     "mac": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0104783",
+      "imdb_rating": "6.2",
       "kim_rating": "6.4.8",
       "url": "https://kids-in-mind.com/m/mac_1993__648.htm",
       "title": "Mac"
@@ -65278,8 +66762,8 @@
       "title": "Mafia Mamma"
     },
     "magdalene sisters": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0318411",
+      "imdb_rating": "7.7",
       "kim_rating": "8.6.6",
       "url": "https://kids-in-mind.com/m/magdalenesisters.htm",
       "title": "Magdalene Sisters"
@@ -65376,8 +66860,8 @@
       "title": "Major League II"
     },
     "major league iii: back to the minors": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0120742",
+      "imdb_rating": "4.7",
       "kim_rating": "2.2.5",
       "url": "https://kids-in-mind.com/m/major_league_iii.htm",
       "title": "Major League III: Back to the Minors"
@@ -65663,8 +67147,8 @@
       "title": "The Many Saints of Newark"
     },
     "map of the human heart": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0104812",
+      "imdb_rating": "7.0",
       "kim_rating": "6.6.5",
       "url": "https://kids-in-mind.com/m/map_of_the_human_heart_1993__665.htm",
       "title": "Map of the Human Heart"
@@ -65775,8 +67259,8 @@
       "title": "Married Life"
     },
     "married to it": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0107523",
+      "imdb_rating": "5.9",
       "kim_rating": "5.0.7",
       "url": "https://kids-in-mind.com/m/married_to_it_1993__507.htm",
       "title": "Married to It"
@@ -65866,8 +67350,8 @@
       "title": "Mary Reilly"
     },
     "mary shelley's frankenstein": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0109836",
+      "imdb_rating": "6.3",
       "kim_rating": "5.7.2",
       "url": "https://kids-in-mind.com/m/mary_shelleys_frankenstein_1994.htm",
       "title": "Mary Shelley's Frankenstein"
@@ -65964,8 +67448,8 @@
       "title": "The Matrix"
     },
     "the matrix reloaded": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0234215",
+      "imdb_rating": "7.2",
       "kim_rating": "6.7.5",
       "url": "https://kids-in-mind.com/m/matrixreloaded.htm",
       "title": "The Matrix Reloaded"
@@ -66713,8 +68197,8 @@
       "title": "Milk"
     },
     "milk money": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0110516",
+      "imdb_rating": "5.7",
       "kim_rating": "4.3.3",
       "url": "https://kids-in-mind.com/m/milk_money_1994__433.htm",
       "title": "Milk Money"
@@ -67098,8 +68582,8 @@
       "title": "Molly's Game"
     },
     "mom & dad save the world": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0104905",
+      "imdb_rating": "5.4",
       "kim_rating": "1.1.1",
       "url": "https://kids-in-mind.com/m/mom__dad_save_the_world_1992__1.htm",
       "title": "Mom & Dad Save The World"
@@ -67119,8 +68603,8 @@
       "title": "Mona Lisa Smile"
     },
     "mondays in the sun": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0319769",
+      "imdb_rating": "7.5",
       "kim_rating": "4.3.8",
       "url": "https://kids-in-mind.com/m/mondaysinthesun.htm",
       "title": "Mondays in the Sun"
@@ -67133,8 +68617,8 @@
       "title": "Moneyball"
     },
     "money kings": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0131110",
+      "imdb_rating": "5.8",
       "kim_rating": "3.4.10",
       "url": "https://kids-in-mind.com/m/money_kings_1998__3410.htm",
       "title": "Money Kings"
@@ -67462,8 +68946,8 @@
       "title": "Mother of the Bride"
     },
     "mother's boys": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0107606",
+      "imdb_rating": "5.4",
       "kim_rating": "5.7.5",
       "url": "https://kids-in-mind.com/m/mothers_boys_1994__575.htm",
       "title": "Mother's Boys"
@@ -67616,8 +69100,8 @@
       "title": "Mr. Malcolm’s List"
     },
     "mr. nice guy": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0117786",
+      "imdb_rating": "6.2",
       "kim_rating": "2.6.2",
       "url": "https://kids-in-mind.com/m/mr_nice_guy_1998__262.htm",
       "title": "Mr. Nice Guy"
@@ -67868,8 +69352,8 @@
       "title": "Murder on the Orient Express"
     },
     "muriel's wedding": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0110598",
+      "imdb_rating": "7.3",
       "kim_rating": "3.2.5",
       "url": "https://kids-in-mind.com/m/muriels_wedding_1995__325.htm",
       "title": "Muriel's Wedding"
@@ -67953,7 +69437,7 @@
     },
     "my best worst adventure": {
       "imdb_id": "tt12755918",
-      "imdb_rating": "N/A",
+      "imdb_rating": "7.5",
       "kim_rating": "2.5.2",
       "url": "https://kids-in-mind.com/m/my-best-worst-adventure-parents-guide-movie-review-rating.htm",
       "title": "My Best Worst Adventure"
@@ -68274,8 +69758,8 @@
       "title": "National Lampoon's Adam and Eve"
     },
     "national lampoon's loaded weapon i": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0107659",
+      "imdb_rating": "6.2",
       "kim_rating": "4.4.4",
       "url": "https://kids-in-mind.com/n/national_lampoon_loaded.htm",
       "title": "National Lampoon's Loaded Weapon I"
@@ -68295,8 +69779,8 @@
       "title": "National Lampoon's Van Wilder: The Rise of Taj"
     },
     "national lampoon's vegas vacation": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0120434",
+      "imdb_rating": "5.9",
       "kim_rating": "2.2.3",
       "url": "https://kids-in-mind.com/n/national_lampoons_vegas.htm",
       "title": "National Lampoon's Vegas Vacation"
@@ -68386,8 +69870,8 @@
       "title": "Neighbors 2: Sorority Rising"
     },
     "neil simon's the odd couple ii": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0120773",
+      "imdb_rating": "6.5",
       "kim_rating": "1.2.5",
       "url": "https://kids-in-mind.com/n/neil_simons_the_odd_couple_ii_.htm",
       "title": "Neil Simon's The Odd Couple II"
@@ -68666,8 +70150,8 @@
       "title": "Nightcrawler"
     },
     "night falls on manhattan": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0119783",
+      "imdb_rating": "6.7",
       "kim_rating": "2.5.8",
       "url": "https://kids-in-mind.com/n/night_falls_on_manhattan_1997_.htm",
       "title": "Night Falls on Manhattan"
@@ -68694,8 +70178,8 @@
       "title": "A Nightmare on Elm Street"
     },
     "night on earth": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0102536",
+      "imdb_rating": "7.7",
       "kim_rating": "3.0.6",
       "url": "https://kids-in-mind.com/n/night_on_earth_1992__306.htm",
       "title": "Night on Earth"
@@ -68722,8 +70206,8 @@
       "title": "Night Swim"
     },
     "nightwatch": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0119791",
+      "imdb_rating": "6.2",
       "kim_rating": "7.8.7",
       "url": "https://kids-in-mind.com/n/nightwatch_1998__787.htm",
       "title": "Nightwatch"
@@ -68827,8 +70311,8 @@
       "title": "Ninja Assassin"
     },
     "the ninth gate": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0142688",
+      "imdb_rating": "6.7",
       "kim_rating": "6.6.5",
       "url": "https://kids-in-mind.com/n/ninth_gate_2000.htm",
       "title": "The Ninth Gate"
@@ -68862,8 +70346,8 @@
       "title": "Nobody 2"
     },
     "nobody's fool": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0110684",
+      "imdb_rating": "7.3",
       "kim_rating": "5.2.5",
       "url": "https://kids-in-mind.com/n/nobodys_fool_1995__525.htm",
       "title": "Nobody's Fool"
@@ -69527,8 +71011,8 @@
       "title": "The Old Way"
     },
     "oliver and company": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0095776",
+      "imdb_rating": "6.6",
       "kim_rating": "0.2.0",
       "url": "https://kids-in-mind.com/o/oliver_and_company_1988__020.htm",
       "title": "Oliver and Company"
@@ -69856,8 +71340,8 @@
       "title": "Operation Christmas Drop"
     },
     "operation condor": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0099558",
+      "imdb_rating": "7.2",
       "kim_rating": "2.5.2",
       "url": "https://kids-in-mind.com/o/operation_condor_1997__252.htm",
       "title": "Operation Condor"
@@ -69969,7 +71453,7 @@
     },
     "orwell: 2+2=5": {
       "imdb_id": "tt27052428",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.8",
       "kim_rating": "6.8.5",
       "url": "https://kids-in-mind.com/o/orwell-2-2-5-parents-guide-movie-review-rating.htm",
       "title": "Orwell: 2+2=5"
@@ -70570,8 +72054,8 @@
       "title": "Passing"
     },
     "passion of mind": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0160644",
+      "imdb_rating": "5.5",
       "kim_rating": "5.0.3",
       "url": "https://kids-in-mind.com/p/passion_of_mind_1999.htm",
       "title": "Passion of Mind"
@@ -70773,8 +72257,8 @@
       "title": "Pelé: Birth of a Legend"
     },
     "the pelican brief": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0107798",
+      "imdb_rating": "6.6",
       "kim_rating": "2.5.1",
       "url": "https://kids-in-mind.com/p/pelican_brief_1994__251.htm",
       "title": "The Pelican Brief"
@@ -70815,8 +72299,8 @@
       "title": "People Like Us"
     },
     "the people vs. larry flynt": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0117318",
+      "imdb_rating": "7.3",
       "kim_rating": "8.3.8",
       "url": "https://kids-in-mind.com/p/people_vs_larry_flynt_1997__838.htm",
       "title": "The People vs. Larry Flynt"
@@ -70990,8 +72474,8 @@
       "title": "Peter Rabbit 2: The Runaway"
     },
     "peter's friends": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0106968",
+      "imdb_rating": "6.3",
       "kim_rating": "6.1.6",
       "url": "https://kids-in-mind.com/p/peters_friends_1993__616.htm",
       "title": "Peter's Friends"
@@ -71088,8 +72572,8 @@
       "title": "Phoenix Forgotten"
     },
     "phone booth": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0183649",
+      "imdb_rating": "7.1",
       "kim_rating": "4.4.10",
       "url": "https://kids-in-mind.com/p/phonebooth.htm",
       "title": "Phone Booth"
@@ -71494,8 +72978,8 @@
       "title": "Pokémon Detective Pikachu"
     },
     "pokémon 4ever": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0287635",
+      "imdb_rating": "5.8",
       "kim_rating": "1.3.0",
       "url": "https://kids-in-mind.com/p/pokemon4ever.htm",
       "title": "Pokémon 4Ever"
@@ -71508,22 +72992,22 @@
       "title": "Pokémon Heroes"
     },
     "pokémon the first movie: mewtwo strikes back": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0190641",
+      "imdb_rating": "6.3",
       "kim_rating": "0.4.0",
       "url": "https://kids-in-mind.com/p/pokemon99.htm",
       "title": "Pokémon the First Movie: Mewtwo Strikes Back"
     },
     "pokémon: the movie 2000": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0210234",
+      "imdb_rating": "6.1",
       "kim_rating": "1.3.1",
       "url": "https://kids-in-mind.com/p/pokemon_the_movie_2000_2000.htm",
       "title": "Pokémon: The Movie 2000"
     },
     "pokémon 3: the movie": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0235679",
+      "imdb_rating": "5.9",
       "kim_rating": "0.3.0",
       "url": "https://kids-in-mind.com/p/pokemon_3_the_movie_2001.htm",
       "title": "Pokémon 3: The Movie"
@@ -71900,8 +73384,8 @@
       "title": "The Princess and the Frog"
     },
     "the princess and the goblin": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0107875",
+      "imdb_rating": "6.7",
       "kim_rating": "0.3.0",
       "url": "https://kids-in-mind.com/p/princess_and_the_goblin_1994__0.htm",
       "title": "The Princess and the Goblin"
@@ -71928,8 +73412,8 @@
       "title": "The Princess Diaries 2: Royal Engagement"
     },
     "princess mononoke": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0119698",
+      "imdb_rating": "8.3",
       "kim_rating": "1.6.3",
       "url": "https://kids-in-mind.com/p/princessmononoke99.htm",
       "title": "Princess Mononoke"
@@ -72761,8 +74245,8 @@
       "title": "Reagan"
     },
     "the real blonde": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0119987",
+      "imdb_rating": "6.0",
       "kim_rating": "7.4.8",
       "url": "https://kids-in-mind.com/r/real_blonde_1998__748.htm",
       "title": "The Real Blonde"
@@ -73349,15 +74833,15 @@
       "title": "Richie Rich"
     },
     "rich in love": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0105256",
+      "imdb_rating": "6.1",
       "kim_rating": "2.0.3",
       "url": "https://kids-in-mind.com/r/rich_in_love_1993__203.htm",
       "title": "Rich in Love"
     },
     "a rich man's wife": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0117473",
+      "imdb_rating": "5.3",
       "kim_rating": "2.8.8",
       "url": "https://kids-in-mind.com/r/rich_mans_wife_1996__288.htm",
       "title": "A Rich Man's Wife"
@@ -73559,8 +75043,8 @@
       "title": "The Road to El Dorado"
     },
     "the road to perdition": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0257044",
+      "imdb_rating": "7.6",
       "kim_rating": "3.7.5",
       "url": "https://kids-in-mind.com/r/roadtoperdition.htm",
       "title": "The Road to Perdition"
@@ -73587,8 +75071,8 @@
       "title": "Roar"
     },
     "robert a. heinlein's the puppet masters": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0111003",
+      "imdb_rating": "5.9",
       "kim_rating": "3.7.5",
       "url": "https://kids-in-mind.com/r/robert_a_heinlein.htm",
       "title": "Robert A. Heinlein's The Puppet Masters"
@@ -73650,8 +75134,8 @@
       "title": "The Rock"
     },
     "rock-a-doodle": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0102802",
+      "imdb_rating": "6.0",
       "kim_rating": "0.2.0",
       "url": "https://kids-in-mind.com/r/rockadoodle_1992__020.htm",
       "title": "Rock-A-Doodle"
@@ -73678,8 +75162,8 @@
       "title": "Rocketman"
     },
     "rocket man": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0120029",
+      "imdb_rating": "5.9",
       "kim_rating": "1.1.1",
       "url": "https://kids-in-mind.com/r/rocket_man_1997__111.htm",
       "title": "Rocket Man"
@@ -73986,8 +75470,8 @@
       "title": "Rugrats Go Wild"
     },
     "rugrats in paris: the movie": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0213203",
+      "imdb_rating": "6.2",
       "kim_rating": "1.2.1",
       "url": "https://kids-in-mind.com/r/rugrats_in_paris_the_movie_2000.htm",
       "title": "Rugrats in Paris: The Movie"
@@ -74042,8 +75526,8 @@
       "title": "Rumble"
     },
     "rumble in the bronx": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0113326",
+      "imdb_rating": "6.8",
       "kim_rating": "3.7.6",
       "url": "https://kids-in-mind.com/r/rumble_in_the_bronx_1996__376.htm",
       "title": "Rumble in the Bronx"
@@ -74224,8 +75708,8 @@
       "title": "Safe Men"
     },
     "safe passage": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0111054",
+      "imdb_rating": "6.3",
       "kim_rating": "4.3.5",
       "url": "https://kids-in-mind.com/s/safe_passage_1995__435.htm",
       "title": "Safe Passage"
@@ -74609,15 +76093,15 @@
       "title": "Scary Stories to Tell in the Dark"
     },
     "scent of a woman": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0105323",
+      "imdb_rating": "8.0",
       "kim_rating": "2.3.8",
       "url": "https://kids-in-mind.com/s/scent_of_a_woman_1993.htm",
       "title": "Scent of a Woman"
     },
     "schindler's list": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0108052",
+      "imdb_rating": "9.0",
       "kim_rating": "6.10.5",
       "url": "https://kids-in-mind.com/s/schindlers_list_1994__6105.htm",
       "title": "Schindler's List"
@@ -74637,8 +76121,8 @@
       "title": "School for Scoundrels"
     },
     "the school of rock": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0332379",
+      "imdb_rating": "7.2",
       "kim_rating": "3.3.3",
       "url": "https://kids-in-mind.com/s/schoolofrock.htm",
       "title": "The School of Rock"
@@ -74896,8 +76380,8 @@
       "title": "The Secret Life of Walter Mitty"
     },
     "the secret lives of dentists": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0314630",
+      "imdb_rating": "6.4",
       "kim_rating": "7.4.5",
       "url": "https://kids-in-mind.com/s/secretlivesofdentists.htm",
       "title": "The Secret Lives of Dentists"
@@ -75190,8 +76674,8 @@
       "title": "Sex Tape"
     },
     "sexy beast": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0203119",
+      "imdb_rating": "7.3",
       "kim_rating": "6.7.10",
       "url": "https://kids-in-mind.com/s/sexy_beast_2001.htm",
       "title": "Sexy Beast"
@@ -75218,8 +76702,8 @@
       "title": "The Shadow"
     },
     "the shadow conspiracy": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0120107",
+      "imdb_rating": "5.0",
       "kim_rating": "1.7.6",
       "url": "https://kids-in-mind.com/s/shadow_conspiracy_1997__176.htm",
       "title": "The Shadow Conspiracy"
@@ -75232,29 +76716,29 @@
       "title": "Shadow Force"
     },
     "shadowlands": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0108101",
+      "imdb_rating": "7.3",
       "kim_rating": "1.0.0",
       "url": "https://kids-in-mind.com/s/shadowlands_1994__100.htm",
       "title": "Shadowlands"
     },
     "shadow of the vampire": {
       "imdb_id": "tt4624162",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.9",
       "kim_rating": "6.6.5",
       "url": "https://kids-in-mind.com/s/shadow_of_the_vampire_2001.htm",
       "title": "Shadow of the Vampire"
     },
     "shadow of the wolf": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0105377",
+      "imdb_rating": "5.8",
       "kim_rating": "4.4.0",
       "url": "https://kids-in-mind.com/s/shadow_of_the_wolf_1993__440.htm",
       "title": "Shadow of the Wolf"
     },
     "shadows and fog": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0105378",
+      "imdb_rating": "6.7",
       "kim_rating": "2.5.2",
       "url": "https://kids-in-mind.com/s/shadows_and_fog_1992__252.htm",
       "title": "Shadows and Fog"
@@ -75288,8 +76772,8 @@
       "title": "Shakespeare in Love"
     },
     "shallow grave": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0111149",
+      "imdb_rating": "7.2",
       "kim_rating": "8.6.7",
       "url": "https://kids-in-mind.com/s/shallow_grave_1995__867.htm",
       "title": "Shallow Grave"
@@ -75715,8 +77199,8 @@
       "title": "Side Effects"
     },
     "sidekicks": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0105402",
+      "imdb_rating": "5.3",
       "kim_rating": "0.5.2",
       "url": "https://kids-in-mind.com/s/sidekicks_1993__052.htm",
       "title": "Sidekicks"
@@ -76037,8 +77521,8 @@
       "title": "Six Days, Seven Nights"
     },
     "six degrees of separation": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0108149",
+      "imdb_rating": "6.8",
       "kim_rating": "6.2.5",
       "url": "https://kids-in-mind.com/s/six_degrees_of_separation_1994_.htm",
       "title": "Six Degrees of Separation"
@@ -76170,15 +77654,15 @@
       "title": "Slackers"
     },
     "slap her she's french": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0187512",
+      "imdb_rating": "5.1",
       "kim_rating": "4.3.5",
       "url": "https://kids-in-mind.com/s/slaphershesfrench.htm",
       "title": "Slap Her She's French"
     },
     "slc punk!": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0133189",
+      "imdb_rating": "7.3",
       "kim_rating": "5.5.10",
       "url": "https://kids-in-mind.com/s/slcpunk99.htm",
       "title": "SLC Punk!"
@@ -76478,8 +77962,8 @@
       "title": "Snowden"
     },
     "snow dogs": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0281373",
+      "imdb_rating": "5.2",
       "kim_rating": "2.4.2",
       "url": "https://kids-in-mind.com/s/snow_dogs_2002.htm",
       "title": "Snow Dogs"
@@ -76758,8 +78242,8 @@
       "title": "Son of the Pink Panther"
     },
     "the son's room": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0208990",
+      "imdb_rating": "7.3",
       "kim_rating": "5.4.5",
       "url": "https://kids-in-mind.com/s/sonsroom.htm",
       "title": "The Son's Room"
@@ -76815,7 +78299,7 @@
     },
     "soul on fire": {
       "imdb_id": "tt28078628",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.6",
       "kim_rating": "3.5.1",
       "url": "https://kids-in-mind.com/s/soul-on-fire-parents-guide-movie-review-rating.htm",
       "title": "Soul on Fire"
@@ -76877,8 +78361,8 @@
       "title": "Source Code"
     },
     "south park: bigger, longer and uncut": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0158983",
+      "imdb_rating": "7.7",
       "kim_rating": "7.6.10",
       "url": "https://kids-in-mind.com/s/southparkbigger99.htm",
       "title": "South Park: Bigger, Longer and Uncut"
@@ -77164,8 +78648,8 @@
       "title": "Spirited"
     },
     "spirited away": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0245429",
+      "imdb_rating": "8.6",
       "kim_rating": "0.4.0",
       "url": "https://kids-in-mind.com/s/spiritedaway.htm",
       "title": "Spirited Away"
@@ -77332,8 +78816,8 @@
       "title": "Spy Kids 2: The Island of Lost Dreams"
     },
     "spy kids 3-d: game over": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0338459",
+      "imdb_rating": "4.4",
       "kim_rating": "0.3.0",
       "url": "https://kids-in-mind.com/s/spykids3d.htm",
       "title": "Spy Kids 3-D: Game Over"
@@ -77829,8 +79313,8 @@
       "title": "The Story of Us"
     },
     "storytelling": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0250081",
+      "imdb_rating": "6.8",
       "kim_rating": "9.4.8",
       "url": "https://kids-in-mind.com/s/storytelling_2002.htm",
       "title": "Storytelling"
@@ -77893,7 +79377,7 @@
     },
     "the strangers: chapter 2": {
       "imdb_id": "tt28671344",
-      "imdb_rating": "N/A",
+      "imdb_rating": "4.7",
       "kim_rating": "3.8.6",
       "url": "https://kids-in-mind.com/s/strangers-chapter-2-parents-guide-movie-review-rating.htm",
       "title": "The Strangers: Chapter 2"
@@ -77969,8 +79453,8 @@
       "title": "Street Kings"
     },
     "strictly ballroom": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0105488",
+      "imdb_rating": "7.2",
       "kim_rating": "2.1.0",
       "url": "https://kids-in-mind.com/s/strictly_ballroom_1993__210.htm",
       "title": "Strictly Ballroom"
@@ -78095,8 +79579,8 @@
       "title": "Sugar and Spice"
     },
     "sugar hill": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0107079",
+      "imdb_rating": "5.8",
       "kim_rating": "5.7.9",
       "url": "https://kids-in-mind.com/s/sugar_hill_1994__579.htm",
       "title": "Sugar Hill"
@@ -78242,8 +79726,8 @@
       "title": "Superbad"
     },
     "supercop": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0104558",
+      "imdb_rating": "7.0",
       "kim_rating": "1.8.5",
       "url": "https://kids-in-mind.com/s/supercop_1996__185.htm",
       "title": "Supercop"
@@ -78690,8 +80174,8 @@
       "title": "A Tale of Two Sisters"
     },
     "tales from the crypt presents bordello of blood": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0117826",
+      "imdb_rating": "5.4",
       "kim_rating": "7.9.7",
       "url": "https://kids-in-mind.com/t/tales_from_the_crypt_presents_bo.htm",
       "title": "Tales from the Crypt Presents Bordello of Blood"
@@ -78732,8 +80216,8 @@
       "title": "The Tall Man"
     },
     "tall tale: the unbelievable adventures of pecos bill": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0111359",
+      "imdb_rating": "5.9",
       "kim_rating": "0.3.1",
       "url": "https://kids-in-mind.com/t/tall_tale.htm",
       "title": "Tall Tale: The Unbelievable Adventures of Pecos Bill"
@@ -78935,8 +80419,8 @@
       "title": "Tenacious D: The Pick of Destiny"
     },
     "ten benny": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0114008",
+      "imdb_rating": "5.6",
       "kim_rating": "4.3.10",
       "url": "https://kids-in-mind.com/t/ten_benny_1996__4310.htm",
       "title": "Ten Benny"
@@ -79237,7 +80721,7 @@
     },
     "the thing with feathers": {
       "imdb_id": "tt27773954",
-      "imdb_rating": "N/A",
+      "imdb_rating": "5.7",
       "kim_rating": "1.6.6",
       "url": "https://kids-in-mind.com/t/thing-with-feathers-parents-guide-movie-review-rating.htm",
       "title": "The Thing with Feathers"
@@ -79551,8 +81035,8 @@
       "title": "360"
     },
     "three identical strangers": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt7664504",
+      "imdb_rating": "7.6",
       "kim_rating": "2.2.3",
       "url": "https://kids-in-mind.com/t/three-identical-strangers-parents-guide-movie-review-rating.htm",
       "title": "Three Identical Strangers"
@@ -79775,8 +81259,8 @@
       "title": "Time"
     },
     "time code": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0220100",
+      "imdb_rating": "6.0",
       "kim_rating": "5.4.7",
       "url": "https://kids-in-mind.com/t/time_code_2000.htm",
       "title": "Time Code"
@@ -79915,8 +81399,8 @@
       "title": "Tom and Jerry"
     },
     "tom and jerry: the movie": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0105616",
+      "imdb_rating": "5.5",
       "kim_rating": "0.1.0",
       "url": "https://kids-in-mind.com/t/tom_and_jerry_the_movie_1993__0.htm",
       "title": "Tom and Jerry: The Movie"
@@ -80342,8 +81826,8 @@
       "title": "The Tree of Life"
     },
     "trekkies": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0120370",
+      "imdb_rating": "6.9",
       "kim_rating": "2.1.0",
       "url": "https://kids-in-mind.com/t/trekkies98.htm",
       "title": "Trekkies"
@@ -80461,8 +81945,8 @@
       "title": "Tristram Shandy: A Cock and Bull Story"
     },
     "the triumph of love": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0253840",
+      "imdb_rating": "5.8",
       "kim_rating": "5.1.1",
       "url": "https://kids-in-mind.com/t/triumphoflove.htm",
       "title": "The Triumph of Love"
@@ -80601,8 +82085,8 @@
       "title": "Truth"
     },
     "the truth about cats and dogs": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0117979",
+      "imdb_rating": "6.3",
       "kim_rating": "4.0.5",
       "url": "https://kids-in-mind.com/t/truth_about_cats_and_dogs_1996_.htm",
       "title": "The Truth About Cats and Dogs"
@@ -80874,8 +82358,8 @@
       "title": "28 Days"
     },
     "28 days later": {
-      "imdb_id": "tt28105787",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0289043",
+      "imdb_rating": "7.5",
       "kim_rating": "6.9.9",
       "url": "https://kids-in-mind.com/t/28dayslater.htm",
       "title": "28 Days Later"
@@ -81014,8 +82498,8 @@
       "title": "Two for the Money"
     },
     "two girls and a guy": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0124179",
+      "imdb_rating": "5.5",
       "kim_rating": "5.3.10",
       "url": "https://kids-in-mind.com/t/two_girls_and_a_guy_1998.htm",
       "title": "Two Girls and a Guy"
@@ -81707,8 +83191,8 @@
       "title": "Us"
     },
     "used people": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0105706",
+      "imdb_rating": "6.2",
       "kim_rating": "3.1.5",
       "url": "https://kids-in-mind.com/u/used_people_1993__315.htm",
       "title": "Used People"
@@ -82232,8 +83716,8 @@
       "title": "Walk Hard: The Dewey Cox Story"
     },
     "walking across egypt": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0175317",
+      "imdb_rating": "7.2",
       "kim_rating": "1.3.4",
       "url": "https://kids-in-mind.com/w/walking_across_egypt_2000.htm",
       "title": "Walking Across Egypt"
@@ -82757,8 +84241,8 @@
       "title": "We Own the Night"
     },
     "we're back!: a dinosaur's story": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0108526",
+      "imdb_rating": "6.0",
       "kim_rating": "1.1.0",
       "url": "https://kids-in-mind.com/w/were_back_a_dinosaurs_story_.htm",
       "title": "We're Back!: A Dinosaur's Story"
@@ -82778,8 +84262,8 @@
       "title": "Werewolves"
     },
     "wes craven's new nightmare": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0111686",
+      "imdb_rating": "6.4",
       "kim_rating": "0.8.5",
       "url": "https://kids-in-mind.com/w/wes_cravens_new_nightmare_1994_.htm",
       "title": "Wes Craven's New Nightmare"
@@ -82904,8 +84388,8 @@
       "title": "Smokin' Aces"
     },
     "what's eating gilbert grape?": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0108550",
+      "imdb_rating": "7.7",
       "kim_rating": "3.2.4",
       "url": "https://kids-in-mind.com/w/whats_eating_gilbert_grape_1994.htm",
       "title": "What's Eating Gilbert Grape?"
@@ -82988,15 +84472,15 @@
       "title": "When the Game Stands Tall"
     },
     "where angels fear to tread": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0103243",
+      "imdb_rating": "6.3",
       "kim_rating": "0.3.0",
       "url": "https://kids-in-mind.com/w/where_angels_fear_to_tread_1992.htm",
       "title": "Where Angels Fear to Tread"
     },
     "where do we go now?": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt1772424",
+      "imdb_rating": "7.4",
       "kim_rating": "3.6.4",
       "url": "https://kids-in-mind.com/w/wheredowegonow.htm",
       "title": "Where Do We Go Now?"
@@ -83198,8 +84682,8 @@
       "title": "Whitney Houston: I Wanna Dance with Somebody"
     },
     "who is cletis tout?": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0246500",
+      "imdb_rating": "6.3",
       "kim_rating": "6.6.6",
       "url": "https://kids-in-mind.com/w/whoiscletistout.htm",
       "title": "Who Is Cletis Tout?"
@@ -83296,8 +84780,8 @@
       "title": "Wide Awake"
     },
     "the widow of saint-pierre": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0191636",
+      "imdb_rating": "7.1",
       "kim_rating": "5.8.3",
       "url": "https://kids-in-mind.com/w/widow_of_saintpierre_the_2001.htm",
       "title": "The Widow of Saint-Pierre"
@@ -83359,8 +84843,8 @@
       "title": "The Wild Life"
     },
     "wild man blues": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0141986",
+      "imdb_rating": "6.9",
       "kim_rating": "1.1.5",
       "url": "https://kids-in-mind.com/w/wild_man_blues_1998__115.htm",
       "title": "Wild Man Blues"
@@ -83387,8 +84871,8 @@
       "title": "Wild Things"
     },
     "the wild thornberrys movie": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0282120",
+      "imdb_rating": "5.7",
       "kim_rating": "1.3.0",
       "url": "https://kids-in-mind.com/w/wildthornberrysmovie.htm",
       "title": "The Wild Thornberrys Movie"
@@ -83415,8 +84899,8 @@
       "title": "Willard"
     },
     "william shakespeare's romeo + juliet": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0117509",
+      "imdb_rating": "6.7",
       "kim_rating": "3.6.1",
       "url": "https://kids-in-mind.com/w/william_shakespeares_romeo_.htm",
       "title": "William Shakespeare's Romeo + Juliet"
@@ -83563,7 +85047,7 @@
     },
     "the wishmaster": {
       "imdb_id": "tt6724164",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.0",
       "kim_rating": "1.9.6",
       "url": "https://kids-in-mind.com/w/wishmaster_1997__196.htm",
       "title": "The Wishmaster"
@@ -83590,8 +85074,8 @@
       "title": "The Witches"
     },
     "with a friend like harry": {
-      "imdb_id": "N/A",
-      "imdb_rating": "N/A",
+      "imdb_id": "tt0216800",
+      "imdb_rating": "7.1",
       "kim_rating": "4.6.6",
       "url": "https://kids-in-mind.com/w/with_a_friend_like_harry_2001.htm",
       "title": "With A Friend Like Harry"
@@ -84571,7 +86055,7 @@
     },
     "merrily we roll along": {
       "imdb_id": "tt32641442",
-      "imdb_rating": "N/A",
+      "imdb_rating": "7.4",
       "kim_rating": "3.2.5",
       "url": "https://kids-in-mind.com/m/merrily-we-roll-along-parents-guide-movie-review-rating.htm",
       "title": "Merrily We Roll Along"
@@ -84669,7 +86153,7 @@
     },
     "28 years later: the bone temple": {
       "imdb_id": "tt32141377",
-      "imdb_rating": "N/A",
+      "imdb_rating": "7.7",
       "kim_rating": "7.10.9",
       "url": "https://kids-in-mind.com/t/28-years-later-the-bone-temple-parents-guide-movie-review-rating.htm",
       "title": "28 Years Later: The Bone Temple"
@@ -84704,7 +86188,7 @@
     },
     "melania": {
       "imdb_id": "tt35291758",
-      "imdb_rating": "N/A",
+      "imdb_rating": "1.4",
       "kim_rating": "1.3.1",
       "url": "https://kids-in-mind.com/m/melania-parents-guide-movie-review-rating.htm",
       "title": "Melania"
@@ -84718,17 +86202,52 @@
     },
     "shelter": {
       "imdb_id": "tt32357218",
-      "imdb_rating": "N/A",
+      "imdb_rating": "6.5",
       "kim_rating": "1.7.5",
       "url": "https://kids-in-mind.com/s/shelter-parents-guide-movie-review-rating.htm",
       "title": "Shelter"
     },
     "solo mio": {
       "imdb_id": "tt32306991",
-      "imdb_rating": "N/A",
+      "imdb_rating": "7.6",
       "kim_rating": "3.3.2",
       "url": "https://kids-in-mind.com/s/solo-mio-parents-guide-movie-review-rating.htm",
       "title": "Solo Mio"
+    },
+    "crime 101": {
+      "imdb_id": "tt32430579",
+      "imdb_rating": "7.2",
+      "kim_rating": "6.6.10",
+      "url": "https://kids-in-mind.com/c/crime-101-parents-guide-movie-review-rating.htm",
+      "title": "Crime 101"
+    },
+    "dracula": {
+      "imdb_id": "tt31434030",
+      "imdb_rating": "6.2",
+      "kim_rating": "6.7.2",
+      "url": "https://kids-in-mind.com/d/dracula-parents-guide-movie-review-rating.htm",
+      "title": "Dracula"
+    },
+    "goat": {
+      "imdb_id": "tt27613895",
+      "imdb_rating": "6.9",
+      "kim_rating": "1.2.2",
+      "url": "https://kids-in-mind.com/g/goat-parents-guide-movie-review-rating.htm",
+      "title": "GOAT"
+    },
+    "good luck, have fun, don’t die": {
+      "imdb_id": "tt1341338",
+      "imdb_rating": "7.6",
+      "kim_rating": "7.7.10",
+      "url": "https://kids-in-mind.com/g/good-luck-have-fun-dont-die-parents-guide-movie-review-rating.htm",
+      "title": "Good Luck, Have Fun, Don’t Die"
+    },
+    "wuthering heights": {
+      "imdb_id": "tt32897959",
+      "imdb_rating": "6.3",
+      "kim_rating": "8.5.5",
+      "url": "https://kids-in-mind.com/w/wuthering-heights-parents-guide-movie-review-rating.htm",
+      "title": "Wuthering Heights"
     }
   }
 }
