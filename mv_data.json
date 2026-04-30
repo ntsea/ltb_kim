@@ -43484,6 +43484,41 @@
       "url": "https://kids-in-mind.com/y/you-me-tuscany-parents-guide-movie-review-rating.htm",
       "title": "You, Me & Tuscany"
     },
+    "tt13570066": {
+      "imdb_id": "tt13570066",
+      "imdb_rating": "N/A",
+      "kim_rating": "2.5.1",
+      "url": "https://kids-in-mind.com/d/desert-warrior-parents-guide-movie-review-rating.htm",
+      "title": "Desert Warrior"
+    },
+    "tt32612507": {
+      "imdb_id": "tt32612507",
+      "imdb_rating": "6.5",
+      "kim_rating": "2.9.6",
+      "url": "https://kids-in-mind.com/l/lee-cronins-the-mummy-parents-guide-movie-review-rating.htm",
+      "title": "Lee Cronin’s the Mummy"
+    },
+    "tt11378946": {
+      "imdb_id": "tt11378946",
+      "imdb_rating": "N/A",
+      "kim_rating": "2.4.4",
+      "url": "https://kids-in-mind.com/m/michael-2026-parents-guide-movie-review-rating.htm",
+      "title": "Michael"
+    },
+    "tt27200708": {
+      "imdb_id": "tt27200708",
+      "imdb_rating": "4.0",
+      "kim_rating": "5.5.5",
+      "url": "https://kids-in-mind.com/m/mother-mary-parents-guide-movie-review-rating.htm",
+      "title": "Mother Mary"
+    },
+    "tt31195136": {
+      "imdb_id": "tt31195136",
+      "imdb_rating": "6.9",
+      "kim_rating": "1.8.8",
+      "url": "https://kids-in-mind.com/n/normal-parents-guide-movie-review-rating.htm",
+      "title": "Normal"
+    },
     "tt0004972": {
       "imdb_id": "tt0004972",
       "imdb_rating": "6.1",
@@ -118968,10 +119003,10 @@
       "title": "Miami Vice"
     },
     "michael": {
-      "imdb_id": "tt0168070",
-      "imdb_rating": "8.5",
-      "kim_rating": "2.2.2",
-      "url": "https://kids-in-mind.com/m/michael_1997__222.htm",
+      "imdb_id": "tt11378946",
+      "imdb_rating": "N/A",
+      "kim_rating": "2.4.4",
+      "url": "https://kids-in-mind.com/m/michael-2026-parents-guide-movie-review-rating.htm",
       "title": "Michael"
     },
     "michael clayton": {
@@ -137362,6 +137397,34 @@
       "kim_rating": "3.2.5",
       "url": "https://kids-in-mind.com/y/you-me-tuscany-parents-guide-movie-review-rating.htm",
       "title": "You, Me & Tuscany"
+    },
+    "desert warrior": {
+      "imdb_id": "tt13570066",
+      "imdb_rating": "N/A",
+      "kim_rating": "2.5.1",
+      "url": "https://kids-in-mind.com/d/desert-warrior-parents-guide-movie-review-rating.htm",
+      "title": "Desert Warrior"
+    },
+    "lee cronin’s the mummy": {
+      "imdb_id": "tt32612507",
+      "imdb_rating": "6.5",
+      "kim_rating": "2.9.6",
+      "url": "https://kids-in-mind.com/l/lee-cronins-the-mummy-parents-guide-movie-review-rating.htm",
+      "title": "Lee Cronin’s the Mummy"
+    },
+    "mother mary": {
+      "imdb_id": "tt27200708",
+      "imdb_rating": "4.0",
+      "kim_rating": "5.5.5",
+      "url": "https://kids-in-mind.com/m/mother-mary-parents-guide-movie-review-rating.htm",
+      "title": "Mother Mary"
+    },
+    "normal": {
+      "imdb_id": "tt31195136",
+      "imdb_rating": "6.9",
+      "kim_rating": "1.8.8",
+      "url": "https://kids-in-mind.com/n/normal-parents-guide-movie-review-rating.htm",
+      "title": "Normal"
     },
     "intolerance": {
       "imdb_id": "tt0006864",
