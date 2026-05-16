@@ -43500,7 +43500,7 @@
     },
     "tt11378946": {
       "imdb_id": "tt11378946",
-      "imdb_rating": "N/A",
+      "imdb_rating": "7.7",
       "kim_rating": "2.4.4",
       "url": "https://kids-in-mind.com/m/michael-2026-parents-guide-movie-review-rating.htm",
       "title": "Michael"
@@ -43518,6 +43518,62 @@
       "kim_rating": "1.8.8",
       "url": "https://kids-in-mind.com/n/normal-parents-guide-movie-review-rating.htm",
       "title": "Normal"
+    },
+    "tt2467700": {
+      "imdb_id": "tt2467700",
+      "imdb_rating": "N/A",
+      "kim_rating": "2.4.2",
+      "url": "https://kids-in-mind.com/a/animal-farm-parents-guide-movie-review-rating.htm",
+      "title": "Animal Farm"
+    },
+    "tt29516222": {
+      "imdb_id": "tt29516222",
+      "imdb_rating": "6.9",
+      "kim_rating": "3.9.5",
+      "url": "https://kids-in-mind.com/d/deep-water-2026-parents-guide-movie-review-rating.htm",
+      "title": "Deep Water"
+    },
+    "tt33612209": {
+      "imdb_id": "tt33612209",
+      "imdb_rating": "7.0",
+      "kim_rating": "4.3.5",
+      "url": "https://kids-in-mind.com/d/devil-wears-prada-2-parents-guide-movie-review-rating.htm",
+      "title": "The Devil Wears Prada 2"
+    },
+    "tt34379307": {
+      "imdb_id": "tt34379307",
+      "imdb_rating": "N/A",
+      "kim_rating": "6.8.5",
+      "url": "https://kids-in-mind.com/i/is-god-is-parents-guide-movie-review-rating.htm",
+      "title": "Is God Is"
+    },
+    "tt17490712": {
+      "imdb_id": "tt17490712",
+      "imdb_rating": "N/A",
+      "kim_rating": "1.9.9",
+      "url": "https://kids-in-mind.com/m/mortal-kombat-ii-parents-guide-movie-review-rating.htm",
+      "title": "Mortal Kombat II"
+    },
+    "tt0096283": {
+      "imdb_id": "tt0096283",
+      "imdb_rating": "8.1",
+      "kim_rating": "3.2.1",
+      "url": "https://kids-in-mind.com/m/my-neighbor-totoro-parents-guide-movie-review-rating.htm",
+      "title": "My Neighbor Totoro"
+    },
+    "tt37287335": {
+      "imdb_id": "tt37287335",
+      "imdb_rating": "7.6",
+      "kim_rating": "7.8.10",
+      "url": "https://kids-in-mind.com/o/obsession-parents-guide-movie-review-rating.htm",
+      "title": "Obsession"
+    },
+    "tt32565993": {
+      "imdb_id": "tt32565993",
+      "imdb_rating": "N/A",
+      "kim_rating": "1.3.1",
+      "url": "https://kids-in-mind.com/s/sheep-detectives-parents-guide-movie-review-rating.htm",
+      "title": "The Sheep Detectives"
     },
     "tt0004972": {
       "imdb_id": "tt0004972",
@@ -58260,13 +58316,6 @@
       "kim_rating": "N/A",
       "url": "N/A",
       "title": "The Thin Blue Line"
-    },
-    "tt0096283": {
-      "imdb_id": "tt0096283",
-      "imdb_rating": "8.1",
-      "kim_rating": "N/A",
-      "url": "N/A",
-      "title": "My Neighbor Totoro"
     },
     "tt0096288": {
       "imdb_id": "tt0096288",
@@ -103449,10 +103498,10 @@
       "title": "Deep Rising"
     },
     "deep water": {
-      "imdb_id": "tt2180339",
-      "imdb_rating": "5.5",
-      "kim_rating": "7.6.8",
-      "url": "https://kids-in-mind.com/d/deep-water-parents-guide-movie-review-rating.htm",
+      "imdb_id": "tt29516222",
+      "imdb_rating": "6.9",
+      "kim_rating": "3.9.5",
+      "url": "https://kids-in-mind.com/d/deep-water-2026-parents-guide-movie-review-rating.htm",
       "title": "Deep Water"
     },
     "deepwater horizon": {
@@ -119004,7 +119053,7 @@
     },
     "michael": {
       "imdb_id": "tt11378946",
-      "imdb_rating": "N/A",
+      "imdb_rating": "7.7",
       "kim_rating": "2.4.4",
       "url": "https://kids-in-mind.com/m/michael-2026-parents-guide-movie-review-rating.htm",
       "title": "Michael"
@@ -137426,6 +137475,55 @@
       "url": "https://kids-in-mind.com/n/normal-parents-guide-movie-review-rating.htm",
       "title": "Normal"
     },
+    "animal farm": {
+      "imdb_id": "tt2467700",
+      "imdb_rating": "N/A",
+      "kim_rating": "2.4.2",
+      "url": "https://kids-in-mind.com/a/animal-farm-parents-guide-movie-review-rating.htm",
+      "title": "Animal Farm"
+    },
+    "the devil wears prada 2": {
+      "imdb_id": "tt33612209",
+      "imdb_rating": "7.0",
+      "kim_rating": "4.3.5",
+      "url": "https://kids-in-mind.com/d/devil-wears-prada-2-parents-guide-movie-review-rating.htm",
+      "title": "The Devil Wears Prada 2"
+    },
+    "is god is": {
+      "imdb_id": "tt34379307",
+      "imdb_rating": "N/A",
+      "kim_rating": "6.8.5",
+      "url": "https://kids-in-mind.com/i/is-god-is-parents-guide-movie-review-rating.htm",
+      "title": "Is God Is"
+    },
+    "mortal kombat ii": {
+      "imdb_id": "tt17490712",
+      "imdb_rating": "N/A",
+      "kim_rating": "1.9.9",
+      "url": "https://kids-in-mind.com/m/mortal-kombat-ii-parents-guide-movie-review-rating.htm",
+      "title": "Mortal Kombat II"
+    },
+    "my neighbor totoro": {
+      "imdb_id": "tt0096283",
+      "imdb_rating": "8.1",
+      "kim_rating": "3.2.1",
+      "url": "https://kids-in-mind.com/m/my-neighbor-totoro-parents-guide-movie-review-rating.htm",
+      "title": "My Neighbor Totoro"
+    },
+    "obsession": {
+      "imdb_id": "tt37287335",
+      "imdb_rating": "7.6",
+      "kim_rating": "7.8.10",
+      "url": "https://kids-in-mind.com/o/obsession-parents-guide-movie-review-rating.htm",
+      "title": "Obsession"
+    },
+    "the sheep detectives": {
+      "imdb_id": "tt32565993",
+      "imdb_rating": "N/A",
+      "kim_rating": "1.3.1",
+      "url": "https://kids-in-mind.com/s/sheep-detectives-parents-guide-movie-review-rating.htm",
+      "title": "The Sheep Detectives"
+    },
     "intolerance": {
       "imdb_id": "tt0006864",
       "imdb_rating": "7.6",
@@ -139819,13 +139917,6 @@
       "kim_rating": "N/A",
       "url": "N/A",
       "title": "All That Heaven Allows"
-    },
-    "animal farm": {
-      "imdb_id": "tt0047834",
-      "imdb_rating": "7.2",
-      "kim_rating": "N/A",
-      "url": "N/A",
-      "title": "Animal Farm"
     },
     "bad day at black rock": {
       "imdb_id": "tt0047849",
@@ -144705,13 +144796,6 @@
       "kim_rating": "N/A",
       "url": "N/A",
       "title": "Network"
-    },
-    "obsession": {
-      "imdb_id": "tt0074991",
-      "imdb_rating": "6.7",
-      "kim_rating": "N/A",
-      "url": "N/A",
-      "title": "Obsession"
     },
     "the outlaw josey wales": {
       "imdb_id": "tt0075029",
@@ -150802,13 +150886,6 @@
       "kim_rating": "N/A",
       "url": "N/A",
       "title": "The Thin Blue Line"
-    },
-    "my neighbor totoro": {
-      "imdb_id": "tt0096283",
-      "imdb_rating": "8.1",
-      "kim_rating": "N/A",
-      "url": "N/A",
-      "title": "My Neighbor Totoro"
     },
     "landscape in the mist": {
       "imdb_id": "tt0096288",
